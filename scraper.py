@@ -1,6 +1,7 @@
 from classes import Request
 from classes import Season
 from classes import Game
+from stats import *
 import codecs 
 import re
 import csv
@@ -13,6 +14,38 @@ team_list   = []
 games_list  = []
 player_data = []
 rows        = {}
+
+def statType(stat_type):
+    print(stat_type)
+    if stat_type == 'kicking':
+        return Kicking()
+    
+    if stat_type == 'receiving':
+        return Receiving()
+    
+    if stat_type == 'defense':
+        return Defense()
+    
+    if stat_type == 'rushing':
+        return Rushing()
+    
+    if stat_type == 'puntret':
+        return PuntReturns()
+    
+    if stat_type == 'passing':
+        return Passing()
+    
+    if stat_type == 'fumbles':
+        return Fumbles()
+    
+    if stat_type == 'kickret':
+        print('kickret')
+        return KickReturns()
+    
+    if stat_type == 'punting':
+        return Punting()
+
+
 
 class Teams(object):
 
@@ -76,6 +109,7 @@ class Teams(object):
             writer = csv.writer(f)
             for row in set(player_data):
                 writer.writerow([row])
+
 class GameStats(object):
 
     def __init__(self, csv_path):
@@ -119,7 +153,6 @@ class GameStats(object):
             row_format += "{:>" + str(width+4) +"}"
             row_length += width + 4
 
-        print(row_format.format(*self.key).strip())
         for key, stats in zip(self.key, self.stats[:len(self.stats)]):
             print("-" * row_length);
             print(row_format.format(*stats).strip())
@@ -131,14 +164,29 @@ class GameStats(object):
         data = json.loads(request.response.decode('utf-8'))
         form = "{}" * (len(data["2017090700"])- 1)
         stats = data["2017090700"]["home"]["stats"]
-
+        players = {}
         for index, section in enumerate(stats): 
             if section == "team":
                 continue
-            print(section)
-            for i in stats[section]:
-                var = i
-                print(stats[section][i])
+
+            for player in stats[section]: 
+                if not players.get(player):
+                    players[player] = {}
+                if not players[player].get(section):
+                    players[player][section] = statType(section)
+                players[player].get(section).addStat(stats[section][player])
+                
+            for player in players: 
+                for stat in players[player]:
+                    print(player + '   ' +  stat)
+                    players[player].get(stat).save(player + '_' + stat + '.csv')
+
+
+        #     curr_stats = Kicking();
+        #     for i in stats[section]:
+        #         curr_stats.addStat(stats[section][i])
+        #     curr_stats.displayTable()            
+
 
         # for table in request.response:
             # print(table)

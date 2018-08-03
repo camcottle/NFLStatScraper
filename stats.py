@@ -30,8 +30,9 @@ class Stats(object):
                 self.stats.append(stat)
             self.stats.pop()
 
-    def addStats(self, rows):
-        self.stats = [rows] + self.stats
+    def addStat(self, row):
+        row = self.formatRow(row)
+        self.stats.append(row)
 
     def save(self, path):
         if not path and not self.path:
@@ -46,38 +47,99 @@ class Stats(object):
                 if not len(row) == 0:
                     writer.writerow(row)
 
-
     def displayTable(self):
         if not self.stats:
             print('no data loaded');
             return 
+
         columns = 0
         column_widths = []
 
-        for row in self.stats[2:]: 
+        stats = self.stats;
+
+        if self.keys():
+            stats = [self.keys()] + self.stats
+
+        for row in stats: 
             if len(row) > columns:
                 columns = len(row)
             for index, data in enumerate(row):
                 if len(column_widths) <= index:
                     column_widths.append(0)
-                if column_widths[index] < len(data):
-                    column_widths[index] = len(data)
+                if column_widths[index] < len(str(data)):
+                    column_widths[index] = len(str(data))
 
         row_format = ""
         row_length = 0
         for width in column_widths:
-            row_format += "{:>" + str(width+4) +"}"
-            row_length += width + 4
+            row_format += "{:>" + str(width+3) +"}"
+            row_length += width + 3
 
-        for stats in self.stats[:len(self.stats)]:
+        for stat in stats:
             print("-" * row_length);
-            print(row_format.format(*stats).strip())
+            print(row_format.format(*stat).strip())
+
+    def formatRow(self, stat):
+        
+        formatted_row = []
+        for stat_item in self.keys():
+            if not stat.get(stat_item): 
+                formatted_row.append(0);
+                continue
+            formatted_row.append(stat.get(stat_item));
+
+        return formatted_row
 
 
 
-stats = Stats()
-stats.load('players/alex_smith/defensive.csv')
-stats.addStats(['2018','Washington Redskins',"15",'2','2','0','0.0','0','0',"--","--","--",'0.0',"--"])
-os.system('clear')
-stats.save('alex_smith_updated.csv');
-stats.displayTable()
+
+class Defense(Stats):
+    @staticmethod
+    def keys(): 
+        return ['ffum','int','ast','tkl','sk']
+
+
+class Rushing(Stats):
+
+    @staticmethod
+    def keys(): 
+        return ['lngtd','twoptm','yds','att','tds', 'lng', 'twopta']
+
+
+class PuntReturns(Stats):
+    @staticmethod
+    def keys(): 
+        return ['avg', "lng", "tds", "lng", "ret"]
+
+
+class Passing(Stats):
+    @staticmethod
+    def keys(): 
+        return ['ints', 'cmp', 'twoptm', 'yds', 'att', 'tds', "twopta"]
+
+
+class Fumbles(Stats):
+    @staticmethod
+    def keys(): 
+        return ['yds', 'trcv', 'rcv', 'lost', 'tot']
+
+class Kicking(Stats):
+    @staticmethod
+    def keys(): 
+        return ['fgyds', 'fga', 'xpa', 'totpfg', 'xpb', 'xpmade','fgm', 'xptot', 'xpmissed']
+
+class KickReturns(Stats):
+    @staticmethod
+    def keys(): 
+        return ['avg', 'lngtd', 'tds', 'lng', 'ret']
+
+class Receiving(Stats):
+    @staticmethod
+    def keys(): 
+        return ['twoptm', 'rec', 'yds', 'lngtd', 'tds', 'lng', 'twopta']
+
+class Punting(Stats):
+    @staticmethod
+    def keys(): 
+        return ['pts', 'yds', 'avg', 'i20', 'lng']
+
