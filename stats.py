@@ -13,22 +13,20 @@ class Stats(object):
 
     def load(self, path):
         self.path = path
+        if not os.path.exists(path):
+            # print("doesn't exist")
+            with open(path, 'w', newline="") as file: 
+                pass
         with open(path, 'r', newline="") as file:
             rows = [line.split(",") for line in file]
             for i,x in enumerate(rows):
-                if i == 0:
-                    self.title = x[0]
-                    continue
-                if i == 1:
-                    self.key = x
-                    continue
 
                 stat = []
                 for data in x:
                     stat.append(data.strip())
 
                 self.stats.append(stat)
-            self.stats.pop()
+                
 
     def addStat(self, row):
         row = self.formatRow(row)
@@ -41,7 +39,8 @@ class Stats(object):
         
         save_path = path
 
-        with open(save_path, 'w+', newline="") as f:
+
+        with open(save_path, 'w', newline="") as f:
             writer = csv.writer(f)
             for row in self.stats:
                 if not len(row) == 0:
@@ -96,50 +95,50 @@ class Stats(object):
 class Defense(Stats):
     @staticmethod
     def keys(): 
-        return ['ffum','int','ast','tkl','sk']
+        return ['game_id', "side", 'ffum','int','ast','tkl','sk']
 
 
 class Rushing(Stats):
 
     @staticmethod
     def keys(): 
-        return ['lngtd','twoptm','yds','att','tds', 'lng', 'twopta']
+        return ['game_id', "side", 'lngtd','twoptm','yds','att','tds', 'lng', 'twopta']
 
 
 class PuntReturns(Stats):
     @staticmethod
     def keys(): 
-        return ['avg', "lng", "tds", "lng", "ret"]
+        return [ 'game_id', "side", 'avg', "lng", "tds", "lng", "ret"]
 
 
 class Passing(Stats):
     @staticmethod
     def keys(): 
-        return ['ints', 'cmp', 'twoptm', 'yds', 'att', 'tds', "twopta"]
+        return [ 'game_id', "side", 'ints', 'cmp', 'twoptm', 'yds', 'att', 'tds', "twopta"]
 
 
 class Fumbles(Stats):
     @staticmethod
     def keys(): 
-        return ['yds', 'trcv', 'rcv', 'lost', 'tot']
+        return [ 'game_id', "side", 'yds', 'trcv', 'rcv', 'lost', 'tot']
 
 class Kicking(Stats):
     @staticmethod
     def keys(): 
-        return ['fgyds', 'fga', 'xpa', 'totpfg', 'xpb', 'xpmade','fgm', 'xptot', 'xpmissed']
+        return [ 'game_id', "side", 'fgyds', 'fga', 'xpa', 'totpfg', 'xpb', 'xpmade','fgm', 'xptot', 'xpmissed']
 
 class KickReturns(Stats):
     @staticmethod
     def keys(): 
-        return ['avg', 'lngtd', 'tds', 'lng', 'ret']
+        return [ 'game_id', "side", 'avg', 'lngtd', 'tds', 'lng', 'ret']
 
 class Receiving(Stats):
     @staticmethod
     def keys(): 
-        return ['twoptm', 'rec', 'yds', 'lngtd', 'tds', 'lng', 'twopta']
+        return [ 'game_id', "side", 'twoptm', 'rec', 'yds', 'lngtd', 'tds', 'lng', 'twopta']
 
 class Punting(Stats):
     @staticmethod
     def keys(): 
-        return ['pts', 'yds', 'avg', 'i20', 'lng']
+        return [ 'game_id', "side", 'pts', 'yds', 'avg', 'i20', 'lng']
 

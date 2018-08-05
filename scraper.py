@@ -16,7 +16,6 @@ player_data = []
 rows        = {}
 
 def statType(stat_type):
-    print(stat_type)
     if stat_type == 'kicking':
         return Kicking()
     
@@ -39,7 +38,6 @@ def statType(stat_type):
         return Fumbles()
     
     if stat_type == 'kickret':
-        print('kickret')
         return KickReturns()
     
     if stat_type == 'punting':
@@ -75,6 +73,7 @@ class Teams(object):
             2015,
             2016,
             2017,
+            2018
         ]
         for year in years: 
             for path in paths:
@@ -159,71 +158,40 @@ class GameStats(object):
 
 
     @staticmethod
-    def scrape(path):
-        request = Request("http://www.nfl.com/" + path)
+    def scrape(game_id):
+        url = "liveupdate/game-center/{}/{}_gtd.json".format(game_id, game_id)
+        request = Request("http://www.nfl.com/" + url)
         data = json.loads(request.response.decode('utf-8'))
-        form = "{}" * (len(data["2017090700"])- 1)
-        stats = data["2017090700"]["home"]["stats"]
-        players = {}
-        for index, section in enumerate(stats): 
-            if section == "team":
-                continue
 
-            for player in stats[section]: 
-                if not players.get(player):
-                    players[player] = {}
-                if not players[player].get(section):
-                    players[player][section] = statType(section)
-                players[player].get(section).addStat(stats[section][player])
-                
-            for player in players: 
-                for stat in players[player]:
-                    print(player + '   ' +  stat)
-                    players[player].get(stat).save(player + '_' + stat + '.csv')
-
-
-        #     curr_stats = Kicking();
-        #     for i in stats[section]:
-        #         curr_stats.addStat(stats[section][i])
-        #     curr_stats.displayTable()            
-
-
-        # for table in request.response:
-            # print(table)
-            # rows = table.findChildren("tr", {"class": })
-
-            # print(table)
-        #     stat_table = []
-        #     for row in rows:
-        #         stat_row = []
-        #         for data in row.findChildren("td"):
-        #             if data.findChildren("a"):
-        #                 # link = data.findChildren("a");
-        #                 stat_row.append(data.findChildren("a")[0].contents[0])
-        #                 continue
-        #             if data.findChildren("div"):
-        #                 # link = data.findChildren("div");
-        #                 stat_row.append(data.findChildren("div")[0].contents[0])
-        #                 continue
-        #             if not len(data.contents):
-        #                 continue
-        #             stat_row.append(data.contents[0])
-
-        #         stat_table.append(stat_row)
-        #     stats.append(stat_table)
+        form = "{}" * (len(data[game_id])- 1)
+        sides = [data[game_id]["home"], data[game_id]["away"]]
         
-        # if not os.path.exists("players/" + name):
-        #     os.makedirs("players/" + name)
-        # for stat in stats: 
-        #     stat_name = str(stat[0][0]).lower()
-        #     print(stat_name, name)
-        #     with open('players/' + name + '/' + stat_name.replace(' ', "_") + '.csv', 'w+', newline="") as f:
-        #         writer = csv.writer(f)
-        #         for row in stat[1:]:
-        #             if not len(row) == 0:
-        #                 writer.writerow(row)
+        players = {}
 
+        for side_index, side in enumerate(sides):
+            for index, section in enumerate(side["stats"]): 
+                stats = side["stats"]
+                if section == "team" or section == "score":
+                    continue
 
+                for player in stats[section]: 
+                    if not players.get(player):
+                        players[player] = {}
+                    if not players[player].get(section):
+                        players[player][section] = statType(section)
+                    if not os.path.exists("unidd/" + player):
+                        os.makedirs("unidd/" + player)
+
+                    player_stats = stats[section][player]
+                    player_stats['game_id'] = game_id
+                    player_stats['side'] = side_index
+
+                    players[player].get(section).load("unidd/" + player + '/' + section + '.csv')
+                    players[player].get(section).addStat(stats[section][player])
+                    
+                for player in players: 
+                    for stat in players[player]:
+                        players[player].get(stat).save("unidd/" + player + '/' + stat + '.csv')
 
 
 class PlayerStats(object):
@@ -387,10 +355,19 @@ class PlayerStats(object):
 #     print("Scraping players: " + str(round(percentage, 2)) + "% Completed   (" + str(index) + " of " + str(len(players)) + ")")
 #     print("Current player path: " + player)
 #     PlayerStats.scrape(player)
-
-
-games = ["liveupdate/game-center/2017090700/2017090700_gtd.json"]
-for game in games:
+games = []
+with open("games.csv", 'r', newline="") as file:
+    rows = [line.split(",") for line in file]
+    for i,x in enumerate(rows):
+        for data in x:
+            games.append(re.search('[0-9]{10}', data).group(0))
+            # stat.append(data.search('').strip())
+# print(games)
+for index, game in enumerate(games):
+    percentage = ((index + 1)/len(games)) * 100
+    os.system('clear');
+    print("Scraping games: " + str(round(percentage, 2)) + "% Completed   (" + str(index) + " of " + str(len(games)) + ")")
+    print("Current game id: " + game)
     GameStats.scrape(game);
 
 # # for link in scraper.response_html.find_all('a'):
