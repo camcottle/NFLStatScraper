@@ -2,3 +2,6 @@ players/
 stats/
 unidd/
 teams/
+*.pyo
+*.pyc
+__pycache__/
