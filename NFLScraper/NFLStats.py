@@ -3,7 +3,7 @@ import os
 import json
 
 
-class Stats(object):
+class NFLStats(object):
 
     def __init__(self):
         self.title = "" 
@@ -26,6 +26,7 @@ class Stats(object):
                     stat.append(data.strip())
 
                 self.stats.append(stat)
+            file.close()
                 
 
     def addStat(self, row):
@@ -36,15 +37,14 @@ class Stats(object):
         if not path and not self.path:
             print('you must specify a destination')
             return
-        
-        save_path = path
 
 
-        with open(save_path, 'w', newline="") as f:
+        with open(self.path, 'w', newline="") as f:
             writer = csv.writer(f)
             for row in self.stats:
                 if not len(row) == 0:
                     writer.writerow(row)
+            f.close()
 
     def displayTable(self):
         if not self.stats:
@@ -92,53 +92,53 @@ class Stats(object):
 
 
 
-class Defense(Stats):
+class NFLDefenseStats(NFLStats):
     @staticmethod
     def keys(): 
-        return ['game_id', "side", 'ffum','int','ast','tkl','sk']
+        return ['id', 'player_id', 'name', "side", 'ffum', 'int', 'ast', 'tkl', 'sk']
 
 
-class Rushing(Stats):
+class NFLRushingStats(NFLStats):
 
     @staticmethod
     def keys(): 
-        return ['game_id', "side", 'lngtd','twoptm','yds','att','tds', 'lng', 'twopta']
+        return ['id', 'player_id', 'name', "side", 'lngtd', 'twoptm', 'yds', 'att', 'tds', 'lng', 'twopta']
 
 
-class PuntReturns(Stats):
+class NFLPuntReturnsStats(NFLStats):
     @staticmethod
     def keys(): 
-        return [ 'game_id', "side", 'avg', "lng", "tds", "lng", "ret"]
+        return [ 'id', 'player_id', 'name', "side", 'avg', "lng", "tds", "lng", "ret"]
 
 
-class Passing(Stats):
+class NFLPassingStats(NFLStats):
     @staticmethod
     def keys(): 
-        return [ 'game_id', "side", 'ints', 'cmp', 'twoptm', 'yds', 'att', 'tds', "twopta"]
+        return [ 'id', 'player_id', 'name', "side", 'ints', 'cmp', 'twoptm', 'yds', 'att', 'tds', "twopta"]
 
 
-class Fumbles(Stats):
+class NFLFumblesStats(NFLStats):
     @staticmethod
     def keys(): 
-        return [ 'game_id', "side", 'yds', 'trcv', 'rcv', 'lost', 'tot']
+        return [ 'id', 'player_id', 'name', "side", 'yds', 'trcv', 'rcv', 'lost', 'tot']
 
-class Kicking(Stats):
+class NFLKickingStats(NFLStats):
     @staticmethod
     def keys(): 
-        return [ 'game_id', "side", 'fgyds', 'fga', 'xpa', 'totpfg', 'xpb', 'xpmade','fgm', 'xptot', 'xpmissed']
+        return [ 'id', 'player_id', 'name', "side", 'fgyds', 'fga', 'xpa', 'totpfg', 'xpb', 'xpmade','fgm', 'xptot', 'xpmissed']
 
-class KickReturns(Stats):
+class NFLKickReturnsStats(NFLStats):
     @staticmethod
     def keys(): 
-        return [ 'game_id', "side", 'avg', 'lngtd', 'tds', 'lng', 'ret']
+        return [ 'id', 'player_id', 'name', "side", 'avg', 'lngtd', 'tds', 'lng', 'ret']
 
-class Receiving(Stats):
+class NFLReceivingStats(NFLStats):
     @staticmethod
     def keys(): 
-        return [ 'game_id', "side", 'twoptm', 'rec', 'yds', 'lngtd', 'tds', 'lng', 'twopta']
+        return [ 'id', 'player_id', 'name', "side", 'twoptm', 'rec', 'yds', 'lngtd', 'tds', 'lng', 'twopta']
 
-class Punting(Stats):
+class NFLPuntingStats(NFLStats):
     @staticmethod
     def keys(): 
-        return [ 'game_id', "side", 'pts', 'yds', 'avg', 'i20', 'lng']
+        return [ 'id', 'player_id', 'name', "side", 'pts', 'yds', 'avg', 'i20', 'lng']
 
