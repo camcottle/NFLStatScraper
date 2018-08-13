@@ -14,7 +14,8 @@ class Player(object):
         stats         = kwargs.get('stats', {})
         
         for stat in stats:
-            self.addStat(stat, stats[stat])
+            for line in stats[stat]:
+                self.addStat(stat, line)
 
     def listStats(self): 
         return self.stats;

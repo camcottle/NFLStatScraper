@@ -15,7 +15,7 @@ class Schedule(object):
 
 
     def scrape(self):
-        print(str(self.current_week) + ', ' + str(self.season_type))
+        # print(str(self.current_week) + ', ' + str(self.season_type))
         html = self.sendRequest(self.current_week, self.season_type)
         document = BeautifulSoup(html, 'html.parser');
 

@@ -1,9 +1,8 @@
 import urllib.request
 from bs4 import BeautifulSoup
 import re
-from .Season import Season
 
-class GameScraper(object):
+class Game(object):
 
     def __init__(self, game_id, side=0):
         self.game_id = game_id
@@ -16,9 +15,6 @@ class GameScraper(object):
     def scrape(self):
         html = self.sendRequest()
         document = BeautifulSoup(html.decode('utf-8'), 'lxml')
-        # text_file = open("output.html", "w");
-        # text_file.write(str(html.decode('utf-8')))
-        # text_file.close()
         boxscores = document.find_all(id=re.compile('^gamepackage-[a-z]+$'));
 
         stats = [
@@ -50,13 +46,14 @@ class GameScraper(object):
                         if stat_data.a:
                             link = stat_data.a.get("href")
                         player_name = stat_data.span.get_text()
-                        if link and re.search('[0-9]{5,7}', link):
-                            current_player = re.search('[0-9]{5,7}', link).group(0)
+                        if link and re.search('[0-9]{3,7}', link):
+                            current_player = re.search('[0-9]{3,7}', link).group(0)
                         if not self.hasPlayer(current_player):
                             self.addPlayer(player_name, current_player)
 
                         continue
                     player_stats[stat_column] = stat_data.get_text()
+                    player_stats['game_id']   = self.game_id
 
                 self.addStat(current_player, stat, player_stats);
 
@@ -86,9 +83,8 @@ class GameScraper(object):
     def addStat(self, player_id, stat, player_stats):
         if not stat in self.players[player_id]['stats']:
             self.players[player_id]['stats'][stat] = []
-        self.players[player_id]['stats'][stat].append(player_stats) 
-        # print(self.players[player_id])
 
+        self.players[player_id]['stats'][stat].append(player_stats) 
         pass
 
         # self.stats[side].append(player_stats)

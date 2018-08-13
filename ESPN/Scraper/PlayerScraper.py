@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 
 
-class Schedule(object):
+class Player(object):
 
     def __init__(self, year):
         self.year = year

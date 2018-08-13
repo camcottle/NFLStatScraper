@@ -1,13 +1,15 @@
-import ESPNScraper
+import ESPN
+import csv
+import os
 
-schedule = ESPNScraper.Schedule(2017);
+schedule = ESPN.Schedule(2017);
 
 # print('getPreSeason')
-schedule.getPreSeason()
+# schedule.getPreSeason()
 schedule.getRegularSeason()
 
-season_deets = {"year": 2001}
-season = ESPNScraper.Season(**season_deets)
+season_deets = {"year": 2017}
+season = ESPN.Season(**season_deets)
 for team in schedule.teams:
     if not season.hasTeam(team['abbr']):
         season.addTeam(team)
@@ -19,33 +21,69 @@ for game in schedule.games:
 for game in season.listGames():
     home = game['home']
     away = game['away']
-    print(game['id'])
-    home_game = ESPNScraper.GameScraper(game['id'], 1)
+    home_game = ESPN.Game(game['id'], 1)
     home_game.scrape()
     for player in home_game.players:
         de_player = home_game.players[player]
-        season.getTeam(home).addPlayer({
-            "name": de_player['name'],
-            "id": de_player['id'],
-            "stats": de_player['stats']
-        })
+        if not season.getTeam(home).hasPlayer(de_player['id']):
+            season.getTeam(home).addPlayer({
+                "name": de_player['name'],
+                "id": de_player['id'],
+                "stats": de_player['stats']
+            })
+        else:
+            for stat_type in de_player['stats']:
+                for line in de_player['stats'][stat_type]:
+                    season.getTeam(home).getPlayer(de_player['id']).addStat(stat_type, line)
 
-    away_game = ESPNScraper.GameScraper(game['id'], 0)
+    away_game = ESPN.Game(game['id'], 0)
     away_game.scrape()
     for player in away_game.players:
         de_player = away_game.players[player]
-        season.getTeam(away).addPlayer({
-            "name": de_player['name'],
-            "id": de_player['id'],
-            "stats": de_player['stats']
-        })
+        if not season.getTeam(away).hasPlayer(de_player['id']):
+            season.getTeam(away).addPlayer({
+                "name": de_player['name'],
+                "id": de_player['id'],
+                "stats": de_player['stats']
+            })
+        else:
+            for stat_type in de_player['stats']:
+                for line in de_player['stats'][stat_type]:
+                    season.getTeam(away).getPlayer(de_player['id']).addStat(stat_type, line)
 
+# Save to CSVs
+if not os.path.exists("teams"):
+    os.mkdir("teams")
 for team in season.listTeams():
-    print(team.name)
+    if not os.path.exists("teams/" + team.name):
+        os.mkdir("teams/" + team.name)
+    
     for player in team.listPlayers():
-        print("\t" + player.name)
+        if not os.path.exists("teams/" + team.name + "/" + player.name):
+            os.mkdir("teams/" + team.name + "/" + player.name)
+    
         for stat in player.listStats():
-            print("\t\t" + stat)
+            with open("teams/" + team.name + "/" + player.name + "/" + stat + ".csv", "w", newline="") as file:
+                player_stats = player.listStats()[stat]
+                print(player_stats)
+
+                keys = player_stats[0].keys()
+
+                writer = csv.DictWriter(file, keys)
+                writer.writeheader()
+                writer.writerows(player_stats)
+
+
+# team = season.getTeam('KC')
+
+
+
+# for player in team.listPlayers():
+#     print("\n" + player.name)
+#     for stat in player.listStats():
+#         print("\t" + stat)
+#         for line in player.listStats()[stat]:
+#             print(line)
 # for player in season.getTeam(season.listGames()[0]['home']).listPlayers():
     # print("\n" + player.name)
     # for stat in player.listStats():
