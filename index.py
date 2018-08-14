@@ -2,13 +2,14 @@ import ESPN
 import csv
 import os
 
-schedule = ESPN.Schedule(2017);
+year = "2017"
+schedule = ESPN.Schedule(year);
 
 # print('getPreSeason')
-# schedule.getPreSeason()
+schedule.getPreSeason()
 schedule.getRegularSeason()
 
-season_deets = {"year": 2017}
+season_deets = {"year": year}
 season = ESPN.Season(**season_deets)
 for team in schedule.teams:
     if not season.hasTeam(team['abbr']):
@@ -51,21 +52,23 @@ for game in season.listGames():
                 for line in de_player['stats'][stat_type]:
                     season.getTeam(away).getPlayer(de_player['id']).addStat(stat_type, line)
 
+year = str(year)
+if not os.path.exists('seasons/' + year):
+    os.mkdir('seasons/' + year)
 # Save to CSVs
-if not os.path.exists("teams"):
-    os.mkdir("teams")
+if not os.path.exists('seasons/' + year + "/teams"):
+    os.mkdir('seasons/' + year + "/teams")
 for team in season.listTeams():
-    if not os.path.exists("teams/" + team.name):
-        os.mkdir("teams/" + team.name)
+    if not os.path.exists('seasons/' + year + "/teams/" + team.name):
+        os.mkdir('seasons/' + year + "/teams/" + team.name)
     
     for player in team.listPlayers():
-        if not os.path.exists("teams/" + team.name + "/" + player.name):
-            os.mkdir("teams/" + team.name + "/" + player.name)
+        if not os.path.exists('seasons/' + year + "/teams/" + team.name + "/" + player.name):
+            os.mkdir('seasons/' + year + "/teams/" + team.name + "/" + player.name)
     
         for stat in player.listStats():
-            with open("teams/" + team.name + "/" + player.name + "/" + stat + ".csv", "w", newline="") as file:
+            with open('seasons/' + year + "/teams/" + team.name + "/" + player.name + "/" + stat + ".csv", "w", newline="") as file:
                 player_stats = player.listStats()[stat]
-                print(player_stats)
 
                 keys = player_stats[0].keys()
 

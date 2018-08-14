@@ -84,6 +84,9 @@ class Game(object):
         if not stat in self.players[player_id]['stats']:
             self.players[player_id]['stats'][stat] = []
 
+        if "qbr" in player_stats:
+            del player_stats['qbr']
+
         self.players[player_id]['stats'][stat].append(player_stats) 
         pass
 
