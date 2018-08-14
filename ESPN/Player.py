@@ -21,7 +21,6 @@ class Player(object):
         return self.stats;
         
     def addStat(self, stat_type, data):
-        # print(stat_type)
         if not stat_type in self.stats:
             self.stats[stat_type] = []
 

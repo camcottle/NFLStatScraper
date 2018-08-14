@@ -63,18 +63,15 @@ class Game(object):
             "id": player_id,
             "stats": {}    
         }
-        # print(self.players)
 
     def getPlayer(self, player_id):
         for player in self.players:
-            # print(player)
             if player == player_id:
                 return self.players[player]
         return False
 
     def hasPlayer(self, player_id):
         for player in self.players:
-            # print(player)
             if player == player_id:
                 return True
 
@@ -89,37 +86,6 @@ class Game(object):
 
         self.players[player_id]['stats'][stat].append(player_stats) 
         pass
-
-        # self.stats[side].append(player_stats)
-
-
-        # print(player_stats)
-
-        # boxscores = document.tbody.next_elements;
-        # for boxscores in document.tbody.next_elements:
-        # print(boxscore[0]);
-
-        # for boxscore in boxscores[1:]:
-        #     print(boxscore.parent.get('tag'))
-        #     for row in boxscore.find_all('tr'):
-        #         if "highlight" in row.get('class', []):
-        #             continue
-        #         de_row = []
-        #         for data in row.find_all("td"):
-        #             classes = data.get('class',[])
-        #             if 'name' in classes:
-        #                 name = data.find_all("span")
-        #                 if len(name):
-        #                     de_row.append(name[0].get_text())
-        #                 # link = data.find_all("a")[0].get("href")
-        #                 continue
-        #             de_row.append(data.get_text())
-
-        #         print(de_row)
-        #     break
-        # tables = boxscore[0].find_all("table", class_="mod-data")
-
-        # print(tables)
 
     def sendRequest(self):
         path = self.path.format(self.game_id)
