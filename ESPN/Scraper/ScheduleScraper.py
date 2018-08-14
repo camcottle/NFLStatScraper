@@ -10,12 +10,11 @@ class Schedule(object):
         self.host = "http://www.espn.com/nfl/schedule/"
         self.path = "_/week/{}/year/{}/seasontype/{}"
 
-        self.teams = {}
+        self.teams = []
         self.games = []
 
 
     def scrape(self):
-        print(str(self.current_week) + ', ' + str(self.season_type))
         html = self.sendRequest(self.current_week, self.season_type)
         document = BeautifulSoup(html, 'html.parser');
 
@@ -83,7 +82,10 @@ class Schedule(object):
                 abbr      = team.contents[0]
                 team_name = team.get('title')
 
-                self.teams[abbr] = team_name
+                self.teams.append({
+                    'abbr': abbr,
+                    'name': team_name
+                })
 
     def sendRequest(self, week=1, seasontype=2):
         path = self.path.format(week, self.year, seasontype)

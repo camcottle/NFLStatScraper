@@ -14,13 +14,13 @@ class Player(object):
         stats         = kwargs.get('stats', {})
         
         for stat in stats:
-            self.addStat(stat, stats[stat])
+            for line in stats[stat]:
+                self.addStat(stat, line)
 
     def listStats(self): 
         return self.stats;
         
     def addStat(self, stat_type, data):
-        # print(stat_type)
         if not stat_type in self.stats:
             self.stats[stat_type] = []
 
