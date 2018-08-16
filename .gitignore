@@ -5,3 +5,4 @@ teams/
 *.pyo
 *.pyc
 __pycache__/
+seasons

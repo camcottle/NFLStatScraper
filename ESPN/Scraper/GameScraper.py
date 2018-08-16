@@ -4,20 +4,76 @@ import re
 
 class Game(object):
 
-    def __init__(self, game_id, side=0):
+    def __init__(self, game_id):
         self.game_id = game_id
-        self.side = side
-        self.host = "http://www.espn.com/nfl/boxscore"
-        self.path = "?gameId={}"
-
-        self.players = {}
+        self.stats = []
 
     def scrape(self):
         html = self.sendRequest()
         document = BeautifulSoup(html.decode('utf-8'), 'lxml')
-        boxscores = document.find_all(id=re.compile('^gamepackage-[a-z]+$'));
+        stat_tables = document.find_all(id=re.compile('^gamepackage-[a-z]+$'));
 
-        stats = [
+        stat_tables = self.filterTables(stat_tables);
+
+        for stat_type in stat_tables:
+            for side, table in enumerate(stat_tables[stat_type].find_all('tbody')):
+
+                self.stats = self.stats + (self.getStats(table, stat_type, side))
+
+    def getHomeTeam(self):
+        if not len(self.stats):
+            self.scrape()
+
+        return [stat for stat in self.stats if stat['side'] == 1]
+
+
+    def getAwayTeam(self):
+        if not len(self.stats):
+            self.scrape()
+
+        return [stat for stat in self.stats if stat['side'] == 0]
+
+    def getStats(self, table, stat_type, home=0):
+        stat_data = []
+
+        for row in table.find_all('tr'):
+            # Skip rows that have only one column or are highlighted
+            # Highlighted rows don't have player information
+            if 'highlight' in row.get('class', []) or len(row.find_all('td')) <= 1:
+                continue
+
+            player = {
+                "id": None,
+                "name": None,
+                "side": home,
+                "stat_type": stat_type,
+                "stat": {}
+            }
+            for data in row.find_all('td'):
+
+                stat_column = data.get('class', [])[0]
+                
+                if stat_column == 'qbr':
+                    continue
+
+                if stat_column == 'name':
+                    if data.a:
+                        link = data.a.get("href")
+                    print(link)
+                    player["id"]   = re.search('[0-9]{1,7}', link).group(0)
+                    player["name"] = data.span.get_text()
+
+                    continue
+
+                player['stat'][stat_column] = data.get_text()
+
+            player['stat']["game_id"] = self.game_id
+            stat_data.append(player)
+
+        return stat_data
+
+    def filterTables(self, stat_tables):
+        allowed_stats = [
             'passing',
             'rushing',
             'receiving',
@@ -27,66 +83,17 @@ class Game(object):
             'kicking',
             'punting'
         ]
-        for boxscore in boxscores:
-            stat = boxscore.get('id').split('-')[1]
-            if not stat in stats:
-                continue
 
-            team = boxscore.find_all('tbody')[self.side]
-            for player in team.find_all('tr'):
-                player_stats = {}
-                current_player = None
-                if 'highlight' in player.get('class', []):  
-                    continue
-                if len(player.find_all('td')) <= 1:
-                    continue
-                for stat_data in player.find_all('td'):
-                    stat_column = stat_data.get('class', [])[0];
-                    if stat_column == 'name':
-                        if stat_data.a:
-                            link = stat_data.a.get("href")
-                        player_name = stat_data.span.get_text()
-                        if link and re.search('[0-9]{3,7}', link):
-                            current_player = re.search('[0-9]{3,7}', link).group(0)
-                        if not self.hasPlayer(current_player):
-                            self.addPlayer(player_name, current_player)
+        filtered_tables = {}
 
-                        continue
-                    player_stats[stat_column] = stat_data.get_text()
-                    player_stats['game_id']   = self.game_id
+        for stat_table in stat_tables:
+            stat = stat_table.get('id').split('-')[1]
 
-                self.addStat(current_player, stat, player_stats);
+            if stat in allowed_stats:
+                filtered_tables[stat] = stat_table
 
-    def addPlayer(self, player_name, player_id):
-        self.players[player_id] = {
-            "name": player_name,
-            "id": player_id,
-            "stats": {}    
-        }
-
-    def getPlayer(self, player_id):
-        for player in self.players:
-            if player == player_id:
-                return self.players[player]
-        return False
-
-    def hasPlayer(self, player_id):
-        for player in self.players:
-            if player == player_id:
-                return True
-
-        return False
-
-    def addStat(self, player_id, stat, player_stats):
-        if not stat in self.players[player_id]['stats']:
-            self.players[player_id]['stats'][stat] = []
-
-        if "qbr" in player_stats:
-            del player_stats['qbr']
-
-        self.players[player_id]['stats'][stat].append(player_stats) 
-        pass
+        return filtered_tables
 
     def sendRequest(self):
-        path = self.path.format(self.game_id)
-        return urllib.request.urlopen(self.host + path).read();
+        path = "http://www.espn.com/nfl/boxscore?gameId={}"
+        return urllib.request.urlopen(path.format(self.game_id)).read();
