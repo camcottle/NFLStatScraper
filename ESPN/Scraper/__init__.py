@@ -1,4 +1,3 @@
-from .GameScraper import Game
-from .ScheduleScraper import Schedule
-# from Scraper. import Schedule
-# from .PlayerScraper   import PlayerScraper
+from .GameScraper     import GameScraper
+from .PlayerScraper   import PlayerScraper
+from .ScheduleScraper import ScheduleScraper

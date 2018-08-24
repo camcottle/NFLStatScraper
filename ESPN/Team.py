@@ -8,6 +8,12 @@ class Team(object):
         self.name    = kwargs.get('name', '')
         self.players = kwargs.get('players', [])
 
+    def toDict(self):
+        return {
+            "name": self.name,
+            "abbr": self.abbr
+        }
+
     def addPlayer(self, player):
         if not self.hasPlayer(player['id']):
             self.players.append(Player(**player))

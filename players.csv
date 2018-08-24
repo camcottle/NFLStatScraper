@@ -1,0 +1,2750 @@
+name,college,number,id,draft_round,position,dob,draft_year,draft_pick
+Rudy Ford,Auburn,,3051901,6,,"Nov 6, 1994",2017,208
+Ironhead Gallon,Georgia Southern,,2973956,,,"Jan 18, 1994",,
+Alex Bazzie,Marshall,,2470344,,,"Aug 5, 1990",,
+Budda Baker,Washington,,3127287,2,,"Jan 10, 1996",2017,36
+Zaviar Gooden,Missouri,,15838,3,,"Aug 31, 1990",2013,97
+Scooby Wright III,Arizona,6,3056472,7,LB,"Aug 29, 1994",2016,250
+Brandon Williams,Texas A&M,6,2972286,3,CB,"Sep 9, 1992",2016,92
+Olsen Pierre,Miami,2,2579622,,DT,"Aug 27, 1991",,
+Tre'Von Johnson,Weber State,8,3045851,,LB,"Feb 10, 1995",,
+Rodney Gunter,Delaware State,5,2507719,4,DT,"Jan 19, 1992",2015,116
+Haason Reddick,Temple,3,2980504,1,LB,"Sep 22, 1994",2017,13
+Kareem Martin,North Carolina,6,16764,3,LB,"Feb 19, 1992",2014,84
+Xavier Williams,Northern Iowa,8,2508191,,DT,"Jan 18, 1992",,
+Cap Capi,Akron,1,2514374,,DE,"Jul 11, 1992",,
+Siupeli Anau,Northern Arizona,3,3119465,,DE,"Oct 26, 1993",,
+Gump Hayes,Arizona State,,3128786,,,"Jul 18, 1992",,
+Aaron Brewer,San Diego State,6,15241,,LS,"Jul 5, 1990",,
+David Moala,Utah State,,2576842,,,"Dec 30, 1992",,
+Ryan Lewis,Pittsburgh,7,2970264,,CB,"Apr 15, 1994",,
+Daniel Gray,Utah State,,2972235,,,"May 13, 1994",,
+Pasoni Tasini,Utah,5,3122879,,DT,"May 31, 1993",,
+Ifeanyi Momah,Boston ,,15775,,,"Oct 23, 1989",,
+Jarvis Jones,Georgia,,15799,1,,"Oct 13, 1989",2013,17
+Robert Nkemdiche,Ole Miss,0,3051886,1,DT,"Sep 19, 1994",2016,29
+Jarell Carter,Trinity International (IL),,4058338,,,"Aug 7, 1995",,
+Brittan Golden,West Texas A&M,,15564,,,"Jul 20, 1988",,
+Marquis Bundy,New Mexico,6,2974198,,WR,"Aug 5, 1994",,
+Jeremy Ross,California,,14500,,,"Mar 16, 1988",,
+Krishawn Hogan,Marian,1,4198679,,WR,"May 12, 1995",,
+Troy Niklas,Notre Dame,,16797,2,,"Sep 18, 1992",2014,52
+Chad Williams,Grambling,0,3066052,3,WR,"Oct 19, 1994",2017,98
+Andre Ellington,Clemson,,15893,6,,"Feb 3, 1989",2013,187
+Carlton Agudosi,Rutgers,9,2982809,,WR,"Feb 1, 1994",,
+Ricky Seals-Jones,Texas A&M,6,3051806,,TE,"Mar 15, 1995",,
+Gerald Christian,Louisville,,2512192,7,,"Aug 26, 1991",2015,256
+J.J. Nelson,UAB,4,2515759,5,WR,"Apr 24, 1992",2015,159
+Larry Clark,Colorado State-Pueblo,,2581999,,,"May 8, 1993",,
+Chris Hubert,Fayetteville State,,2986501,,,"May 8, 1993",,
+T.J. Logan,North Carolina,2,3039723,5,RB,"Sep 3, 1994",2017,179
+Matt Wile,Michigan,,2576240,,,"Jun 20, 1992",,
+Richie Leone,Houston,,17197,,,"Mar 10, 1992",,
+Kerwynn Williams,Utah State,5,16024,7,RB,"Jun 9, 1991",2013,230
+Elijhaa Penny,Idaho,5,2575965,,RB,"Aug 17, 1993",,
+Trevor Knight,Texas A&M,,2976593,,,"Oct 3, 1993",,
+Blaine Gabbert,Missouri,7,13987,1,QB,"Oct 15, 1989",2011,10
+Josh Bynes,Auburn,7,14519,,LB,"Aug 24, 1989",,
+Tyvon Branch,UConn,,11334,4,,"Dec 11, 1986",2008,100
+Justin Bethel,Presbyterian ,8,15089,6,CB,"Jun 17, 1990",2012,177
+Harlan Miller,Southeastern Louisiana,,2974631,6,,"Jun 20, 1994",2016,205
+Tramon Williams,Louisiana Tech,8,5432,,CB,"Mar 16, 1983",,
+Karlos Dansby,Auburn,,5558,2,,"Nov 3, 1981",2004,33
+Antoine Bethea,Howard,,9793,6,,"Jul 27, 1984",2006,207
+Patrick Peterson,LSU,1,13980,1,CB,"Jul 11, 1990",2011,5
+Tony Bergstrom,Utah,,14976,3,,"Aug 8, 1986",2012,95
+Tyrann Mathieu,LSU,,15851,3,,"May 13, 1992",2013,69
+James Summers,East Carolina,9,2970017,,RB,"Jun 12, 1994",,
+Markus Golden,Missouri,4,2971432,2,DE,"Mar 13, 1991",2015,58
+Sojourn Shelton,Wisconsin,1,3045278,,CB,"Dec 25, 1994",,
+Terence Waugh,Kent State,,3052541,,,,,
+Corey Peters,Kentucky,8,13292,3,DT,"Jun 8, 1988",2010,83
+Jermaine Gresham,Oklahoma,4,13228,1,TE,"Jun 16, 1988",2010,21
+Jaron Brown,Clemson,8,16172,,WR,"Jan 8, 1990",,
+Phil Dawson,Texas,4,1440,,PK,"Jan 23, 1975",,
+David Johnson,Northern Iowa,1,2508176,3,RB,"Dec 16, 1991",2015,86
+Chris Johnson,East Carolina,,11258,1,,"Sep 23, 1985",2008,24
+Drew Stanton,Michigan State,9,10487,2,QB,"May 7, 1984",2007,43
+Carson Palmer,USC,,4459,1,,"Dec 27, 1979",2003,1
+Chandler Jones,Syracuse,5,14927,1,DE,"Feb 27, 1990",2012,21
+Frostee Rucker,USC,8,9677,3,DT,"Sep 14, 1983",2006,91
+Larry Fitzgerald,Pittsburgh,1,5528,1,WR,"Aug 31, 1983",2004,3
+Philip Wheeler,Georgia Tech,,11327,3,,"Dec 12, 1984",2008,93
+Aaron Dobson,Marshall,,15834,2,,"Jul 23, 1991",2013,59
+John Brown,Pittsburg State,3,16804,3,WR,"Apr 3, 1990",2014,91
+Evan Boehm,Missouri,,2971418,4,,"Aug 19, 1993",2016,128
+Ryan Langford,New Mexico,,3128660,,,"Jun 10, 1993",,
+Hakeem Valles,Monmouth,4,2567213,,TE,"Nov 23, 1992",,
+Josh Mauro,Stanford,7,17017,,DE,"Feb 17, 1991",,
+D.J. Humphries,Florida,4,2971048,1,OT,"Dec 28, 1993",2015,24
+Andy Lee,Pittsburgh,,5713,6,,"Aug 11, 1982",2004,188
+Deone Bucannon,Washington State,0,16723,1,LB,"Aug 30, 1992",2014,27
+Adrian Peterson,Oklahoma,3,10452,1,RB,"Mar 21, 1985",2007,7
+Jared Veldheer,Hillsdale,6,13302,3,OT,"Jun 14, 1987",2010,69
+A.Q. Shipley,Penn State,,12726,7,,"May 22, 1986",2009,226
+D.J. Foster,Arizona State,7,2978124,,RB,"Nov 22, 1993",,
+Alex Boone,Ohio State,,12910,,,"May 4, 1987",,
+Justin Drescher,Colorado,,13559,,,"Jan 1, 1988",,
+Earl Watford,James Madison,,15901,4,,"Jun 24, 1990",2013,116
+Will Holden,Vanderbilt,9,2972351,5,OT,"Sep 14, 1993",2017,157
+Gabe Holmes,Purdue,5,2468368,,TE,"Mar 29, 1991",,
+C.J. Goodwin,California (PA),4,17474,,CB,"Feb 4, 1990",,
+Bronson Hill,Eastern Michigan,8,2574474,,RB,"Jan 2, 1993",,
+Gabe Martin,Bowling Green,0,2515838,,LB,"Jun 5, 1992",,
+Joe Jones,Northwestern,3,2974344,,LB,"Feb 21, 1994",,
+Byron Jones,UConn,1,2513035,1,CB,"Sep 26, 1992",2015,27
+John Lotulelei,UNLV,,16087,,,"Dec 4, 1991",,
+Kennan Gilchrist,Appalachian State,7,3049574,,LB,"Sep 16, 1994",,
+Kyle Wilber,Wake Forest,8,15038,4,LB,"Apr 26, 1989",2012,113
+Jeff Heath,Saginaw Valley,,16473,,,"May 14, 1991",,
+Anthony Brown,Purdue,0,2977756,6,CB,"Dec 15, 1993",2016,189
+Duke Thomas,Texas,6,2971734,,CB,"May 21, 1994",,
+Kavon Frazier,Central Michigan,,2972505,6,,"Aug 11, 1994",2016,212
+Chidobe Awuzie,Colorado,4,3052101,2,CB,"May 24, 1995",2017,60
+Damien Wilson,Minnesota,7,3040207,4,LB,"May 28, 1993",2015,127
+Woody Baron,Virginia Tech,,2970085,,,"Aug 8, 1993",,
+Damontre Moore,Texas A&M,,15858,3,,"Sep 11, 1992",2013,81
+Leon McFadden,San Diego State,9,15854,3,CB,"Oct 26, 1990",2013,68
+Sammy Seamster,Middle Tennessee,9,17244,,CB,"Feb 5, 1991",,
+Jameill Showers,UTEP,,2511832,,,"Sep 6, 1991",,
+Richard Ash,Western Michigan,3,2515345,,DT,"Aug 4, 1992",,
+Darnell Leslie,Monmouth,,2972022,,,"May 16, 1994",,
+Marquez White,Florida State,9,3045378,6,CB,"Oct 29, 1994",2017,216
+Sam Irwin-Hill,Arkansas,,3046441,,,"Oct 10, 1990",,
+Charles Tapper,Oklahoma,9,2976623,4,DE,"May 7, 1993",2016,101
+Joey Ivie,Florida,7,3043112,7,DT,"Jan 22, 1995",2017,228
+Jordan Carrell,Colorado,,3895487,7,,"Jun 30, 1994",2017,246
+Brice Butler,San Diego State,2,15896,7,WR,"Jan 29, 1990",2013,209
+Rico Gathers,Baylor,0,2990959,6,TE,"Jan 7, 1994",2016,217
+Andy Jones,Jacksonville,7,2982761,,WR,"Jun 28, 1994",,
+Rod Smith,Ohio State,5,2512197,,RB,"Jan 10, 1992",,
+Brian Brown,Richmond,3,3049891,,WR,"Oct 22, 1994",,
+Blake Jarwin,Oklahoma State,9,2991767,,TE,"Jul 16, 1994",,
+Keith Smith,San Jose State,1,17315,,FB,"Apr 8, 1992",,
+EZ Nwachukwu,Texas A&M,,16502,,,"Dec 15, 1990",,
+Connor Hamlett,Oregon State,,2517011,,,"Apr 12, 1992",,
+Lance Lenoir,Western Illinois,4,3049249,,WR,"Feb 9, 1995",,
+Noah Brown,Ohio State,5,3121409,7,WR,"Jan 6, 1996",2017,239
+Alfred Morris,Florida Atlantic,6,15009,6,RB,"Dec 12, 1988",2012,173
+Cooper Rush,Central Michigan,7,2972515,,QB,"Nov 21, 1993",,
+Ronnie Hillman,San Diego State,,14895,3,,"Sep 14, 1991",2012,67
+Kellen Moore,Boise State,,14882,,,"Jul 12, 1989",,
+Darren McFadden,Arkansas,,11238,1,,"Aug 27, 1987",2008,4
+Xavier Woods,Louisiana Tech,,3040572,6,,"Jul 26, 1995",2017,191
+Mark Nzeocha,Wyoming,3,2576030,7,LB,"Jan 19, 1990",2015,236
+Taco Charlton,Michigan,7,3045210,1,DE,"Nov 7, 1994",2017,28
+David Irving,Iowa State,,2577162,,,"Aug 18, 1993",,
+Lenny Jones,Nevada,1,2573947,,DE,"Aug 8, 1991",,
+Robert Blanton,Notre Dame,,15079,5,,"Sep 7, 1989",2012,139
+Anthony Hitchens,Iowa,3,16883,4,LB,"Jun 10, 1992",2014,119
+Orlando Scandrick,Boise State,,11366,5,,"Feb 10, 1987",2008,143
+Nolan Carroll II,Maryland,,13333,5,,"Jan 18, 1987",2010,145
+Zach Wood,SMU,9,2575788,,LS,"Jan 10, 1993",,
+Clay DeBord,Eastern Washington,,2977180,,,"May 13, 1992",,
+Lewis Neal,LSU,6,3042744,,DT,"May 17, 1995",,
+Lucas Wacha,Wyoming,,2976185,,,"May 20, 1993",,
+Terrance Williams,Baylor,3,15878,3,WR,"Sep 18, 1989",2013,74
+Geoff Swaim,Texas,7,3046704,7,TE,"Sep 16, 1993",2015,246
+Dan Bailey,Oklahoma State,5,14322,,PK,"Jan 26, 1988",,
+Luke McCown,Louisiana Tech,,5631,4,,"Jul 12, 1981",2004,106
+Chris Jones,Carson-Newman,,14723,,,"Jul 21, 1989",,
+Dejaun Butler,Hawai'i,,3933060,,,"Feb 2, 1994",,
+Benson Mayowa,Idaho,1,16528,,DE,"Aug 3, 1991",,
+Jaylon Smith,Notre Dame,4,3052896,2,LB,"Jun 14, 1995",2016,34
+Dez Bryant,Oklahoma State,,13215,1,,"Nov 4, 1988",2010,24
+Jason Witten,Tennessee,,4527,3,,"May 6, 1982",2003,69
+Cole Beasley,SMU,1,15349,,WR,"Apr 26, 1989",,
+James Hanna,Oklahoma,,14906,6,,"Jul 14, 1989",2012,186
+Dak Prescott,Mississippi State,4,2577417,4,QB,"Jul 29, 1993",2016,135
+Sean Lee,Penn State,0,13284,2,LB,"Jul 22, 1986",2010,55
+DeMarcus Lawrence,Boise State,0,16802,2,DE,"Apr 28, 1992",2014,34
+Maliek Collins,Nebraska,6,3040471,3,DT,"Apr 8, 1995",2016,67
+Stephen Paea,Oregon State,,14049,2,,"May 11, 1988",2011,53
+John Green,UConn,,2974235,,,"Nov 12, 1993",,
+Ezekiel Elliott,Ohio State,1,3051392,1,RB,"Jul 22, 1995",2016,4
+Tyrone Crawford,Boise State,8,14987,3,DE,"Nov 22, 1989",2012,81
+Justin Durant,Hampton,,10492,2,,"Sep 21, 1985",2007,48
+Jourdan Lewis,Michigan,7,3045207,3,CB,"Aug 31, 1995",2017,92
+Brian Price,UT San Antonio,2,3040661,,DT,"Jun 24, 1994",,
+Chaz Green,Florida,9,2516053,3,OT,"Apr 8, 1992",2015,91
+Ryan Switzer,North Carolina,5,3039725,4,WR,"Nov 4, 1994",2017,133
+Travis Frederick,Wisconsin,,15793,1,,"Mar 18, 1991",2013,31
+Justin March-Lillard,Akron,3,2574282,,LB,"Jul 5, 1993",,
+Mike Nugent,Ohio State,6,8461,2,PK,"Mar 2, 1982",2005,47
+Bene Benwikere,San Jose State,3,16872,5,CB,"Sep 3, 1991",2014,148
+Byron Bell,New Mexico,4,14753,,OT,"Jan 17, 1989",,
+Zack Martin,Notre Dame,,16709,1,,"Nov 20, 1990",2014,16
+L.P. Ladouceur,California,1,9349,,LS,"Mar 13, 1981",,
+Datone Jones,UCLA,6,15798,1,DE,"Jul 24, 1990",2013,26
+Daniel Ross,None,8,4220624,,DT,"Mar 15, 1993",,
+La'el Collins,LSU,1,2577302,,OT,"Jul 26, 1993",,
+Zach Cunningham,Vanderbilt,1,3051750,2,LB,"Dec 12, 1994",2017,57
+Robert Nelson Jr.,Arizona State,,17416,,,"Feb 16, 1990",,
+Bryce Jones,Akron,7,2969856,,CB,"Aug 20, 1994",,
+Gimel President,Illinois,,2971022,,,"Jun 24, 1993",,
+K.J. Dillon,West Virginia,,2976629,5,,"May 11, 1993",2016,159
+Dylan Cole,Missouri State,1,2986109,,LB,"May 19, 1994",,
+Brian Peters,Northwestern (IA),2,2265764,,LB,"Oct 31, 1988",,
+Brennan Scarlett,Stanford,7,2576885,,LB,"Jul 31, 1993",,
+Carlos Watkins,Clemson,1,2977681,4,DE,"Dec 5, 1993",2017,142
+Denzel Rice,Coastal Carolina,7,2565759,,CB,"Mar 31, 1993",,
+Marcus Roberson,Florida,,2578582,,,"Oct 4, 1992",,
+Brandon Dunn,Louisville,2,17061,,NT,"Sep 5, 1992",,
+Tony Washington Jr.,Oregon,1,2517002,,LB,"Jun 1, 1992",,
+Avery Williams,Temple,,2976268,,,"Sep 2, 1994",,
+Matthew Godin,Michigan,9,2977636,,DE,"Sep 30, 1993",,
+Eli Ankou,UCLA,4,3008150,,DT,"Jun 8, 1994",,
+Brian Cushing,USC,,12453,1,,"Jan 24, 1987",2009,15
+Johnathan Joseph,South Carolina,4,9610,1,CB,"Apr 16, 1984",2006,24
+Kareem Jackson,Alabama,,13254,1,,"Apr 10, 1988",2010,20
+Eddie Pleasant,Oregon,,15612,,,"Dec 17, 1988",,
+Jadeveon Clowney,South Carolina,0,16734,1,DE,"Feb 14, 1993",2014,1
+Alfred Blue,LSU,8,16921,6,RB,"Apr 27, 1991",2014,181
+Kurtis Drummond,Michigan State,,2515405,,,"Jan 29, 1992",,
+Akeem Hunt,Purdue,1,2576408,,RB,"Feb 22, 1993",,
+Eric Lee,South Florida,5,2970397,,DE,"Aug 6, 1994",,
+Andre Hal,Vanderbilt,,17467,7,,"May 30, 1992",2014,216
+Corey Moore,Georgia,,2578554,,,"Jan 28, 1993",,
+Dee Virgin,West Alabama,4,2973647,,CB,"Oct 29, 1993",,
+D.J. Reader,Clemson,8,2977670,5,NT,"Jul 1, 1994",2016,166
+Dare Ogunbowale,Wisconsin,4,2983509,,RB,"May 4, 1994",,
+Malik Smith,San Diego State,,3047516,,,"Aug 28, 1995",,
+Chris Thompson,Florida,4,3054970,,WR,"May 9, 1994",,
+Dayon Pratt,East Carolina,,2971997,,,"Apr 23, 1993",,
+Ufomba Kamalu,Miami,4,3051940,,LB,"Nov 2, 1992",,
+Daniel Ross,None,8,4220624,,DT,"Mar 15, 1993",,
+Dres Anderson,Utah,8,2514542,,WR,"Jul 20, 1992",,
+Evan Baylis,Oregon,5,2971280,,TE,"Nov 18, 1993",,
+Riley McCarron,Iowa,7,2988624,,WR,"Jun 16, 1993",,
+Jaelen Strong,Arizona State,0,3043263,3,WR,"Jan 25, 1994",2015,70
+DeAndre Hopkins,Clemson,0,15795,1,WR,"Jun 6, 1992",2013,27
+Justin Hardee,Illinois,4,2970625,,CB,"Feb 7, 1994",,
+Ryan Griffin,UConn,4,15887,6,TE,"Jan 11, 1990",2013,201
+Braxton Miller,Ohio State,3,2570987,3,WR,"Nov 30, 1992",2016,85
+RaShaun Allen,Southern,,17423,,,"Feb 25, 1990",,
+Tyler Ervin,San Jose State,1,2573974,4,RB,"Oct 7, 1993",2016,119
+Devin Street,Pittsburgh,,16815,5,,"Mar 30, 1991",2014,146
+D'Onta Foreman,Texas,7,3125116,3,RB,"Apr 24, 1996",2017,89
+Lamar Miller,Miami,6,14886,4,RB,"Apr 25, 1991",2012,97
+Wendall Williams,Cumberland ,,3933497,,,"Sep 18, 1990",,
+Ka'imi Fairbairn,UCLA,7,2971573,,PK,"Jan 29, 1994",,
+Nick Novak,Maryland,,9329,,,"Aug 21, 1981",,
+Deshaun Watson,Clemson,4,3122840,1,QB,"Sep 14, 1995",2017,12
+Brandon Weeden,Oklahoma State,3,14878,1,QB,"Oct 14, 1983",2012,22
+Shane Lechler,Texas A&M,,2273,5,,"Aug 7, 1976",2000,142
+Tom Savage,Pittsburgh,2,16943,4,QB,"Apr 26, 1990",2014,135
+Shakeel Rashad,North Carolina,,2970012,,,"Mar 17, 1994",,
+Treston Decoud,Oregon State,,2985844,5,,"Aug 1, 1993",2017,169
+Rickey Hatley,Missouri,4,2971436,,NT,"Mar 29, 1994",,
+J.J. Watt,Wisconsin,9,13979,1,DE,"Mar 22, 1989",2011,11
+Kevin Johnson,Wake Forest,0,2511523,1,CB,"Aug 5, 1992",2015,16
+Benardrick McKinney,Mississippi State,5,2577429,2,LB,"Nov 19, 1992",2015,43
+Marcus Gilchrist,Clemson,,14018,2,,"Dec 8, 1988",2011,50
+Bruce Ellington,South Carolina,2,16946,4,WR,"Aug 22, 1991",2014,106
+Stephen Anderson,California,9,2576854,,TE,"Jan 30, 1993",,
+Germone Hopper,Clemson,,2977663,,,"Oct 22, 1993",,
+Christian Covington,Rice,5,2580666,6,DE,"Oct 16, 1993",2015,216
+Jordan Todman,UConn,,14186,6,,"Feb 24, 1990",2011,183
+Whitney Mercilus,Illinois,9,14936,1,LB,"Jul 21, 1990",2012,26
+Xavier Su'a-Filo,UCLA,,16801,2,,"Jan 1, 1991",2014,33
+Joel Heath,Michigan State,3,2576267,,DE,"Jun 18, 1993",,
+C.J. Fiedorowicz,Iowa,,16766,3,,"Oct 22, 1991",2014,65
+Jon Weeks,Baylor,6,13729,,LS,"Feb 17, 1986",,
+Johnthan Banks,Mississippi State,,15824,2,,"Oct 3, 1989",2013,43
+Will Fuller V,Notre Dame,5,3052876,1,WR,"Apr 16, 1994",2016,21
+Jay Prosch,Auburn,5,16875,6,FB,"Aug 21, 1992",2014,211
+Marcus Williams,North Dakota State,5,2508192,,CB,"Mar 24, 1991",,
+Lamarr Houston,Texas,,13277,2,,"Jun 24, 1987",2010,44
+Marcus Burley,Delaware,,16131,,,"Jul 16, 1990",,
+Ben Heeney,Kansas,0,2577219,5,LB,"May 13, 1992",2015,140
+Nick Martin,Notre Dame,,2579850,2,,"Apr 29, 1993",2016,50
+Jelani Jenkins,Florida,,15985,4,,"Mar 13, 1992",2013,104
+Angelo Blackson,Auburn,7,2574582,4,DE,"Nov 14, 1992",2015,100
+Chris Clark,Southern Mississippi,,11689,,,"Oct 1, 1985",,
+Andre Ellington,Clemson,,15893,6,,"Feb 3, 1989",2013,187
+LaTroy Lewis,Tennessee,4,2972232,,LB,"Nov 9, 1993",,
+DeAndrew White,Alabama,5,2515962,,WR,"Oct 16, 1991",,
+T.J. Yates,North Carolina,,14114,5,,"May 28, 1987",2011,152
+Cobi Hamilton,Arkansas,2,15983,6,WR,"Nov 13, 1990",2013,197
+Chunky Clements,Illinois,7,3042478,,DT,"Dec 3, 1994",,
+Ryan Malleck,Virginia Tech,2,2577892,,TE,"Jul 22, 1993",,
+Taylor Heinicke,Old Dominion,6,2565969,,QB,"Mar 15, 1993",,
+Ibraheim Campbell,Northwestern,,2511090,4,,"May 13, 1992",2015,115
+Chad Slade,Auburn,,2516029,,,"May 4, 1992",,
+Jared Norris,Utah,2,2575997,,LB,"Jul 19, 1993",,
+Dezmen Southward,Wisconsin,,16747,3,,"Oct 1, 1990",2014,68
+David Mayo,Texas State,5,2972400,5,LB,"Aug 8, 1993",2015,169
+Cole Luke,Notre Dame,2,3052883,,CB,"Jun 30, 1995",,
+Jeremy Cash,Duke,2,2576378,,LB,"Dec 9, 1992",,
+Colin Jones,TCU,,14117,6,,"Oct 27, 1987",2011,190
+Zack Sanchez,Oklahoma,3,2976596,5,CB,"Oct 11, 1993",2016,141
+Ben Jacobs,Fresno State,3,14739,,LB,"Apr 17, 1988",,
+L.J. McCray,Catawba,,17212,,,"Jun 18, 1991",,
+Shaq Thompson,Washington,4,2978313,1,LB,"Apr 21, 1994",2015,25
+Damian Parms,Florida Atlantic,,2572986,,,"Oct 28, 1992",,
+Zeek Bigger,East Carolina,,2575516,,,"Nov 6, 1992",,
+Efe Obada,None,1,3734467,,DE,"Apr 13, 1992",,
+Teddy Williams,UT San Antonio,,13922,,,"Jul 3, 1988",,
+Larry Webster,Bloomsburg,,16869,4,,"Feb 14, 1990",2014,136
+Eric Crume,Syracuse,,2577606,,,"Oct 18, 1993",,
+Darrel Young,Villanova,,13097,,,"Apr 8, 1987",,
+Kawann Short,Purdue,9,15862,2,DT,"Feb 2, 1989",2013,44
+Thomas Davis,Georgia,8,8429,1,LB,"Mar 22, 1983",2005,14
+Captain Munnerlyn,South Carolina,1,12703,7,CB,"Apr 10, 1988",2009,216
+Kurt Coleman,Ohio State,,13340,7,,"Apr 1, 1988",2010,244
+Wes Horton,USC,6,16431,,DE,"Dec 17, 1989",,
+Zach Moore,Concordia-St. Paul,7,16959,6,DE,"Sep 5, 1990",2014,198
+Bryan Cox Jr.,Florida,1,2980098,,DE,"Jun 25, 1994",,
+Daeshon Hall,Texas A&M,4,3051807,3,DE,"Jun 14, 1995",2017,77
+Luke Kuechly,Boston ,9,14938,1,LB,"Apr 20, 1991",2012,9
+James Bradberry,Samford,4,2572841,2,CB,"Aug 4, 1993",2016,62
+Jalen Simmons,South Carolina State,5,2580343,,RB,"Apr 1, 1992",,
+Jeff Richards,Emporia State,3,4084949,,CB,"Jan 3, 1991",,
+Arthur Miley,Southern,5,2568870,,LB,"Mar 3, 1993",,
+Damiere Byrd,South Carolina,8,2577667,,WR,"Jan 27, 1993",,
+Kelvin Benjamin,Florida State,3,16730,1,WR,"Feb 5, 1991",2014,28
+Austin Duke,Charlotte,8,3050138,,WR,"Aug 3, 1993",,
+Greg Olsen,Miami,8,10475,1,TE,"Mar 11, 1985",2007,31
+Keyarris Garrett,Tulsa,,2575381,,,"Sep 26, 1992",,
+Kaelin Clay,Utah,5,2516957,6,WR,"Jan 2, 1992",2015,184
+Chris Manhertz,Canisius,2,2531358,,TE,"Apr 10, 1992",,
+Devin Funchess,Michigan,7,2977609,2,WR,"May 21, 1994",2015,41
+Mose Frazier,Memphis,4,2977874,,WR,"Aug 30, 1993",,
+Trevor Graham,NC State,,14920,3,,"Jul 27, 1989",2012,69
+Scott Simonson,Assumption,2,17391,,TE,"Apr 13, 1992",,
+Cameron Artis-Payne,Auburn,4,3043097,5,RB,"Jun 23, 1990",2015,174
+Christian McCaffrey,Stanford,2,3117251,1,RB,"Jun 7, 1996",2017,8
+Graham Gano,Florida State,9,12460,,PK,"Apr 9, 1987",,
+Harrison Butker,Georgia Tech,7,3055899,7,PK,"Jul 14, 1995",2017,233
+Joe Webb,UAB,5,13484,6,QB,"Nov 14, 1986",2010,199
+Fozzy Whittaker,Texas,3,15755,,RB,"Feb 2, 1989",,
+Jonathan Stewart,Oregon,8,11247,1,RB,"Mar 21, 1987",2008,13
+Michael Palardy,Tennessee,,17475,,,"Jul 6, 1992",,
+Andy Lee,Pittsburgh,,5713,6,,"Aug 11, 1982",2004,188
+Derek Anderson,Oregon State,,8627,6,,"Jun 15, 1983",2005,213
+Garrett Gilbert,SMU,4,16809,6,QB,"Jul 1, 1991",2014,214
+Star Lotulelei,Utah,8,15802,1,DT,"Dec 20, 1989",2013,14
+Daryl Worley,West Virginia,6,3042436,3,CB,"Feb 22, 1995",2016,77
+Charles L. Johnson,Georgia,,10527,3,,"Jul 10, 1986",2007,83
+Mike Adams,Delaware,,5893,,,"Mar 24, 1981",,
+Dan France,Michigan State,,17151,,,"Apr 1, 1991",,
+Tyler Larsen,Utah,,17196,,,"Jul 8, 1991",,
+Brenton Bersin,Wofford,,15547,,,"May 9, 1990",,
+Alex Armah,West Georgia,0,4212884,6,RB,"May 17, 1994",2017,192
+Eric Wallace,None,,2326150,,,"Dec 13, 1988",,
+Ed Dickson,Oregon,4,13272,3,TE,"Jul 25, 1987",2010,70
+Russell Shepard,LSU,8,16227,,WR,"Sep 17, 1990",,
+Mario Addison,Troy,7,14320,,DE,"Sep 6, 1987",,
+Julius Peppers,North Carolina,0,3530,1,DE,"Jan 18, 1980",2002,2
+Devonte Johnson,Weber State,,2565729,,,"Jan 3, 1993",,
+Curtis Samuel,Ohio State,0,3121427,2,WR,"Aug 11, 1996",2017,40
+Cam Newton,Auburn,1,13994,1,QB,"May 11, 1989",2011,1
+Toby Johnson,Georgia,5,3051674,,DT,"Sep 1, 1991",,
+Ben Boulware,Clemson,,3045122,,,"Aug 7, 1994",,
+Kyle Love,Mississippi State,3,13608,,DT,"Nov 18, 1986",,
+Vernon Butler,Louisiana Tech,2,2971883,1,DT,"Jun 14, 1994",2016,30
+Trai Turner,LSU,,16789,3,,"Jun 14, 1993",2014,92
+Demetrious Cox,Michigan State,,2979535,,,"Apr 20, 1994",,
+Kevon Seymour,USC,7,2971603,6,CB,"Nov 30, 1993",2016,218
+Jairus Byrd,Oregon,,12613,2,,"Oct 7, 1986",2009,42
+Andrew Gachkar,Missouri,,14141,7,,"Nov 4, 1988",2011,234
+J.J. Jansen,Notre Dame,4,11759,,LS,"Jan 20, 1986",,
+Matt Kalil,USC,5,14928,1,OT,"Jul 6, 1989",2012,4
+Eric Wilson,Cincinnati,0,3056916,,LB,"Sep 26, 1994",,
+Ben Gedeon,Michigan,2,3045212,4,LB,"Oct 16, 1994",2017,120
+Terrell Sinkfield,Northern Iowa,5,16414,,CB,"Dec 10, 1990",,
+Antone Exum Jr.,Virginia Tech,,16833,6,,"Feb 27, 1991",2014,182
+Edmond Robinson,Newberry,8,3137087,7,LB,"Feb 23, 1992",2015,232
+Marcus Sherels,Minnesota,5,13843,,CB,"Sep 30, 1987",,
+Anthony Barr,UCLA,5,16711,1,LB,"Mar 18, 1992",2014,9
+Anthony Harris,Virginia,,2577814,,,"Oct 9, 1991",,
+Jayron Kearse,Clemson,,3045130,7,,"Feb 11, 1994",2016,244
+Elijah Lee,Kansas State,7,3125073,7,LB,"Feb 8, 1996",2017,232
+Shamar Stephen,UConn,8,16866,7,DT,"Feb 25, 1991",2014,220
+Tashawn Bower,LSU,0,3042726,,DE,"Feb 18, 1995",,
+Sam Brown,Missouri Western,,4002763,,,"Jul 30, 1992",,
+Emmanuel Lamur,Kansas State,4,15640,,LB,"Jun 8, 1989",,
+Will Sutton,Arizona State,6,16738,3,DT,"Oct 3, 1991",2014,82
+Trae Waynes,Michigan State,6,2576283,1,CB,"Jul 25, 1992",2015,11
+Ifeadi Odenigbo,Northwestern,5,2974353,7,DE,"Apr 8, 1994",2017,220
+Everson Griffen,USC,7,13373,4,DE,"Dec 22, 1987",2010,100
+Jaleel Johnson,Iowa,4,2979523,4,DT,"Jul 12, 1994",2017,109
+Terence Newman,Kansas State,3,4463,1,CB,"Sep 4, 1978",2003,5
+Mackensie Alexander,Clemson,0,3045120,2,CB,"Nov 12, 1993",2016,54
+Jack Tocho,NC State,9,3051737,7,CB,"Feb 8, 1996",2017,245
+Andrew Sendejo,Rice,,13939,,,"Sep 9, 1987",,
+Datone Jones,UCLA,6,15798,1,DE,"Jul 24, 1990",2013,26
+Eric Kendricks,UCLA,4,2510863,2,LB,"Feb 29, 1992",2015,45
+Stephen Weatherly,Vanderbilt,1,2972362,7,DE,"Mar 19, 1994",2016,227
+Danielle Hunter,LSU,9,2976560,3,DE,"Oct 29, 1994",2015,88
+Dylan Bradley,Southern Mississippi,9,3059973,,DT,"Feb 4, 1995",,
+Horace Richardson,SMU,4,2980480,,CB,"Sep 28, 1993",,
+Stacy Coley,Miami,3,3051923,7,WR,"May 13, 1994",2017,219
+Dalvin Cook,Florida State,3,3116593,2,RB,"Aug 10, 1995",2017,41
+Michael Floyd,Notre Dame,7,14908,1,WR,"Nov 27, 1989",2012,13
+Bishop Sankey,Washington,2,16794,2,RB,"Sep 15, 1992",2014,54
+Rodney Adams,South Florida,,3059918,5,,"Sep 15, 1994",2017,170
+C.J. Ham,Augustana (SD),0,4012556,,RB,"Jul 22, 1993",,
+Jarius Wright,Arkansas,3,14918,4,WR,"Nov 25, 1989",2012,118
+Terrell Newby,Nebraska,,3040496,,,"Jul 25, 1995",,
+Stefon Diggs,Maryland,4,2976212,5,WR,"Nov 29, 1993",2015,146
+Nick Truesdell,None,,2309428,,,"Mar 14, 1990",,
+Isaac Fruechte,Minnesota,,2970698,,,"Mar 7, 1991",,
+Josiah Price,Michigan State,7,2979554,,TE,"Jul 19, 1993",,
+Bucky Hodges,Virginia Tech,2,3045466,6,TE,"Aug 8, 1995",2017,201
+Kai Forbath,UCLA,,14816,,,"Sep 2, 1987",,
+Marshall Koehn,Iowa,8,2582419,,PK,"Aug 29, 1992",,
+Taylor Heinicke,Old Dominion,6,2565969,,QB,"Mar 15, 1993",,
+Case Keenum,Houston,4,15168,,QB,"Feb 17, 1988",,
+Taylor Symmank,Texas Tech,,2983232,,,"Oct 2, 1992",,
+Ryan Quigley,Boston ,,15616,,,"Jan 26, 1990",,
+Sam Bradford,Oklahoma,9,13197,1,QB,"Nov 8, 1987",2010,1
+Jabari Price,North Carolina,,16878,7,,"Aug 31, 1992",2014,225
+Xavier Rhodes,Florida State,9,15810,1,CB,"Jun 19, 1990",2013,25
+Tom Johnson,Southern Mississippi,1,16695,,DT,"Aug 30, 1984",,
+Zac Kerin,Toledo,,17013,,,"Aug 13, 1991",,
+Sam McCaskill,Boise State,,2972904,,,"Mar 18, 1994",,
+David Morgan,UT San Antonio,9,2580052,6,TE,"May 19, 1993",2016,188
+Jerick McKinnon,Georgia Southern,8,16782,3,RB,"May 3, 1992",2014,96
+Jeremiah Sirles,Nebraska,,17040,,,"Aug 8, 1991",,
+Harrison Smith,Notre Dame,,14945,1,,"Feb 2, 1989",2012,29
+Kentrell Brothers,Missouri,0,2577354,5,LB,"Feb 8, 1993",2016,160
+Tre Roberson,Illinois State,,2578317,,,"Oct 22, 1992",,
+Noor Davis,Stanford,,2978260,,,"Dec 15, 1994",,
+Adam Thielen,Minnesota State,9,16460,,WR,"Aug 22, 1990",,
+Laquon Treadwell,Ole Miss,1,3051889,1,WR,"Jun 14, 1995",2016,23
+Cayleb Jones,Arizona,6,2971719,,WR,"Mar 21, 1993",,
+Kyle Carter,Penn State,8,2582138,,TE,"Dec 17, 1992",,
+Latavius Murray,UCF,5,15920,6,RB,"Jan 18, 1990",2013,181
+Bronson Hill,Eastern Michigan,8,2574474,,RB,"Jan 2, 1993",,
+Moritz Bohringer,None,9,4002672,6,TE,"Oct 16, 1993",2016,180
+Mitch Leidner,Minnesota,,2970710,,,"Jan 17, 1994",,
+Linval Joseph,East Carolina,8,13281,2,DT,"Oct 10, 1988",2010,46
+Kyle Rudolph,Notre Dame,2,14054,2,TE,"Nov 9, 1989",2011,43
+Brian Robison,Texas,6,10546,4,DE,"Apr 27, 1983",2007,102
+Blake Bell,Oklahoma,1,2514206,4,TE,"Aug 7, 1991",2015,117
+Mike Remmers,Oregon State,4,15422,,OT,"Apr 11, 1989",,
+Tramaine Brock,Belhaven University,2,13681,,CB,"Aug 20, 1988",,
+Joe Berger,Michigan Tech,,8621,6,,"May 25, 1982",2005,207
+Teddy Bridgewater,Louisville,5,16728,1,QB,"Nov 10, 1992",2014,32
+Trae Elston,Ole Miss,,2980380,,,"Feb 16, 1994",,
+Reggie Ragland,Alabama,9,2979855,2,LB,"Sep 23, 1993",2016,41
+Marquavius Lewis,South Carolina,7,3894931,,DE,"Oct 11, 1992",,
+Shareece Wright,USC,5,14010,3,CB,"Apr 8, 1987",2011,89
+Ramon Humber,North Dakota State,0,12988,,LB,"Aug 10, 1987",,
+Deandre Coleman,California,,17128,,,"Jan 27, 1991",,
+Bradley Sylve,Alabama,,2578482,,,"Jan 29, 1993",,
+Eddie Yarbrough,Wyoming,4,2576040,,DE,"Apr 24, 1993",,
+Carl Bradford,Arizona State,4,16926,4,LB,"Aug 15, 1992",2014,121
+Gerald Hodges,Penn State,1,15977,4,LB,"Jan 17, 1991",2013,120
+Shamiel Gary,Oklahoma State,,17154,,,"May 31, 1990",,
+Ian Seau,Nevada,,2577337,,,"Dec 4, 1992",,
+B.T. Sanders,Nicholls,,3050615,,,"Jun 29, 1995",,
+Jerel Worthy,Michigan State,,14967,2,,"Apr 28, 1990",2012,51
+Jacob Lindsey,Harvard,,2566602,,,"Jun 24, 1993",,
+Jerry Hughes,TCU,5,13245,1,DE,"Aug 13, 1988",2010,31
+Kyle Williams,LSU,5,9720,5,DT,"Jun 10, 1983",2006,134
+Taiwan Jones,Eastern Washington,6,14167,4,RB,"Jul 26, 1988",2011,125
+Patrick DiMarco,South Carolina,2,14332,,FB,"Apr 30, 1989",,
+Leonard Johnson,Iowa State,4,15398,,CB,"Mar 30, 1990",,
+Bacarri Rambo,Georgia,,15912,6,,"Jun 27, 1990",2013,191
+Sam Barrington,South Florida,,15954,7,,"Oct 5, 1990",2013,232
+Preston Brown,Louisville,2,16762,3,LB,"Oct 27, 1992",2014,73
+Tre'Davious White,LSU,7,3042717,1,CB,"Jan 16, 1995",2017,27
+Matt Milano,Boston ,8,3046287,5,LB,"Jul 28, 1994",2017,163
+Jake Metz,Shippensburg,,3089089,,,"Mar 16, 1991",,
+Joe Powell,None,,4006388,,,"Feb 25, 1994",,
+Marcus Sayles,West Georgia,5,4220625,,CB,"Oct 1, 1994",,
+Joe Banyard,UTEP,,15296,,,"Nov 12, 1988",,
+Reid Ferguson,LSU,9,2976549,,LS,"Mar 24, 1994",,
+Charles James II,Charleston Southern,,16561,,,"May 14, 1990",,
+Sammy Watkins,Clemson,4,16725,1,WR,"Jun 14, 1993",2014,4
+Daikiel Shorts,West Virginia,,3042428,,,"Oct 6, 1994",,
+Corey Brown,Ohio State,5,17399,,WR,"Dec 16, 1991",,
+Dezmin Lewis,Central Arkansas,,2567965,7,,"Dec 5, 1992",2015,234
+Logan Thomas,Virginia Tech,2,16813,4,TE,"Jul 1, 1991",2014,120
+Brandon Reilly,Nebraska,9,2974328,,WR,"Sep 24, 1993",,
+Nick O'Leary,Florida State,4,2576804,6,TE,"Aug 31, 1992",2015,194
+Jason Croom,Tennessee,0,2972240,,TE,"Feb 28, 1994",,
+Jonathan Williams,Arkansas,2,2980077,5,RB,"Feb 2, 1994",2016,156
+Walter Powell,Murray State,,16871,6,,"Nov 23, 1991",2014,196
+Mike Tolbert,Coastal Carolina,,11658,,,"Nov 23, 1985",,
+Andre Holmes,Hillsdale,8,14403,,WR,"Jun 16, 1988",,
+Rod Streater,Temple,1,15391,,WR,"Feb 9, 1988",,
+Rashad Ross,Arizona State,,16566,,,"Feb 2, 1990",,
+Cedric O'Neal,Valdosta State,,3016887,,,"Jan 29, 1994",,
+Stephen Hauschka,NC State,4,11923,,PK,"Jun 29, 1985",,
+Austin Rehkow,Idaho,,3060187,,,"Mar 17, 1995",,
+Nathan Peterman,Pittsburgh,2,2972236,5,QB,"May 4, 1994",2017,171
+Jordan Johnson,Buffalo,,2972311,,,"May 21, 1994",,
+Tyrod Taylor,Virginia Tech,5,14163,6,QB,"Aug 3, 1989",2011,180
+Colton Schmidt,UC Davis,,16623,,,"Oct 27, 1990",,
+T.J. Yates,North Carolina,,14114,5,,"May 28, 1987",2011,152
+Lorenzo Alexander,California,7,9424,,LB,"May 31, 1983",,
+Jumal Rolle,Catawba,,16219,,,"May 28, 1990",,
+E.J. Gaines,Missouri,8,16898,6,CB,"Feb 23, 1992",2014,188
+Kevon Seymour,USC,7,2971603,6,CB,"Nov 30, 1993",2016,218
+Greg Mabin,Iowa,6,2979515,,CB,"Jun 25, 1994",,
+Tanner Vallejo,Boise State,0,3042895,6,LB,"Dec 16, 1994",2017,195
+Jordan Poyer,Oregon State,,15979,7,,"Apr 25, 1991",2013,218
+Max Valles,Virginia,,3048702,6,,"Aug 5, 1994",2015,179
+Ryan Davis,Bethune-Cookman,8,15319,,DE,"Feb 24, 1989",,
+Micah Hyde,Iowa,,15960,5,,"Dec 31, 1990",2013,159
+Karim Barton,Morgan State,,16968,,,"Dec 13, 1991",,
+Shaq Lawson,Clemson,0,2977679,1,DE,"Jun 17, 1994",2016,19
+Zay Jones,East Carolina,1,3059722,2,WR,"Mar 30, 1995",2017,37
+Charles Clay,Tulsa,5,14145,6,TE,"Feb 13, 1989",2011,174
+LeSean McCoy,Pittsburgh,5,12514,2,RB,"Jul 12, 1988",2009,53
+Anquan Boldin,Florida State,,4512,2,,"Oct 3, 1980",2003,54
+Brandon Tate,North Carolina,7,12597,3,WR,"Oct 5, 1987",2009,83
+Adolphus Washington,Ohio State,2,2976317,3,DT,"Nov 24, 1992",2016,80
+Vladimir Ducasse,UMass,,13273,2,,"Oct 15, 1987",2010,61
+Ryan Groy,Wisconsin,,17063,,,"Sep 30, 1990",,
+Abner Logan,Albany,,2976223,,,"Jul 24, 1993",,
+Adrian McDonald,Houston,,2981514,,,"Mar 18, 1994",,
+Rory Anderson,South Carolina,,2577661,7,,"Oct 2, 1992",2015,254
+Wes Saxton,South Alabama,3,2972765,,TE,"Aug 13, 1993",,
+Keith Wenning,Ball State,,16915,6,,"Feb 14, 1991",2014,194
+Eric Wood,Louisville,,12627,1,,"Mar 18, 1986",2009,28
+Colt Anderson,Montana,,12757,,,"Oct 25, 1985",,
+Deon Lacey,West Alabama,4,16475,,LB,"Jul 18, 1990",,
+Jordan Matthews,Vanderbilt,,16763,2,,"Jul 16, 1992",2014,42
+Cedric Thornton,Southern Arkansas,3,14310,,DT,"Jun 21, 1988",,
+Marcell Dareus,Alabama,9,13992,1,DT,"Mar 13, 1990",2011,3
+Kaelin Clay,Utah,5,2516957,6,WR,"Jan 2, 1992",2015,184
+Joe Webb,UAB,5,13484,6,QB,"Nov 14, 1986",2010,199
+Robert Blanton,Notre Dame,,15079,5,,"Sep 7, 1989",2012,139
+Shamarko Thomas,Syracuse,,15992,4,,"Feb 23, 1991",2013,111
+Deonte Thompson,Florida,5,15503,,WR,"Feb 14, 1989",,
+Jordan Mills,Louisiana Tech,9,16004,5,OT,"Dec 24, 1990",2013,163
+Kelvin Benjamin,Florida State,3,16730,1,WR,"Feb 5, 1991",2014,28
+Lafayette Pitts,Pittsburgh,0,2576665,,CB,"Sep 24, 1992",,
+Travaris Cadet,Appalachian State,9,15457,,RB,"Feb 1, 1989",,
+Cap Capi,Akron,1,2514374,,DE,"Jul 11, 1992",,
+Rickey Hatley,Missouri,4,2971436,,NT,"Mar 29, 1994",,
+Marcus Murphy,Missouri,5,2514123,7,RB,"Oct 3, 1991",2015,230
+Duke Riley,LSU,2,3042725,3,LB,"Aug 9, 1994",2017,75
+Josh Keyes,Boston ,9,2576461,,LB,"Jan 23, 1993",,
+De'Vondre Campbell,Minnesota,9,3040180,4,LB,"Jul 1, 1993",2016,115
+Chris Odom,Arkansas State,8,3042361,,LB,"Sep 16, 1994",,
+Blidi Wreh-Wilson,UConn,3,15881,3,CB,"Dec 5, 1989",2013,70
+Ra'Shede Hageman,Minnesota,,16744,2,,"Aug 8, 1990",2014,37
+Jalen Collins,LSU,,2577292,2,,"Mar 20, 1993",2015,42
+Deron Washington,Pittsburg State,,3073714,,,"May 3, 1993",,
+Courtney Upshaw,Alabama,,14970,2,,"Dec 13, 1989",2012,35
+Joe Vellano,Maryland,,16421,,,"Oct 30, 1988",,
+Ricardo Allen,Purdue,,16882,5,,"Dec 18, 1991",2014,147
+Marcelis Branch,Robert Morris,,2972155,,,"Jan 19, 1994",,
+Damontae Kazee,San Diego State,,2976099,5,,"Jun 5, 1993",2017,149
+Deion Jones,LSU,5,2976545,2,LB,"Nov 4, 1994",2016,52
+Kemal Ishmael,UCF,,16008,7,,"May 6, 1991",2013,243
+Desmond Trufant,Washington,1,15812,1,CB,"Sep 10, 1990",2013,22
+Deji Olatoye,North Carolina A&T,,17224,,,"Jul 20, 1991",,
+D.J. Tialavea,Utah State,,17269,,,"Jul 27, 1991",,
+C.J. Goodwin,California (PA),4,17474,,CB,"Feb 4, 1990",,
+Terron Ward,Oregon State,,2577023,,,"Feb 15, 1992",,
+Taniela Tupou,Washington,3,2578390,,DT,"Dec 13, 1992",,
+Jack Lynn,Minnesota,,2970711,,,"Aug 6, 1993",,
+Jordan Moore,UT San Antonio,,2971542,,,"Dec 13, 1993",,
+Sharrod Neasman,Florida Atlantic,,2982866,,,"Oct 14, 1991",,
+Quincy Mauger,Georgia,,3043147,,,"Mar 4, 1995",,
+Brian Hill,Wyoming,3,3125403,5,RB,"Nov 9, 1995",2017,156
+Jarnor Jones,Iowa State,,3892776,,,"Apr 29, 1994",,
+Brooks Reed,Arizona,0,13997,2,DE,"Feb 28, 1987",2011,42
+Jermaine Grace,Miami,8,3051924,,LB,"Nov 8, 1993",,
+LaRoy Reynolds,Virginia,0,16449,,LB,"Nov 3, 1990",,
+J.T. Jones,Miami (OH),5,2978065,,DE,"Nov 12, 1993",,
+Reggie Davis,Georgia,3,3043134,,WR,"Nov 22, 1995",,
+Anthony Dable,None,,3966261,,,"Sep 25, 1988",,
+Marvin Hall,Washington,7,2578369,,WR,"Apr 10, 1993",,
+Devonta Freeman,Florida State,4,16944,4,RB,"Mar 15, 1992",2014,103
+Austin Hooper,Stanford,1,3043275,3,TE,"Oct 29, 1994",2016,81
+Reginald Davis III,Texas Tech,,2979174,,,"Sep 14, 1993",,
+Deante Burton,Kansas State,9,2977689,,CB,"Jul 12, 1994",,
+Mohamed Sanu,Rutgers,2,14922,3,WR,"Aug 22, 1989",2012,83
+Kelvin Taylor,Florida,,3043120,6,,"Sep 28, 1993",2016,211
+Tyler Renew,The Citadel,,3049733,,,"Oct 20, 1994",,
+Darion Griswold,Arkansas State,,2572850,,,"Dec 23, 1992",,
+Josh Perkins,Washington,3,2578377,,TE,"Aug 5, 1993",,
+Josh Magee,South Alabama,,2979852,,,"Oct 1, 1991",,
+Eric Saubert,Drake,5,2975863,5,TE,"May 1, 1994",2017,174
+Mike Meyer,Iowa,,2522211,,,"Jun 2, 1992",,
+Matt Bryant,Baylor,3,4333,,PK,"May 29, 1975",,
+Matt Simms,Tennessee,,15407,,,"Sep 27, 1988",,
+Alek Torgersen,Pennsylvania,8,3049779,,QB,"Jan 13, 1995",,
+Tevin Coleman,Indiana,6,2979477,3,RB,"Apr 16, 1993",2015,73
+Matt Bosher,Miami,,14073,6,,"Oct 18, 1987",2011,192
+Matt Ryan,Boston ,2,11237,1,QB,"May 17, 1985",2008,3
+Matt Schaub,Virginia,8,5615,3,QB,"Jun 25, 1981",2004,90
+Josh Harris,Auburn,7,15151,,LS,"Apr 27, 1989",,
+Cornelius Edison,Portland State,,2565684,,,"Jul 10, 1993",,
+Jhurell Pressley,New Mexico,,2974212,,,"May 20, 1992",,
+Brian Poole,Florida,4,2980115,,CB,"Oct 20, 1992",,
+Keanu Neal,Florida,,3054962,1,,"Jul 26, 1995",2016,17
+Robert Alford,Southeastern Louisiana,3,15817,2,CB,"Nov 1, 1988",2013,60
+Vic Beasley Jr.,Clemson,4,2512400,1,LB,"Jul 8, 1992",2015,8
+Grady Jarrett,Clemson,7,2576492,5,DT,"Apr 28, 1993",2015,137
+Akeem King,San Jose State,6,2509574,7,CB,"Oct 29, 1992",2015,249
+Takkarist McKinley,UCLA,8,3152371,1,DE,"Nov 2, 1995",2017,26
+Nick Williams,UConn,4,16345,,WR,"Nov 23, 1990",,
+Bra'Lon Cherry,NC State,,3051708,,,"Jul 24, 1995",,
+Jack Crawford,Penn State,5,15090,5,DE,"Sep 7, 1988",2012,158
+Derrick Shelby,Utah,0,15278,,DE,"Mar 4, 1989",,
+Alex Mack,California,,12616,1,,"Nov 19, 1985",2009,21
+Adrian Clayborn,Iowa,4,13965,1,DE,"Jul 6, 1988",2011,20
+Derrick Coleman,UCLA,8,15351,,FB,"Oct 18, 1990",,
+Kevin Graf,USC,,16999,,,"Jun 17, 1991",,
+Julio Jones,Alabama,1,13982,1,WR,"Feb 8, 1989",2011,6
+Levine Toilolo,Stanford,7,15980,4,TE,"Jul 30, 1991",2013,133
+Taylor Gabriel,Abilene Christian,8,17437,,WR,"Feb 17, 1991",,
+Andre Roberts,The Citadel,3,13226,3,WR,"Jan 9, 1988",2010,88
+A.J. Jefferson,Mississippi State,,2971380,,,"Mar 3, 1993",,
+Alex Gray,None,9,4227184,,TE,"May 1, 1991",,
+Dontari Poe,Memphis,5,14939,1,DT,"Aug 18, 1990",2012,11
+Justin Hardy,East Carolina,4,2518678,4,WR,"Dec 18, 1991",2015,107
+Andy Levitre,Oregon State,,12614,2,,"May 15, 1986",2009,51
+Ben Garland,Air Force,,13802,,,"Apr 6, 1988",,
+Ahtyba Rubin,Iowa State,3,11424,6,DT,"Jul 25, 1986",2008,190
+Sean Weatherspoon,Missouri,,13243,1,,"Dec 29, 1987",2010,19
+Ryan Schraeder,Valdosta State,3,16222,,OT,"May 4, 1988",,
+Ty Sambrailo,Colorado State,4,2514397,2,OT,"Mar 10, 1992",2015,59
+Cordrea Tankersley,Clemson,0,3045136,3,CB,"Nov 19, 1993",2017,97
+Chase Allen,Southern Illinois,9,2975680,,LB,"Aug 29, 1993",,
+Deon Lacey,West Alabama,4,16475,,LB,"Jul 18, 1990",,
+Lafayette Pitts,Pittsburgh,0,2576665,,CB,"Sep 24, 1992",,
+Jordan Lucas,Penn State,3,2979595,6,CB,"Aug 2, 1993",2016,204
+Vincent Taylor,Oklahoma State,6,3046343,6,DT,"Jan 5, 1994",2017,194
+Terrence Fede,Marist,6,16860,7,DE,"Nov 19, 1991",2014,234
+Cameron Malveaux,Houston,5,2981511,,DE,"Sep 22, 1994",,
+William Hayes,Winston-Salem,5,11337,4,DE,"May 2, 1985",2008,103
+Ndamukong Suh,Nebraska,3,13234,1,DT,"Jan 6, 1987",2010,2
+Praise Martin-Oguike,Temple,,2574816,,,"Aug 30, 1993",,
+A.J. Hendy,Maryland,,2577076,,,"Apr 8, 1993",,
+Xavien Howard,Baylor,5,2978935,2,CB,"Jul 4, 1993",2016,38
+Alterraun Verner,UCLA,,13478,4,,"Dec 13, 1988",2010,104
+Trevor Reilly,Utah,,16834,7,,"Jan 17, 1988",2014,233
+Davon Godchaux,LSU,6,3115383,5,DT,"Nov 11, 1994",2017,178
+Lawrence Okoye,None,,16155,,,"Oct 6, 1991",,
+Lawrence Timmons,Florida State,,10459,1,,"May 14, 1986",2007,15
+Reshad Jones,Georgia,,13395,5,,"Feb 25, 1988",2010,163
+Michael Thomas,Stanford,,15231,,,"Mar 17, 1990",,
+Kiko Alonso,Oregon,7,15819,2,LB,"Aug 14, 1990",2013,46
+T.J. McDonald,USC,,15852,3,,"Jan 26, 1991",2013,71
+Brandon Watts,Georgia Tech,,16818,7,,"Jan 21, 1991",2014,223
+Mike Hull,Penn State,5,2515545,,LB,"May 25, 1991",,
+Thomas Duarte,UCLA,3,3047558,7,TE,"Mar 30, 1995",2016,231
+Maurice Smith,Georgia,,3054859,,,"Jun 14, 1995",,
+Torry McTyer,UNLV,4,3058965,,CB,"Apr 10, 1995",,
+Cameron Wake,Penn State,1,12417,,DE,"Jan 30, 1982",,
+Julius Warmsley,Tulane,2,17428,,DE,"May 15, 1990",,
+Nick Williams,Samford,7,2317118,7,DE,"Feb 21, 1990",2013,223
+Damore'ea Stringfellow,Ole Miss,7,3052182,,WR,"Oct 18, 1994",,
+Francis Owusu,Stanford,2,3043278,,WR,"Dec 27, 1994",,
+Leonte Carroo,Rutgers,8,2982804,3,WR,"Jan 24, 1994",2016,86
+MarQueis Gray,Minnesota,8,16323,,TE,"Nov 7, 1989",,
+Jakeem Grant,Texas Tech,9,2577641,6,WR,"Oct 30, 1992",2016,186
+DeVante Parker,Louisville,1,2576623,1,WR,"Jan 20, 1993",2015,14
+Senorise Perry,Louisville,4,17421,,RB,"Sep 19, 1991",,
+Kenyan Drake,Alabama,2,2979843,3,RB,"Jan 26, 1994",2016,73
+Mitch Mathews,BYU,,2474890,,,"Apr 15, 1991",,
+Drew Morgan,Arkansas,1,3046438,,WR,"Dec 2, 1994",,
+Andrew Franks,Rensselaer,,3893609,,,"Jan 11, 1993",,
+Damien Williams,Oklahoma,6,17359,,RB,"Apr 3, 1992",,
+De'Veon Smith,Michigan,8,3045199,,RB,"Nov 8, 1994",,
+Storm Johnson,UCF,,16884,7,,"Jul 10, 1992",2014,222
+Brandon Doughty,Western Kentucky,6,2517676,7,QB,"Oct 6, 1991",2016,223
+Matt Darr,Tennessee,,2516357,,,"Jul 2, 1992",,
+Matt Haack,Arizona State,,3043237,,,"Jul 25, 1994",,
+David Fales,San Jose State,9,16821,6,QB,"Oct 4, 1990",2014,183
+Matt Moore,Oregon State,,11128,,,"Aug 9, 1984",,
+Byron Maxwell,Clemson,1,14133,6,CB,"Feb 23, 1988",2011,173
+Junior Sylvestre,Toledo,,2574801,,,"Dec 27, 1991",,
+Bobby McCain,Memphis,8,2575606,5,CB,"Aug 18, 1993",2015,145
+Jordan Phillips,Oklahoma,7,2577466,2,DT,"Oct 15, 1992",2015,52
+Joby Saint Fleur,Northwestern Oklahoma State,,4213004,,,"Nov 11, 1992",,
+Charles Harris,Missouri,0,3051852,1,DE,"Mar 6, 1995",2017,22
+Malcolm Lewis,Miami,8,2969967,,WR,"Oct 27, 1993",,
+Jay Ajayi,Boise State,6,2573300,5,RB,"Jun 15, 1993",2015,149
+Kenny Stills,Oklahoma,0,16016,5,WR,"Apr 22, 1992",2013,144
+Julius Thomas,Portland State,,14204,4,,"Jun 27, 1988",2011,129
+Jarvis Landry,LSU,0,16790,2,WR,"Nov 28, 1992",2014,63
+Jay Cutler,Vanderbilt,,9597,1,,"Apr 29, 1983",2006,11
+Andre Branch,Clemson,0,14952,2,DE,"Jul 14, 1989",2012,38
+Nate Allen,South Florida,,13257,2,,"Nov 30, 1987",2010,37
+Jermon Bushrod,Towson,4,10568,4,OT,"Aug 19, 1984",2007,125
+Jesse Davis,Idaho,7,2517316,,OT,"Sep 15, 1991",,
+Anthony Fasano,Notre Dame,,9639,2,,"Apr 20, 1984",2006,53
+Larry Hope,Akron,,2969957,,,"Oct 19, 1993",,
+Winston Chapman,Mississippi State,,2577438,,,"Apr 15, 1992",,
+Chris Pantale,Boston ,,16210,,,"Mar 22, 1990",,
+Rashad Lawrence,Northwestern,,17349,,,"Jun 10, 1992",,
+Justin March-Lillard,Akron,3,2574282,,LB,"Jul 5, 1993",,
+Cody Parkey,Auburn,1,17082,,PK,"Feb 19, 1992",,
+John Denney,BYU,2,9287,,LS,"Dec 13, 1978",,
+Rey Maualuga,USC,,12455,2,,"Jan 20, 1987",2009,38
+Ja'Wuan James,Tennessee,0,16722,1,OT,"Jun 3, 1992",2014,19
+Walt Aikens,Liberty,5,16819,4,CB,"Jun 19, 1991",2014,125
+Mike Pouncey,Florida,,13974,1,,"Jul 24, 1989",2011,15
+Ted Larsen,NC State,,13403,6,,"Jun 13, 1987",2010,205
+Stephone Anthony,Clemson,4,2576482,1,LB,"Jul 28, 1992",2015,31
+Neville Hewitt,Marshall,6,3059880,,LB,"Apr 6, 1993",,
+A.J. Derby,Arkansas,5,3046413,6,TE,"Sep 20, 1991",2015,202
+Gabe Wright,Auburn,8,2574579,4,DT,"Apr 3, 1992",2015,113
+Blair Brown,Ohio,3,2980639,5,LB,"May 27, 1994",2017,148
+Dawuane Smoot,Illinois,4,3042476,3,DE,"Mar 2, 1995",2017,68
+Myles Jack,UCLA,4,3047566,2,LB,"Sep 3, 1995",2016,36
+Lerentee McCray,Florida,5,16090,,LB,"Aug 26, 1990",,
+Audie Cole,NC State,,15023,7,,"Jun 1, 1989",2012,210
+Hayes Pullard,USC,0,2510601,7,LB,"Apr 18, 1992",2015,219
+Jarrod Wilson,Michigan,,2970661,,,"Feb 9, 1994",,
+Josh Johnson,Purdue,,16080,,,"Sep 10, 1989",,
+Tracy Howard,Miami,1,2969958,,CB,"Apr 29, 1994",,
+Yannick Ngakoue,Maryland,1,3053044,3,DE,"Mar 31, 1995",2016,69
+Josh McNary,Army,,15778,,,"Apr 10, 1988",,
+Stefan Charles,University of Regina,0,16568,,DT,"Jun 9, 1988",,
+Jonathan Woodard,Central Arkansas,6,2567970,7,DE,"Sep 19, 1993",2016,226
+Telvin Smith,Florida State,0,16891,5,LB,"Apr 11, 1991",2014,144
+Tashaun Gipson,Wyoming,,15235,,,"Aug 7, 1990",,
+Jarrod Harper,West Virginia,,2976633,,,"Mar 28, 1994",,
+Dante Fowler Jr.,Florida,6,2980100,1,DE,"Aug 3, 1994",2015,3
+Jalen Myrick,Minnesota,1,3040198,7,CB,"Feb 27, 1995",2017,222
+Barry Church,Toledo,,13338,,,"Feb 11, 1988",,
+Sheldon Day,Notre Dame,6,2976194,4,DT,"Jul 1, 1994",2016,103
+Doran Grant,Ohio State,5,2576385,4,CB,"Nov 30, 1992",2015,121
+P.J. Davis,Georgia Tech,,3055901,,,"Jan 22, 1995",,
+Arrelious Benn,Illinois,,13218,2,,"Sep 8, 1988",2010,39
+Jeron Johnson,Boise State,,14274,,,"Jun 12, 1988",,
+Peyton Thompson,San Jose State,,15156,,,"Sep 26, 1990",,
+Brian Dixon,Northwest Missouri State,,17139,,,"Apr 26, 1990",,
+Charles Gaines,Louisville,,2576621,6,,"Oct 3, 1992",2015,189
+Ezra Robinson,Tennessee State,,2979555,,,"Feb 19, 1994",,
+Keelan Cole,Kentucky Wesleyan,4,3071572,,WR,"Apr 20, 1993",,
+Malik Jackson,Tennessee,7,15047,5,DT,"Jan 11, 1990",2012,137
+Malliciah Goodman,Clemson,,15957,4,,"Jan 4, 1990",2013,127
+Tyler Patmon,Oklahoma State,3,17450,,CB,"Jan 26, 1991",,
+Larry Pinkard,Old Dominion,1,2512892,,WR,"Feb 25, 1992",,
+Kevin Maurice,Nebraska,,3040491,,,"Jun 7, 1993",,
+Carroll Phillips,Illinois,9,3115911,,DE,"Sep 2, 1992",,
+Tueni Lupeamanu,Idaho,,3124899,,,"Apr 14, 1995",,
+Tim Cook,Oregon State,1,3930272,,RB,"Apr 29, 1994",,
+Dede Westbrook,Oklahoma,2,3892889,4,WR,"Nov 21, 1993",2017,110
+Shane Wynn,Indiana,4,2578322,,WR,"Nov 15, 1992",,
+Ben Koyack,Notre Dame,3,2579846,7,TE,"Apr 9, 1993",2015,229
+Rashad Greene,Florida State,3,2576785,5,WR,"Sep 23, 1992",2015,139
+Alex Ellis,Tennessee,2,2577731,,TE,"Feb 10, 1993",,
+Neal Sterling,Monmouth,5,2513770,7,TE,"Jan 14, 1992",2015,220
+Chris Ivory,Tiffin University,3,13587,,RB,"Mar 22, 1988",,
+T.J. Yeldon,Alabama,4,2976516,2,RB,"Oct 2, 1993",2015,36
+Allen Robinson,Penn State,2,16799,2,WR,"Aug 24, 1993",2014,61
+Jason Myers,Marist,2,2473037,,PK,"May 12, 1991",,
+Corey Grant,Auburn,0,2515934,,RB,"Dec 19, 1991",,
+Leonard Fournette,LSU,7,3115364,1,RB,"Jan 18, 1995",2017,4
+Brandon Allen,Arkansas,8,2574511,6,QB,"Sep 5, 1992",2016,201
+Chad Henne,Michigan,4,11291,2,QB,"Jul 2, 1985",2008,57
+Brad Nortman,Wisconsin,,15051,6,,"Sep 12, 1989",2012,207
+Blake Bortles,UCF,5,16724,1,QB,"Apr 28, 1992",2014,3
+Paul Posluszny,Penn State,,10478,2,,"Oct 10, 1984",2007,34
+Stanley Jean-Baptiste,Nebraska,8,16774,2,CB,"Apr 12, 1990",2014,58
+Andrew Gachkar,Missouri,,14141,7,,"Nov 4, 1988",2011,234
+Marcedes Lewis,UCLA,9,9614,1,TE,"May 19, 1984",2006,28
+Jonathan Grimes,William & Mary,,15632,,,"Dec 21, 1989",,
+Marquez Williams,Miami,,2985288,7,,"Jul 16, 1994",2017,240
+Calais Campbell,Miami,3,11284,2,DE,"Sep 1, 1986",2008,50
+Abry Jones,Georgia,5,16376,,DT,"Sep 8, 1991",,
+Matt Overton,Western Washington,,13186,,,"Jul 6, 1985",,
+Allen Hurns,Miami,7,17177,,WR,"Nov 12, 1991",,
+Jalen Ramsey,Florida State,0,3045373,1,CB,"Oct 24, 1994",2016,5
+Tommy Bohanon,Wake Forest,0,15973,7,FB,"Sep 10, 1990",2013,215
+Akeem Dent,Georgia,,14006,3,,"Sep 27, 1987",2011,91
+Charles James II,Charleston Southern,,16561,,,"May 14, 1990",,
+Michael Bennett,Ohio State,6,2576371,6,DT,"Feb 24, 1993",2015,180
+Amba Etta-Tawo,Syracuse,6,2976215,,WR,"Nov 10, 1993",,
+Jamal Robinson,Louisiana,,2574024,,,"Jan 13, 1993",,
+DuJuan Harris,Troy,,14255,,,"Sep 3, 1988",,
+A.J. Bouye,UCF,1,16562,,CB,"Aug 16, 1991",,
+Aaron Colvin,Oklahoma,2,16900,4,CB,"Oct 2, 1991",2014,114
+James O'Shaughnessy,Illinois State,0,2508079,5,TE,"Jan 14, 1992",2015,173
+Eli Ankou,UCLA,4,3008150,,DT,"Jun 8, 1994",,
+Donald Payne,Stetson,2,3048402,,LB,"Jul 12, 1994",,
+Marqise Lee,USC,1,16787,2,WR,"Nov 25, 1991",2014,39
+Jermey Parnell,Ole Miss,8,13066,,OT,"Jul 20, 1986",,
+Max McCaffrey,Duke,1,2969896,,WR,"May 17, 1994",,
+Lafayette Pitts,Pittsburgh,0,2576665,,CB,"Sep 24, 1992",,
+Patrick Omameh,Michigan,,16327,,,"Dec 29, 1989",,
+Josh Lambo,Texas A&M,4,2998120,,PK,"Nov 19, 1990",,
+Marcell Dareus,Alabama,9,13992,1,DT,"Mar 13, 1990",2011,3
+Jaydon Mickens,Washington,5,2978308,,WR,"Apr 21, 1994",,
+Tyler Shatley,Clemson,,17037,,,"May 5, 1991",,
+Brandon Linder,Miami,,16770,3,,"Jan 25, 1992",2014,93
+Calvin Pryor III,Louisville,,16729,1,,"Jul 2, 1992",2014,18
+Jaelen Strong,Arizona State,0,3043263,3,WR,"Jan 25, 1994",2015,70
+Colin Holba,Louisville,9,3040072,6,LS,"Jul 8, 1994",2017,213
+Jordan Richards,Stanford,,2577139,2,,"Jan 21, 1993",2015,64
+Elandon Roberts,Houston,2,2987743,6,LB,"Apr 22, 1994",2016,214
+Josh Augusta,Missouri,,3051846,,,"Aug 24, 1994",,
+Darius Kilgo,Maryland,6,2512544,6,NT,"Dec 14, 1991",2015,203
+Geneo Grissom,Oklahoma,6,2514217,3,DE,"Jun 4, 1992",2015,97
+Jonathan Freeny,Rutgers,5,14387,,LB,"Jun 15, 1989",,
+Trevor Bates,Maine,3,2585785,7,LB,"Aug 28, 1993",2016,239
+Harvey Langi,BYU,8,2570996,,LB,"Sep 24, 1992",,
+Woodrow Hamilton IV,Ole Miss,6,2577392,,DT,"Dec 20, 1992",,
+Justin Coleman,Tennessee,8,2577707,,CB,"Mar 27, 1993",,
+Damarius Travis,Minnesota,,2970724,,,"Apr 19, 1994",,
+Jason Thompson,Utah,,2976184,,,"Apr 21, 1994",,
+Caleb Kidder,Montana,4,2982936,,DE,"Feb 4, 1994",,
+Jonathan Jones,Auburn,1,2971027,,CB,"Sep 20, 1993",,
+Cyrus Jones,Alabama,1,2979849,2,CB,"Nov 29, 1993",2016,60
+Deatrich Wise Jr.,Arkansas,1,2980080,4,DE,"Jul 26, 1994",2017,131
+Ryan Allen,Louisiana Tech,,16382,,,"Feb 28, 1990",,
+Cole Croston,Iowa,4,2991684,,OT,"Dec 25, 1993",,
+Brandon King,Auburn,6,3051905,,LB,"Jun 8, 1993",,
+D.J. Killings,UCF,5,3054031,,CB,"Aug 9, 1995",,
+Jacob Hollister,Wyoming,7,3125404,,TE,"Nov 18, 1993",,
+Austin Carr,Northwestern,0,2974339,,WR,"Dec 25, 1993",,
+K.J. Maye,,,2970712,,,"Feb 25, 1994",,
+D.J. Foster,Arizona State,7,2978124,,RB,"Nov 22, 1993",,
+Brandon Bolden,Ole Miss,8,15478,,RB,"Jan 26, 1990",,
+Dion Lewis,Pittsburgh,3,14198,5,RB,"Sep 27, 1990",2011,149
+Sam Cotton,Nebraska,,2974307,,,"Jan 27, 1994",,
+Devin Lucien,Arizona State,0,2577190,7,WR,"Jun 26, 1993",2016,225
+Glenn Gronkowski,Kansas State,,2977698,,,"Mar 25, 1993",,
+Stephen Gostkowski,Memphis,3,9704,4,PK,"Jan 28, 1984",2006,118
+LeShun Daniels Jr.,Iowa,6,3040143,,RB,"Jun 4, 1995",,
+Jimmy Garoppolo,Eastern Illinois,0,16760,2,QB,"Nov 2, 1991",2014,62
+Jacoby Brissett,NC State,7,2578570,3,QB,"Dec 11, 1993",2016,91
+David Harris,Michigan,,10491,2,,"Jan 21, 1984",2007,47
+Malcom Brown,Texas,0,2971698,1,DT,"Feb 2, 1994",2015,32
+Malcolm Butler,West Alabama,1,17435,,CB,"Mar 2, 1990",,
+Alan Branch,Michigan,,10477,2,,"Dec 29, 1984",2007,33
+Devin McCourty,Rutgers,,13236,1,,"Aug 13, 1987",2010,27
+Vincent Valentine,Nebraska,9,2974333,3,DT,"Feb 23, 1994",2016,96
+Lawrence Guy,Arizona State,3,14185,7,DE,"Mar 17, 1990",2011,233
+Patrick Chung,Oregon,,12527,2,,"Aug 19, 1987",2009,34
+Adam Butler,Vanderbilt,0,2972342,,DT,"Apr 12, 1994",,
+David Jones,Richmond,,2969018,,,"Dec 4, 1993",,
+Kyle Van Noy,BYU,3,16772,2,LB,"Mar 26, 1991",2014,40
+James Ferentz,Iowa,,17361,,,"Jun 5, 1989",,
+Joe Cardona,Navy,9,2575907,5,LS,"Apr 16, 1992",2015,166
+Eric Rowe,Utah,5,2576002,2,CB,"Oct 3, 1992",2015,47
+Kenny Moore II,Valdosta State,3,4218312,,CB,"Aug 23, 1995",,
+Stephon Gilmore,South Carolina,4,14942,1,CB,"Sep 19, 1990",2012,10
+Rex Burkhead,Nebraska,4,15971,6,RB,"Jul 2, 1990",2013,190
+James O'Shaughnessy,Illinois State,0,2508079,5,TE,"Jan 14, 1992",2015,173
+Malcolm Mitchell,Georgia,,2578553,4,,"Jul 20, 1992",2016,112
+Tony Washington,Appalachian State,,17048,,,"Oct 18, 1990",,
+Brandin Cooks,Oregon State,2,16731,1,WR,"Sep 25, 1993",2014,20
+Danny Amendola,Texas Tech,0,11674,,WR,"Nov 2, 1985",,
+James White,Wisconsin,8,16913,4,RB,"Feb 3, 1992",2014,130
+Julian Edelman,Kent State,1,12649,7,WR,"May 22, 1986",2009,232
+Chris Hogan,Monmouth,5,14402,,WR,"Oct 24, 1988",,
+Cody Hollister,Arkansas,,3115443,,,"Nov 18, 1993",,
+Tom Brady,Michigan,2,2330,6,QB,"Aug 3, 1977",2000,199
+Trey Flowers,Arkansas,8,2574519,4,DE,"Aug 16, 1993",2015,101
+Duron Harmon,Rutgers,,15842,3,,"Jan 24, 1991",2013,91
+Kony Ealy,Missouri,6,16773,2,DE,"Dec 21, 1991",2014,60
+Rob Gronkowski,Arizona,7,13229,2,TE,"May 14, 1989",2010,42
+Mike Gillislee,Florida,5,15952,5,RB,"Nov 1, 1990",2013,164
+William Likely,Maryland,,3044776,,,"Sep 13, 1994",,
+Nick Usher,UTEP,,3042536,,,"Jan 22, 1995",,
+Brooks Ellis,Arkansas,7,3046430,,LB,"Jan 15, 1995",,
+Cassius Marsh,UCLA,4,16873,4,DE,"Jul 7, 1992",2014,108
+Dont'a Hightower,Alabama,4,14933,1,LB,"Mar 12, 1990",2012,25
+Johnson Bademosi,Stanford,0,15359,,CB,"Jul 23, 1990",,
+Dwayne Allen,Clemson,3,14901,3,TE,"Feb 24, 1990",2012,64
+Phillip Dorsett,Miami,3,2579604,1,WR,"Jan 5, 1993",2015,29
+Marquis Flowers,Arizona,9,16924,6,LB,"Feb 16, 1992",2014,212
+James Develin,Brown,6,13940,,FB,"Jul 23, 1988",,
+Nate Ebner,Ohio State,,15125,6,,"Dec 14, 1988",2012,197
+Joe Thuney,NC State,,2577773,3,,"Nov 18, 1992",2016,78
+Matthew Slater,UCLA,8,11387,5,WR,"Sep 9, 1985",2008,153
+Trevor Reilly,Utah,,16834,7,,"Jan 17, 1988",2014,233
+Ricky Jean Francois,LSU,7,12443,7,DT,"Nov 23, 1986",2009,244
+Martellus Bennett,Texas A&M,,11295,2,,"Mar 10, 1987",2008,61
+Brian Hoyer,Michigan State,2,12477,,QB,"Oct 13, 1985",,
+Eric Lee,South Florida,5,2970397,,DE,"Aug 6, 1994",,
+Nicholas Grigsby,Pittsburgh,0,2576660,,LB,"Jul 2, 1992",,
+Kenny Britt,Rutgers,8,12556,1,WR,"Sep 19, 1988",2009,30
+James Harrison,Kent State,,4433,,,"May 4, 1978",,
+Zach Vigil,Utah State,6,2517389,,LB,"Mar 28, 1991",,
+Josh Harvey-Clemons,Louisville,0,2977645,7,LB,"Feb 20, 1994",2017,230
+Lynden Trail,Norfolk State,,2516070,,,"Mar 19, 1991",,
+Nico Marley,Tulane,,3041099,,,"Jan 5, 1995",,
+Mason Foster,Washington,4,14023,3,LB,"Mar 1, 1989",2011,84
+Zach Brown,North Carolina,3,14973,2,LB,"Oct 23, 1989",2012,52
+Stefan McClure,California,,2576878,,,"Jan 31, 1993",,
+Chris Carter,Fresno State,,14174,5,,"Apr 6, 1989",2011,162
+Ryan Anderson,Alabama,2,2976495,2,LB,"Aug 12, 1994",2017,49
+Anthony Lanier II,Alabama A&M,2,2585962,,DE,"May 8, 1993",,
+Fish Smithson,Kansas,,3892785,,,"Mar 18, 1994",,
+Dashaun Phillips,Tarleton State,5,17333,,CB,"Jan 3, 1991",,
+Tim Scott,North Carolina,5,2577110,,CB,"Jan 25, 1993",,
+Deshazor Everett,Texas A&M,,2578692,,,"Feb 22, 1992",,
+Robert Davis,Georgia State,9,3042373,6,WR,"Apr 2, 1995",2017,209
+Pete Robertson,Texas Tech,5,2577651,,LB,"Dec 12, 1992",,
+Jonathan Allen,Alabama,3,3054840,1,DE,"Jan 16, 1995",2017,17
+Phil Taylor Sr.,Baylor,9,13968,1,DT,"Apr 7, 1988",2011,21
+Terrell McClain,South Florida,9,14014,3,DT,"Jul 20, 1988",2011,65
+Tress Way,Oklahoma,,16166,,,"Apr 18, 1990",,
+A.J. Francis,Maryland,5,16398,,DT,"May 7, 1990",,
+Joshua Holsey,Auburn,8,2971036,7,CB,"Jun 25, 1994",2017,235
+Tevin Homer,Florida Atlantic,,3932122,,,"Mar 13, 1995",,
+Will Blackmon,Boston ,,9701,4,,"Oct 27, 1984",2006,115
+Ziggy Hood,Missouri,0,12442,1,NT,"Feb 16, 1987",2009,32
+Derek Carrier,Beloit ,5,15403,,TE,"Jul 25, 1990",,
+Trent Murphy,Stanford,3,16751,2,DE,"Dec 22, 1990",2014,47
+Quinton Dunbar,Florida,3,2516049,,CB,"Jul 22, 1992",,
+Joey Mbu,Houston,3,2575583,,DT,"Mar 28, 1993",,
+Zach Pascal,Old Dominion,4,2978109,,WR,"Dec 18, 1994",,
+Jeremiah McKinnon,Florida Intl,7,2981866,,CB,"Jun 29, 1993",,
+Brian Quick,Appalachian State,3,14914,2,WR,"Jun 5, 1989",2012,33
+Ryan Grant,Tulane,1,16845,5,WR,"Dec 19, 1990",2014,142
+Matt Jones,Florida,8,2980105,3,RB,"Mar 7, 1993",2015,95
+James Quick,Louisville,,3040052,,,"Oct 6, 1994",,
+Matt Hazel,Coastal Carolina,3,16870,6,WR,"Jan 23, 1992",2014,190
+Rob Kelley,Tulane,0,2575408,,RB,"Oct 3, 1992",,
+Jeremy Sprinkle,Arkansas,7,2980073,5,TE,"Aug 10, 1994",2017,154
+Terrelle Pryor,Ohio State,1,14851,,WR,"Jun 20, 1989",,
+Manasseh Garner,Pittsburgh,2,2515609,,TE,"Mar 11, 1992",,
+Samaje Perine,Oklahoma,2,3116389,4,RB,"Sep 16, 1995",2017,114
+Dustin Hopkins,Florida State,3,15965,6,PK,"Oct 1, 1990",2013,177
+Mack Brown,Florida,1,2512191,,RB,"Sep 24, 1991",,
+Chris Thompson,Florida State,5,15966,5,RB,"Oct 20, 1990",2013,154
+Colt McCoy,Texas,2,13199,3,QB,"Sep 5, 1986",2010,85
+Nate Sudfeld,Indiana,7,2979501,6,QB,"Oct 7, 1993",2016,187
+Kirk Cousins,Michigan State,8,14880,4,QB,"Aug 19, 1988",2012,102
+Fabian Moreau,UCLA,1,2971586,3,CB,"Apr 9, 1994",2017,81
+Bashaud Breeland,Clemson,,16890,4,,"Jan 30, 1992",2014,102
+Martrell Spaight,Arkansas,0,3046428,5,LB,"Aug 5, 1993",2015,141
+Montae Nicholson,Michigan State,,3134683,4,,"Dec 4, 1995",2017,123
+Josh Norman,Coastal Carolina,4,15124,5,CB,"Dec 15, 1987",2012,143
+Preston Smith,Mississippi State,4,2577446,2,LB,"Nov 17, 1992",2015,38
+D.J. Swearinger,South Carolina,,15865,2,,"Sep 1, 1991",2013,57
+Brandon Banks,Charlotte,,3050096,,,"Jul 13, 1994",,
+Matt Ioannidis,Temple,8,2976263,5,DT,"Jan 11, 1994",2016,152
+Stacy McGee,Oklahoma,2,15906,6,DT,"Jan 17, 1990",2013,205
+Vernon Davis,Maryland,5,9592,1,TE,"Jan 31, 1984",2006,6
+Niles Paul,Nebraska,1,14156,5,TE,"Aug 9, 1989",2011,155
+Josh Doctson,TCU,8,2576019,1,WR,"Dec 3, 1992",2016,22
+Jamison Crowder,Duke,0,2576716,4,WR,"Jun 17, 1993",2015,105
+Kendall Fuller,Virginia Tech,3,3045465,3,CB,"Feb 13, 1995",2016,84
+Will Compton,Nebraska,1,16324,,LB,"Sep 19, 1989",,
+Junior Galette,Stillman,,13566,,,"Mar 27, 1988",,
+Nick Sundberg,California,7,12904,,LS,"Jul 29, 1987",,
+Jordan Reed,Florida,6,15860,3,TE,"Jul 3, 1990",2013,85
+Maurice Harris,California,3,2576868,,WR,"Nov 11, 1992",,
+Ondre Pipkins,Texas Tech,8,2977620,,DT,"Feb 25, 1994",,
+Tyler Catalina,Georgia,,2969004,,,"Jan 24, 1993",,
+Ron Thompson Jr.,Syracuse,,2970420,,,"Aug 2, 1993",,
+Jamari Staples,Louisville,,3060040,,,"Sep 10, 1994",,
+E.J. Bibbs,Iowa State,,3039924,,,"Aug 28, 1991",,
+Kenny Hilliard,LSU,0,2577288,7,RB,"Oct 3, 1991",2015,235
+Ryan Kerrigan,Purdue,1,13973,1,LB,"Aug 16, 1988",2011,16
+Trent Williams,Oklahoma,1,13241,1,OT,"Jul 19, 1988",2010,4
+Brandon Scherff,Iowa,,2511708,1,,"Dec 26, 1991",2015,5
+Nick Rose,Texas,6,2971728,,PK,"May 5, 1994",,
+Morgan Moses,Virginia,6,16771,3,OT,"Mar 3, 1991",2014,66
+Chase Roullier,Wyoming,,2976182,6,,"Aug 23, 1993",2017,199
+DeAngelo Hall,Virginia Tech,,5533,1,,"Nov 19, 1983",2004,8
+Byron Marshall,Oregon,4,2971289,,RB,"Feb 13, 1994",,
+Ty Nsekhe,Texas State,9,15724,,OT,"Oct 27, 1985",,
+Arie Kouandjio,Alabama,,2515944,4,,"Apr 23, 1992",2015,112
+LeShun Daniels Jr.,Iowa,6,3040143,,RB,"Jun 4, 1995",,
+Otha Peters,Louisiana,2,2980070,,LB,"Feb 27, 1994",,
+Kapri Bibbs,Colorado State,5,16969,,RB,"Jan 10, 1993",,
+Brent Urban,Virginia,6,16831,4,DE,"May 5, 1991",2014,134
+Patrick Onwuasor,Portland State,8,2576761,,LB,"Aug 22, 1992",,
+Bam Bradley,Pittsburgh,3,2970256,,LB,"Jun 26, 1994",,
+Michael Pierce,Samford,7,2972144,,DT,"Nov 6, 1992",,
+Tyus Bowser,Houston,4,3040037,2,LB,"May 23, 1995",2017,47
+Jaylen Hill,Jacksonville State,3,3057517,,CB,"May 26, 1994",,
+Anthony Levine Sr.,Tennessee State,1,13845,,CB,"Mar 27, 1987",,
+Bronson Kaufusi,BYU,2,2980444,3,DE,"Jul 6, 1991",2016,70
+Patrick Ricard,Maine,2,2975417,,DE,"May 27, 1994",,
+Matthew Judon,Grand Valley State,9,3961466,5,LB,"Aug 15, 1992",2016,146
+Terrell Suggs,Arizona State,5,4468,1,LB,"Oct 11, 1982",2003,10
+Brandon Boykin,Georgia,,15057,4,,"Jul 13, 1990",2012,123
+Otha Foster,West Alabama,,16258,,,"Sep 27, 1988",,
+Brennen Beyer,Michigan,,2576253,,,"Nov 25, 1992",,
+Chris Wormley,Michigan,3,2977615,3,DE,"Oct 25, 1993",2017,74
+Willie Henry,Michigan,9,2977625,4,DT,"Mar 20, 1994",2016,132
+Kamalei Correa,Boise State,1,3042874,2,LB,"Apr 27, 1994",2016,42
+Za'Darius Smith,Kentucky,0,3043168,4,LB,"Sep 8, 1992",2015,122
+Chuck Clark,Virginia Tech,,3045463,6,,"Apr 19, 1995",2017,186
+Donald Payne,Stetson,2,3048402,,LB,"Jul 12, 1994",,
+Robertson Daniel,BYU,1,3053794,,CB,"Oct 2, 1991",,
+Brandon Williams,Missouri Southern State,8,15875,3,DT,"Feb 21, 1989",2013,94
+C.J. Mosley,Alabama,7,16720,1,LB,"Jun 19, 1992",2014,17
+Albert McClellan,Marshall,0,13851,,LB,"Jun 4, 1986",,
+Trevin Wade,Arizona,,15016,7,,"Aug 1, 1989",2012,245
+Carl Davis,Iowa,4,2511690,3,DT,"Mar 2, 1992",2015,90
+C.J. Board,Chattanooga,6,2973626,,WR,"Dec 12, 1993",,
+Tim White,Arizona State,4,3915403,,WR,"Jul 15, 1994",,
+Quincy Adeboyejo,Ole Miss,6,3051869,,WR,"May 26, 1995",,
+Chris Moore,Cincinnati,0,2576581,4,WR,"Jun 16, 1993",2016,107
+Javorius Allen,USC,7,2577253,4,RB,"Aug 27, 1991",2015,125
+Griff Whalen,Stanford,3,15360,,WR,"Mar 1, 1990",,
+Michael Campanaro,Wake Forest,0,16832,7,WR,"Jan 25, 1991",2014,218
+Nick Boyle,Delaware,6,2574591,5,TE,"Feb 17, 1993",2015,171
+Maxx Williams,Minnesota,7,2970726,2,TE,"Apr 12, 1994",2015,55
+Taquan Mizzell,Virginia,3,3048680,,RB,"Oct 21, 1993",,
+Ricky Ortiz,Oregon State,0,2978244,,RB,"Apr 15, 1994",,
+Chris Matthews,Kentucky,,14285,,,"Oct 6, 1989",,
+Larry Donnell,Grambling,,15707,,,"Nov 1, 1988",,
+Terrance West,Towson,8,16783,3,RB,"Jan 28, 1991",2014,94
+Justin Tucker,Texas,9,15683,,PK,"Nov 21, 1989",,
+Josh Woodrum,Liberty,7,2575214,,QB,"Nov 7, 1992",,
+Bobby Rainey Jr.,Western Kentucky,,15501,,,"Oct 16, 1987",,
+Sam Koch,Nebraska,,9789,6,,"Aug 13, 1982",2006,203
+Kenny Allen,Michigan,,3045226,,,"Jul 8, 1994",,
+Ryan Mallett,Arkansas,,14037,3,,"Jun 5, 1988",2011,74
+Dustin Vaughan,West Texas A&M,,17337,,,"Jan 27, 1991",,
+Tim Williams,Alabama,6,3054862,3,LB,"Nov 12, 1993",2017,78
+Brandon Carr,Grand Valley State,4,11363,5,CB,"May 19, 1986",2008,140
+Eric Weddle,Utah,,10481,2,,"Jan 4, 1985",2007,37
+Lardarius Webb,Nicholls,,12747,3,,"Oct 12, 1985",2009,88
+Jimmy Smith,Colorado,2,13963,1,CB,"Jul 26, 1988",2011,27
+Tony Jefferson,Oklahoma,,16195,,,"Jan 27, 1992",,
+Boseko Lokombo,Oregon,1,2475164,,LB,"Oct 15, 1990",,
+Randy Allen,South Alabama,,3933340,,,"Aug 4, 1993",,
+Sheldon Price,UCLA,,16302,,,"Mar 26, 1991",,
+Mike Wallace,Ole Miss,4,12601,3,WR,"Aug 1, 1986",2009,84
+Vince Mayle,Washington State,8,3052066,4,TE,"Jun 12, 1991",2015,123
+Benjamin Watson,Georgia,2,5557,1,TE,"Dec 18, 1980",2004,32
+Ryan Malleck,Virginia Tech,2,2577892,,TE,"Jul 22, 1993",,
+Jeremy Maclin,Missouri,,12579,1,,"May 11, 1988",2009,19
+Danny Woodhead,Chadron State,,11788,,,"Jan 25, 1985",,
+Lorenzo Taliaferro,Coastal Carolina,,16950,4,,"Dec 23, 1991",2014,138
+Thaddeus Lewis,Duke,,13606,,,"Nov 19, 1987",,
+Austin Howard,Northern Iowa,9,13585,,OT,"Mar 22, 1987",,
+Matt Skura,Duke,,2576733,,,"Feb 17, 1993",,
+Reggie Porter,Utah,1,2971659,,CB,"Jul 13, 1994",,
+Marlon Humphrey,Alabama,9,3126356,1,CB,"Jul 8, 1996",2017,16
+Keenan Reynolds,Navy,5,2970457,6,WR,"Dec 13, 1993",2016,182
+Breshad Perriman,UCF,1,2972460,1,WR,"Sep 10, 1993",2015,26
+Joe Flacco,Delaware,5,11252,1,QB,"Jan 16, 1985",2008,18
+Alex Collins,Arkansas,4,3046409,5,RB,"Aug 26, 1994",2016,171
+Jonathan Freeny,Rutgers,5,14387,,LB,"Jun 15, 1989",,
+Tony McRae,North Carolina A&T,9,2969422,,CB,"May 3, 1993",,
+Morgan Cox,Tennessee,6,13848,,LS,"Apr 26, 1986",,
+Steven Johnson,Kansas,,15733,,,"Mar 28, 1988",,
+Maurice Canady,Virginia,6,2979655,6,CB,"May 26, 1994",2016,209
+Ryan Jensen,Colorado State-Pueblo,,16038,6,,"May 27, 1991",2013,203
+Stanley Jean-Baptiste,Nebraska,8,16774,2,CB,"Apr 12, 1990",2014,58
+Jamal Carter,Miami,,3051925,,,"Apr 12, 1994",,
+Orion Stewart,Baylor,,2978946,,,"Jan 10, 1994",,
+Chris Lewis-Harris,Chattanooga,9,15713,,CB,"Feb 11, 1989",,
+Kevin Snyder,Rutgers,,2582398,,,"Jul 25, 1992",,
+Marcus Rios,UCLA,8,2971592,,CB,"Oct 25, 1994",,
+Zaire Anderson,Nebraska,0,2974300,,LB,"Aug 18, 1992",,
+Brendan Langley,Lamar,7,3043144,3,CB,"Oct 16, 1994",2017,101
+Shakir Soto,Pittsburgh,4,3045152,,DE,"Feb 12, 1994",,
+Billy Winn,Boise State,,15021,6,,"Apr 15, 1989",2012,205
+Shelby Harris,Illinois State,6,16837,7,DE,"Aug 11, 1991",2014,235
+Zach Kerr,Delaware,2,17071,,NT,"Aug 29, 1990",,
+Kasim Edebali,Boston ,7,17141,,LB,"Aug 17, 1989",,
+Justin Simmons,Boston ,,2969860,3,,"Nov 19, 1993",2016,98
+Dymonte Thomas,Michigan,,3045206,,,"Nov 30, 1993",,
+DeMarcus Walker,Florida State,7,3045377,2,DE,"Sep 30, 1994",2017,51
+Jared Crick,Nebraska,,15019,4,,"Aug 21, 1989",2012,126
+Corey Nelson,Oklahoma,2,16902,7,LB,"Apr 22, 1992",2014,242
+Jordan Taylor,Rice,7,2515662,,WR,"Feb 18, 1992",,
+Vontarrius Dora,Louisiana Tech,9,2574163,,DE,"Sep 7, 1992",,
+Will Parks,Arizona,,2971248,6,,"Jul 29, 1994",2016,219
+Adam Gotsis,Georgia Tech,9,2971498,2,DE,"Sep 23, 1992",2016,63
+Lorenzo Doss,Tulane,1,2972135,5,CB,"Apr 20, 1994",2015,164
+Dante Barnett,Kansas State,,2977685,,,"Jun 14, 1993",,
+Danny Mason,Texas A&M-Commerce,,2981913,,,"Oct 14, 1990",,
+Carlos Henderson,Louisiana Tech,,3040561,3,,"Dec 19, 1994",2017,82
+Tyrique Jarrett,Pittsburgh,,3045154,,,"Feb 16, 1994",,
+Darian Stewart,South Carolina,,13645,,,"Aug 4, 1988",,
+Chris Harris Jr.,Kansas,5,14398,,CB,"Jun 18, 1989",,
+Cody Latimer,Indiana,2,16793,2,WR,"Oct 10, 1992",2014,56
+Isaiah McKenzie,Georgia,6,3128724,5,WR,"Apr 9, 1995",2017,172
+Kalif Raymond,Holy Cross,3,2973405,,WR,"Aug 8, 1994",,
+Marlon Brown,Georgia,1,16581,,WR,"Apr 22, 1991",,
+Demaryius Thomas,Georgia Tech,8,13216,1,WR,"Dec 25, 1987",2010,22
+Emmanuel Sanders,SMU,0,13295,3,WR,"Mar 17, 1987",2010,82
+De'Angelo Henderson,Coastal Carolina,3,2968226,6,RB,"Nov 24, 1992",2017,203
+Bennie Fowler,Michigan State,3,16995,,WR,"Jun 10, 1991",,
+Steven Scheu,Vanderbilt,,2577793,,,"Jul 7, 1992",,
+A.J. Derby,Arkansas,5,3046413,6,TE,"Sep 20, 1991",2015,202
+Brandon McManus,Temple,8,16339,,PK,"Jul 25, 1991",,
+C.J. Anderson,California,0,16040,,RB,"Feb 10, 1991",,
+Stevan Ridley,LSU,2,14028,3,RB,"Jan 27, 1989",2011,73
+Paxton Lynch,Memphis,2,2977881,1,QB,"Feb 12, 1994",2016,26
+Juwan Thompson,Duke,,17045,,,"May 13, 1992",,
+Riley Dixon,Syracuse,,2577619,7,,"Aug 24, 1993",2016,228
+Kyle Sloter,Northern Colorado,1,2972092,,QB,"Feb 7, 1994",,
+Trevor Siemian,Northwestern,3,2511109,7,QB,"Dec 26, 1991",2015,250
+Quentin Gause,Rutgers,,2582402,,,"Oct 30, 1992",,
+Nelson Adams,Mississippi State,,2971402,,,"Feb 16, 1994",,
+Domata Peko Sr.,Michigan State,4,9709,4,DT,"Nov 27, 1984",2006,123
+Aqib Talib,Kansas,1,11254,1,CB,"Feb 13, 1986",2008,20
+Bradley Roby,Ohio State,9,16719,1,CB,"May 1, 1992",2014,31
+Ken Ekanem,Virginia Tech,,2970091,,,"Apr 8, 1994",,
+Hunter Sharp,Utah State,5,3125354,,WR,"Apr 25, 1994",,
+Jeff Heuerman,Ohio State,2,2576389,3,TE,"Nov 24, 1992",2015,92
+Virgil Green,Nevada,8,14085,7,TE,"Aug 3, 1988",2011,204
+Andy Janovich,Nebraska,2,2974317,6,FB,"May 23, 1993",2016,176
+Brandon Marshall,Nevada,4,15002,5,LB,"Sep 10, 1989",2012,142
+Todd Davis,Sacramento State,1,17497,,LB,"May 17, 1992",,
+Von Miller,Texas A&M,8,13976,1,LB,"Mar 26, 1989",2011,2
+Ty Sambrailo,Colorado State,4,2514397,2,OT,"Mar 10, 1992",2015,59
+Deon Hollins,UCLA,,3047555,,,"Nov 5, 1994",,
+Jamaal Charles,Texas,,11307,3,,"Dec 27, 1986",2008,73
+Austin Traylor,Wisconsin,6,2576449,,TE,"Sep 3, 1993",,
+Deiontrez Mount,Louisville,3,2576635,6,LB,"Feb 26, 1993",2015,177
+Jerrol Garcia-Williams,Hawai'i,2,2980586,,LB,"Dec 24, 1993",,
+Anthony Nash,Duke,,2969894,,,"Sep 20, 1993",,
+Stanley Williams,Kentucky,,3126338,,,"Sep 30, 1995",,
+Derek Wolfe,Cincinnati,5,14964,2,DE,"Feb 24, 1990",2012,36
+Shaquil Barrett,Colorado State,8,16967,,LB,"Nov 17, 1992",,
+Menelik Watson,Florida State,5,15871,2,OT,"Dec 22, 1988",2013,42
+Ronald Leary,Memphis,,15276,,,"Apr 29, 1989",,
+Casey Kreiter,Iowa,2,17304,,LS,"Aug 13, 1990",,
+Devontae Booker,Utah,3,3122866,4,RB,"May 27, 1992",2016,136
+Billy Turner,North Dakota State,,16759,3,,"Oct 17, 1991",2014,67
+Brock Osweiler,Arizona State,8,14879,2,QB,"Nov 22, 1990",2012,57
+Max Garcia,Florida,,2512538,4,,"Nov 9, 1991",2015,133
+Shane Ray,Missouri,6,2577371,1,LB,"May 18, 1993",2015,23
+Matt Paradis,Boise State,,16847,6,,"Oct 12, 1989",2014,207
+Garett Bolles,Utah,2,4035662,1,OT,"May 27, 1992",2017,20
+Kyle Peko,Oregon State,0,3134288,,NT,"Jul 23, 1993",,
+Connor McGovern,Missouri,,2577367,5,,"Apr 27, 1993",2016,144
+Joe Jones,Northwestern,3,2974344,,LB,"Feb 21, 1994",,
+Nick Kwiatkoski,West Virginia,4,2581818,4,LB,"May 26, 1993",2016,113
+John Timu,Washington,3,2578388,,LB,"Aug 27, 1992",,
+Sherrick McManis,Northwestern,7,13419,5,CB,"Dec 19, 1987",2010,144
+B.W. Webb,William & Mary,7,15939,4,CB,"May 3, 1990",2013,114
+Kyle Fuller,Virginia Tech,3,16715,1,CB,"Feb 16, 1992",2014,14
+C.J. Wilson,East Carolina,,13491,7,,"Mar 30, 1987",2010,230
+Prince Amukamara,Nebraska,0,13975,1,CB,"Jun 6, 1989",2011,19
+Akiem Hicks,University of Regina,6,14984,3,DE,"Nov 16, 1989",2012,89
+Johnthan Banks,Mississippi State,,15824,2,,"Oct 3, 1989",2013,43
+Jonathan Bullard,Florida,0,2980097,3,DE,"Oct 22, 1993",2016,72
+Christian Jones,Florida State,2,17070,,LB,"Feb 18, 1991",,
+Leonard Floyd,Georgia,4,3043136,1,LB,"Sep 8, 1992",2016,9
+Jerrell Freeman,Mary Hardin-Baylor,,11533,,,"May 1, 1986",,
+Dan Skuta,Grand Valley State,,12932,,,"Apr 21, 1986",,
+Chris Prosinski,Wyoming,,14072,4,,"Apr 28, 1987",2011,121
+Sam Acho,Texas,3,14152,4,LB,"Sep 6, 1988",2011,103
+Patrick Scales,Utah State,8,14572,,LS,"Feb 11, 1988",,
+John Jenkins,Georgia,2,15846,3,DT,"Jul 11, 1989",2013,82
+Marcus Cooper Sr.,Rutgers,1,15888,7,CB,"Feb 1, 1990",2013,252
+Kapron Lewis-Moore,Notre Dame,,15937,6,,"Jan 24, 1990",2013,200
+Ka'Deem Carey,Arizona,,16942,4,,"Oct 30, 1992",2014,117
+Michael Burton,Rutgers,6,2515270,5,FB,"Feb 1, 1992",2015,168
+Bryce Callahan,Rice,7,2515641,,CB,"Oct 23, 1991",,
+DeAndre Houston-Carson,William & Mary,,2566034,6,,"Apr 13, 1993",2016,185
+Roy Robertson-Harris,UTEP,5,2574891,,DE,"Jul 23, 1993",,
+Hendrick Ekpe,Minnesota,,3040186,,,"Jun 30, 1995",,
+Isaiah Irving,San Jose State,7,3043197,,LB,"Jun 9, 1994",,
+Eddie Jackson,Alabama,,3054847,4,,"Dec 10, 1992",2017,112
+Alex Scearce,Coastal Carolina,,3066097,,,"Jun 3, 1994",,
+Jonathan Anderson,TCU,2,2514468,,LB,"Oct 27, 1991",,
+Deonte Thompson,Florida,5,15503,,WR,"Feb 14, 1989",,
+Joshua Bellamy,Louisville,5,15555,,WR,"May 18, 1989",,
+Benny Cunningham,Middle Tennessee,0,16055,,RB,"Jul 7, 1990",,
+Rueben Randle,LSU,,14911,2,,"May 7, 1991",2012,63
+Kendall Wright,Baylor,7,14909,1,WR,"Nov 12, 1989",2012,20
+Tanner Gentry,Wyoming,9,3043841,,WR,"Dec 18, 1994",,
+Victor Cruz,UMass,,13553,,,"Nov 11, 1986",,
+Dion Sims,Michigan State,8,15974,4,TE,"Feb 18, 1991",2013,106
+Ben Braunecker,Harvard,4,2969241,,TE,"Feb 7, 1994",,
+Daniel Brown,James Madison,5,2519013,,TE,"May 26, 1992",,
+Adam Shaheen,Ashland,7,4198676,2,TE,"Oct 24, 1994",2017,45
+Zach Miller,Nebraska-Omaha,6,12699,6,TE,"Oct 4, 1984",2009,180
+Cameron Meredith,Illinois State,1,2520698,,WR,"Sep 21, 1992",,
+Connor Barth,North Carolina,,11737,,,"Apr 11, 1986",,
+Tarik Cohen,North Carolina A&T,9,3066158,4,RB,"Jul 26, 1995",2017,119
+Mitchell Trubisky,North Carolina,0,3039707,1,QB,"Aug 20, 1994",2017,2
+Joshua Rounds,Tulane,2,2972140,,RB,"Oct 11, 1993",,
+Jordan Howard,Indiana,4,3060022,5,RB,"Nov 2, 1994",2016,150
+Mike Glennon,NC State,7,15837,3,QB,"Dec 12, 1989",2013,73
+Cody Whitehair,Kansas State,,2577346,2,,"Jul 11, 1992",2016,56
+Pat O'Donnell,Miami,,16863,6,,"Feb 22, 1991",2014,191
+Mark Sanchez,USC,,12482,1,,"Nov 11, 1986",2009,5
+Deon Bush,Miami,,2969944,4,,"Aug 14, 1993",2016,124
+Cre'von LeBlanc,Florida Atlantic,2,2982870,,CB,"Jul 25, 1994",,
+Eddie Goldman,Florida State,1,2969924,2,NT,"Jan 6, 1994",2015,39
+Quintin Demps,UTEP,,11351,4,,"Jun 29, 1985",2008,117
+MyCole Pruitt,Southern Illinois,5,2508256,5,TE,"Mar 24, 1992",2015,143
+Adrian Amos,Penn State,,2582132,5,,"Apr 29, 1993",2015,142
+Rashaad Coward,Old Dominion,9,3060134,,OT,"Nov 6, 1994",,
+Jaye Howard,Florida,,15005,4,,"Dec 20, 1988",2012,114
+Harold Jones-Quartey,Findlay,,3894939,,,"Aug 6, 1993",,
+Lamarr Houston,Texas,,13277,2,,"Jun 24, 1987",2010,44
+Willie Young,NC State,,13497,7,,"Sep 19, 1985",2010,213
+Deiondre' Hall,Northern Iowa,2,2986767,4,CB,"May 31, 1994",2016,127
+Freddie Stevenson,Florida State,,3045375,,,"Apr 12, 1995",,
+Titus Davis,Central Michigan,,2574420,,,"Jan 3, 1993",,
+Kevin White,West Virginia,1,3042435,1,WR,"Jun 25, 1992",2015,7
+Roberto Aguayo,Florida State,4,2978887,2,PK,"May 17, 1994",2016,59
+Connor Shaw,South Carolina,,17247,,,"Sep 19, 1991",,
+Daniel Braverman,Western Michigan,3,2973052,7,WR,"Sep 28, 1993",2016,230
+Taylor Boggs,Humboldt State,,14725,,,"Feb 20, 1987",,
+Rashaad Reynolds,Oregon State,,17240,,,"Feb 2, 1991",,
+Kelvin Sheppard,LSU,,13995,3,,"Jan 2, 1988",2011,68
+Jeremy Langford,Michigan State,2,2515416,4,RB,"Dec 6, 1991",2015,106
+Alton Howard,Tennessee,,3122122,,,"Mar 9, 1993",,
+Danny Trevathan,Kentucky,9,15074,6,LB,"Mar 24, 1990",2012,188
+Mitch Unrein,Wyoming,8,13860,,DT,"Mar 25, 1987",,
+Pernell McPhee,Mississippi State,6,14202,5,LB,"Dec 17, 1988",2011,165
+Charles Leno Jr.,Boise State,2,16848,7,OT,"Oct 9, 1991",2014,246
+Markus Wheaton,Oregon State,0,15873,3,WR,"Feb 7, 1991",2013,79
+Tre McBride,William & Mary,7,2566041,7,WR,"Dec 1, 1992",2015,245
+Kyle Long,Oregon,,15801,1,,"Dec 5, 1988",2013,20
+Dontrelle Inman,Virginia,,14269,,,"Jan 31, 1989",,
+Hroniss Grasu,Oregon,,2516984,3,,"Aug 12, 1991",2015,71
+Cairo Santos,Tulane,8,17427,,PK,"Nov 12, 1991",,
+Howard Jones,Shepherd,,17009,,,"Feb 10, 1990",,
+Mike Nugent,Ohio State,6,8461,2,PK,"Mar 2, 1982",2005,47
+Andrew DePaola,Rutgers,8,15726,,LS,"Jul 28, 1987",,
+P.J. Williams,Florida State,6,2977661,3,CB,"Jun 1, 1993",2015,78
+Rafael Bush,South Carolina State,,13544,,,"May 12, 1987",,
+David Onyemata,Manitoba,3,4002046,4,DT,"Nov 13, 1992",2016,120
+Stephone Anthony,Clemson,4,2576482,1,LB,"Jul 28, 1992",2015,31
+Ken Crawley,Colorado,0,2979612,,CB,"Feb 8, 1993",,
+Alex Anzalone,Florida,7,3043107,3,LB,"Sep 22, 1994",2017,76
+Sterling Moore,SMU,4,14802,,CB,"Feb 3, 1990",,
+Chris Banjo,SMU,,15782,,,"Feb 26, 1990",,
+Kenny Vaccaro,Texas,,15813,1,,"Feb 15, 1991",2013,15
+Erik Harris,California (PA),,4010714,,,"Apr 2, 1990",,
+Mitchell Loewen,Arkansas,0,2578754,,DE,"Feb 14, 1993",,
+Manti Te'o,Notre Dame,1,15867,2,LB,"Jan 26, 1991",2013,38
+Obum Gwacham,Oregon State,7,2468550,6,LB,"Mar 20, 1991",2015,209
+Marcus Williams,Utah,,3122882,2,,"Sep 8, 1996",2017,42
+Nate Stupar,Penn State,4,15040,7,LB,"Mar 14, 1988",2012,230
+Vonn Bell,Ohio State,,3051388,2,,"Dec 12, 1994",2016,61
+Al-Quadin Muhammad,Miami,7,3051942,6,DE,"Mar 28, 1995",2017,196
+Alex Jenkins,Incarnate Word,9,3049426,,DE,"Jan 15, 1993",,
+Michael Mauti,Penn State,,15903,7,,"Jan 19, 1990",2013,213
+Adam Bighill,Central Washington,9,2323439,,LB,"Oct 16, 1988",,
+Damian Swann,Georgia,,2578561,5,,"Dec 4, 1992",2015,167
+Sheldon Rankins,Louisville,8,2970204,1,DT,"Apr 2, 1994",2016,12
+De'Vante Harris,Texas A&M,5,2972273,,CB,"Jun 30, 1993",,
+Garrett Griffin,Air Force,5,2987440,,TE,"Mar 4, 1994",,
+Robenson Therezie,Auburn,,2574553,,,"Aug 5, 1991",,
+Taveze Calhoun,Mississippi State,0,2577421,,CB,"Dec 26, 1992",,
+Tommylee Lewis,Northern Illinois,1,2574918,,WR,"Oct 24, 1992",,
+Jake Lampman,Ferris State,9,3057850,,WR,"Jun 11, 1993",,
+Brandon Coleman,Rutgers,,17127,,,"Jun 22, 1992",,
+Clay Harbor,Missouri State,,13376,4,,"Jul 2, 1987",2010,125
+Michael Thomas,Ohio State,3,2976316,2,WR,"Mar 3, 1993",2016,47
+Travaris Cadet,Appalachian State,9,15457,,RB,"Feb 1, 1989",,
+Michael Hoomanawanui,Illinois,4,13387,5,TE,"Jul 4, 1988",2010,132
+Darius Victor,Towson,8,3049987,,RB,"Mar 18, 1994",,
+Daniel Lasco,California,6,2576873,7,RB,"Oct 9, 1992",2016,237
+Josh Hill,Idaho State,9,16143,,TE,"May 21, 1990",,
+Ted Ginn Jr.,Ohio State,9,10453,1,WR,"Apr 12, 1985",2007,9
+Rashad Lawrence,Northwestern,,17349,,,"Jun 10, 1992",,
+Travin Dural,LSU,4,2976557,,WR,"Nov 19, 1993",,
+Wil Lutz,Georgia State,3,2985659,,PK,"Jul 7, 1994",,
+Alvin Kamara,Tennessee,1,3054850,3,RB,"Jul 25, 1995",2017,67
+Trey Edmunds,Maryland,3,2970090,,RB,"Dec 30, 1994",,
+Ryan Nassib,Syracuse,,15891,4,,"Mar 10, 1990",2013,110
+Garrett Grayson,Colorado State,9,2575660,3,QB,"May 29, 1991",2015,75
+Thomas Morstead,SMU,,12701,5,,"Mar 8, 1986",2009,164
+Chase Daniel,Missouri,4,12471,,QB,"Oct 7, 1986",,
+A.J. Klein,Iowa State,3,15964,5,LB,"Jul 30, 1991",2013,148
+Craig Robertson,North Texas,2,14860,,LB,"Feb 11, 1988",,
+Tony McDaniel,Tennessee,6,10031,,DT,"Jan 20, 1985",,
+Malik Foreman,Tennessee,,3044723,,,"Jun 30, 1995",,
+Darryl Tapp,Virginia Tech,,9649,2,,"Sep 13, 1984",2006,63
+Tyeler Davison,Fresno State,5,2517230,5,DT,"Sep 3, 1992",2015,154
+Alex Okafor,Texas,7,15976,4,DE,"Feb 8, 1991",2013,103
+John Hughes III,Cincinnati,,14954,3,,"Apr 27, 1988",2012,87
+Hau'oli Kikaha,Washington,4,2509488,2,DE,"Jul 24, 1992",2015,44
+Jason Jones,Eastern Michigan,,11288,2,,"May 23, 1986",2008,54
+John Phillips,Virginia,6,12550,6,TE,"Jun 11, 1987",2009,208
+Ashaad Mabry,UT San Antonio,,2580065,,,"Nov 4, 1992",,
+Corey Fuller,Virginia Tech,,16014,6,,"Jun 23, 1990",2013,171
+Willie Snead,Ball State,3,17258,,WR,"Oct 17, 1992",,
+Coby Fleener,Stanford,,14900,2,,"Sep 20, 1988",2012,34
+John Robinson-Woodgett,UMass,,2982839,,,"Aug 1, 1993",,
+Cameron Jordan,California,4,13971,1,DE,"Jul 10, 1989",2011,24
+Bryan Braman,West Texas A&M,,14524,,,"May 4, 1987",,
+Marshon Lattimore,Ohio State,3,3121421,1,CB,"May 20, 1996",2017,11
+Zach Line,SMU,2,16366,,FB,"Apr 26, 1990",,
+Trey Hendrickson,Florida Atlantic,1,3052743,3,DE,"Dec 5, 1994",2017,103
+Mark Ingram II,Alabama,2,13981,1,RB,"Dec 21, 1989",2011,28
+Adrian Peterson,Oklahoma,3,10452,1,RB,"Mar 21, 1985",2007,7
+Drew Brees,Purdue,9,2580,2,QB,"Jan 15, 1979",2001,32
+Arthur Maulet,Memphis,7,3916144,,CB,"Jul 13, 1993",,
+Jonathan Walton,South Carolina,,3048922,,,"Sep 20, 1994",,
+Justin Zimmer,Ferris State,2,3057899,,DT,"Oct 23, 1992",,
+Braedon Bowman,South Alabama,3,3125253,,TE,"Jan 30, 1994",,
+De'Quan Hampton,USC,,3912558,,,"Apr 18, 1994",,
+John Kuhn,Shippensburg,9,9530,,FB,"Sep 9, 1982",,
+David Parry,Stanford,0,2517779,5,NT,"Mar 7, 1992",2015,151
+Justin Hardee,Illinois,4,2970625,,CB,"Feb 7, 1994",,
+Max Unger,Oregon,,12624,2,,"Apr 14, 1986",2009,49
+Terron Armstead,Arkansas-Pine Bluff,2,15821,3,OT,"Jul 23, 1991",2013,75
+Gerald Hodges,Penn State,1,15977,4,LB,"Jan 17, 1991",2013,120
+Dexter McDougle,Maryland,3,16805,3,CB,"Apr 8, 1991",2014,80
+Taysom Hill,BYU,7,2468609,,QB,"Aug 23, 1990",,
+George Johnson,Rutgers,0,13812,,DE,"Dec 11, 1987",,
+Ryan Ramczyk,Wisconsin,1,3917676,1,OT,"Apr 22, 1994",2017,32
+Jonathan Freeny,Rutgers,5,14387,,LB,"Jun 15, 1989",,
+Kenneth Olugbode,Colorado,,3052120,,,"Sep 19, 1995",,
+Kai Nacua,BYU,,3053804,,,"Mar 3, 1995",,
+Trevon Coley,Florida Atlantic,3,2982880,,DT,"Jul 13, 1994",,
+Briean Boddy-Calhoun,Minnesota,,2970694,,,"Jan 21, 1993",,
+Jamie Collins Sr.,Southern Mississippi,1,15830,2,LB,"Oct 20, 1989",2013,52
+Justin Currie,Western Michigan,2,2574756,,LB,"Sep 19, 1993",,
+Derrick Kindred,TCU,,2971550,4,,"Dec 15, 1993",2016,129
+Trey Caldwell,UL Monroe,9,2972550,5,CB,"Dec 4, 1993",2016,173
+Deon King,Norfolk State,8,2978411,,LB,"Jul 2, 1993",,
+Tyrone Holmes,Montana,4,2982949,6,LB,"Sep 10, 1993",2016,181
+Christian Kirksey,Iowa,8,16767,3,LB,"Aug 31, 1992",2014,71
+Karter Schult,Northern Iowa,,2986781,,,"Dec 21, 1993",,
+Joe Schobert,Wisconsin,3,2977819,4,LB,"Nov 6, 1993",2016,99
+Charley Hughlett,UCF,7,15379,,LS,"May 16, 1990",,
+Darius Hillary,Wisconsin,8,2576437,,CB,"Apr 5, 1993",,
+Joe Haden,Florida,3,13249,1,CB,"Apr 14, 1989",2010,7
+Dominique Alexander,Oklahoma,4,3052651,,LB,"Apr 20, 1995",,
+Nate Orchard,Utah,4,3052511,2,DE,"Jan 5, 1993",2015,51
+Ladell Fleming,Northern Illinois,,2972940,,,"Feb 1, 1994",,
+Tank Carder,TCU,,15014,5,,"Jan 18, 1989",2012,147
+Xavier Cooper,Washington State,5,2578408,3,DT,"Nov 30, 1991",2015,96
+B.J. Bello,Illinois State,6,2970622,,LB,"Oct 31, 1994",,
+Najee Murray,Kent State,,2976302,,,"Apr 21, 1994",,
+Myles Garrett,Texas A&M,5,3122132,1,DE,"Dec 29, 1995",2017,1
+Jason McCourty,Rutgers,0,12691,6,CB,"Aug 13, 1987",2009,203
+Calvin Pryor III,Louisville,,16729,1,,"Jul 2, 1992",2014,18
+Jamie Meder,Ashland,8,17214,,DE,"Apr 12, 1991",,
+James Burgess Jr.,Louisville,2,2970181,,LB,"Mar 9, 1994",,
+J.D. Harmon,Kentucky,,2980419,,,"Jan 18, 1994",,
+Larry Ogunjobi,Charlotte,5,3050122,3,DT,"Jun 3, 1994",2017,65
+Carl Nassib,Penn State,4,2614825,3,DE,"Apr 12, 1993",2016,65
+Richard Mullaney,Alabama,,2577014,,,"Feb 23, 1993",,
+Jordan Payton,UCLA,,2971588,5,,"Sep 1, 1993",2016,154
+Josh Boyce,TCU,,15998,4,,"May 6, 1991",2013,102
+Rannell Hall,UCF,,2581464,,,"Jan 30, 1993",,
+Randall Telfer,USC,6,2510611,6,TE,"May 16, 1992",2015,198
+Seth DeValve,Princeton,7,2566659,4,TE,"Jan 29, 1993",2016,138
+Corey Coleman,Baylor,9,2978929,1,WR,"Jul 6, 1994",2016,15
+Ricardo Louis,Auburn,5,2971023,4,WR,"Mar 23, 1994",2016,114
+Isaiah Crowell,Alabama State,0,17133,,RB,"Jan 8, 1993",,
+Duke Johnson Jr.,Miami,9,2969962,3,RB,"Sep 23, 1993",2015,77
+Jordan Leslie,BYU,9,2511952,,WR,"Oct 31, 1991",,
+Matthew Dayes,NC State,7,3051711,7,RB,"Sep 3, 1994",2017,252
+Kenny Britt,Rutgers,8,12556,1,WR,"Sep 19, 1988",2009,30
+Terrence Magee,LSU,1,2577283,,RB,"Mar 16, 1993",,
+Mario Alford,West Virginia,,3052686,7,,"Feb 25, 1992",2015,238
+Zane Gonzalez,Arizona State,2,3043234,7,PK,"May 7, 1995",2017,224
+DeShone Kizer,Notre Dame,9,3129302,2,QB,"Jan 3, 1996",2017,52
+Brock Osweiler,Arizona State,8,14879,2,QB,"Nov 22, 1990",2012,57
+Cody Kessler,USC,6,2577243,3,QB,"May 11, 1993",2016,93
+Brandon Wilds,South Carolina,8,2577692,,RB,"Jul 22, 1993",,
+Zach Sterup,Nebraska,4,2576365,,OT,"May 14, 1992",,
+Britton Colquitt,Tennessee,,12773,,,"Mar 20, 1985",,
+Desmond Bryant,Harvard,,12949,,,"Dec 15, 1985",,
+Jabrill Peppers,Michigan,,3115962,1,,"Oct 4, 1995",2017,25
+Jamar Taylor,Boise State,8,15866,2,CB,"Sep 29, 1990",2013,54
+JC Tretter,Cornell,,16001,4,,"Feb 12, 1991",2013,122
+Anthony Fabiano,Harvard,,2566591,,,"Jul 13, 1993",,
+Alvin Hill,Maryland,,2976220,,,"Jan 28, 1994",,
+Channing Stribling,Michigan,2,3045202,,CB,"Nov 21, 1994",,
+Emmanuel Ogbah,Oklahoma State,0,2977740,2,DE,"Nov 6, 1993",2016,32
+Danny Vitale,Northwestern,0,2974365,6,FB,"Oct 26, 1993",2016,197
+Rashard Higgins,Colorado State,1,3042910,5,WR,"Oct 7, 1994",2016,172
+J.P. Holtz,Pittsburgh,8,2970262,,TE,"Aug 28, 1993",,
+David Njoku,Miami,5,3123076,1,TE,"Jul 10, 1996",2017,29
+Cody Parkey,Auburn,1,17082,,PK,"Feb 19, 1992",,
+Kevin Hogan,Stanford,8,2577128,5,QB,"Oct 20, 1992",2016,162
+Marcus Burley,Delaware,,16131,,,"Jul 16, 1990",,
+Brandon Thompson,Clemson,,14965,3,,"Oct 19, 1989",2012,93
+Ibraheim Campbell,Northwestern,,2511090,4,,"May 13, 1992",2015,115
+Christian Bryant,Ohio State,,16908,7,,"Mar 21, 1992",2014,241
+Caleb Brantley,Florida,9,3054950,6,DT,"Sep 2, 1994",2017,185
+Rasheed Bailey,Delaware Valley,6,3892271,,WR,"Jul 29, 1993",,
+Spencer Drango,Baylor,,2577042,5,,"Oct 15, 1992",2016,168
+Joel Bitonio,Nevada,,16740,2,,"Oct 11, 1991",2014,35
+Danny Shelton,Washington,1,2578384,1,DT,"Aug 20, 1993",2015,12
+Kasen Williams,Washington,6,2578394,,WR,"Dec 5, 1992",,
+Shon Coleman,Auburn,2,2574573,3,OT,"Nov 25, 1991",2016,76
+Sammie Coates Jr.,Auburn,8,2574549,3,WR,"Mar 31, 1993",2015,87
+Kevin Zeitler,Wisconsin,,14931,1,,"Mar 8, 1990",2012,27
+Mike Jordan,Missouri Western,1,3961462,,CB,"Oct 21, 1992",,
+Bryce Treggs,California,6,2978219,,WR,"Apr 30, 1994",,
+T.Y. McGill,NC State,9,2577757,,DT,"Nov 23, 1992",,
+Derron Smith,Fresno State,,2517248,6,,"Feb 4, 1992",2015,197
+Josh Keyes,Boston ,9,2576461,,LB,"Jan 23, 1993",,
+Josh Gordon,Utah,2,15705,,WR,"Apr 13, 1991",,
+C.J. Smith,North Dakota State,8,2573091,,CB,"May 10, 1993",,
+Lavar Edwards,LSU,,15909,5,,"Apr 29, 1990",2013,142
+Marquez Williams,Miami,,2985288,7,,"Jul 16, 1994",2017,240
+Tre Sullivan,Shepherd,,3957450,,,"Dec 21, 1994",,
+Aaron Grymes,Idaho,,2474999,,,"Mar 1, 1991",,
+Derek Barnett,Tennessee,6,3115336,1,DE,"Jun 25, 1996",2017,14
+Najee Goode,West Virginia,2,15068,5,LB,"Jun 4, 1989",2012,140
+Jalen Mills,LSU,1,2976540,7,CB,"Apr 6, 1994",2016,233
+Don Cherry,Villanova,,2982305,,,"Sep 27, 1994",,
+Nathan Gerry,Nebraska,7,3040475,5,LB,"Feb 23, 1995",2017,184
+Elijah Qualls,Washington,8,3052175,6,DT,"Feb 11, 1995",2017,214
+Mitchell White,Michigan State,,16541,,,"Mar 30, 1990",,
+Alex McCalister,Florida,,2980111,7,,"Oct 17, 1993",2016,240
+Patrick Robinson,Florida State,1,13238,1,CB,"Sep 7, 1987",2010,32
+Mychal Kendricks,California,4,14978,2,LB,"Sep 28, 1990",2012,46
+Terrence Brooks,Florida State,,16768,3,,"Mar 2, 1992",2014,79
+Jomal Wiltz,Iowa State,2,3892777,,CB,"Oct 23, 1994",,
+Kamu Grugier-Hill,Eastern Illinois,4,3050851,6,LB,"May 16, 1994",2016,208
+Gabe Wright,Auburn,8,2574579,4,DT,"Apr 3, 1992",2015,113
+Chris Long,Virginia,6,11236,1,DE,"Mar 28, 1985",2008,2
+Brandon Graham,Michigan,5,13239,1,DE,"Apr 3, 1988",2010,13
+Fletcher Cox,Mississippi State,1,14941,1,DT,"Dec 13, 1990",2012,12
+Matt McGloin,Penn State,5,16593,,QB,"Dec 2, 1989",,
+Tay Glover-Wright,Utah State,,17158,,,"Jun 28, 1992",,
+C.J. Smith,North Dakota State,8,2573091,,CB,"May 10, 1993",,
+Justin Hamilton,Louisiana,4,2574009,,DT,"Jul 27, 1993",,
+Darrell Greene,San Diego State,,2582006,,,"Oct 29, 1992",,
+Steven Daniels,Boston ,,2969870,7,,"Dec 12, 1992",2016,232
+Nelson Agholor,USC,3,2971618,1,WR,"May 24, 1993",2015,20
+Destiny Vaeao,Washington State,7,2978355,,DT,"Jan 15, 1994",,
+Greg Ward Jr.,Houston,9,3040035,,WR,"Jul 12, 1995",,
+Shelton Gibson,West Virginia,8,3042417,5,WR,"Mar 20, 1994",2017,166
+Joe Walker,Oregon,9,3043184,7,LB,"Dec 11, 1992",2016,251
+Ron Brooks,LSU,,15008,4,,"Oct 16, 1988",2012,124
+Steven Means,Buffalo,1,15936,5,DE,"Sep 16, 1990",2013,147
+Rasul Douglas,West Virginia,2,3943270,3,CB,"Aug 29, 1994",2017,99
+Bryce Treggs,California,6,2978219,,WR,"Apr 30, 1994",,
+Mack Hollins,North Carolina,0,2991662,4,WR,"Sep 16, 1993",2017,118
+Corey Clement,Wisconsin,0,3045260,,RB,"Nov 2, 1994",,
+Trey Burton,Florida,0,16974,,TE,"Oct 29, 1991",,
+Jordan Matthews,Vanderbilt,,16763,2,,"Jul 16, 1992",2014,42
+David Watford,Hampton,,2577807,,,"Jun 16, 1993",,
+Billy Brown,Shepherd,5,3957543,,TE,"Mar 20, 1993",,
+Donnel Pumphrey,San Diego State,4,3047519,4,RB,"Dec 6, 1994",2017,132
+Caleb Sturgis,Florida,6,15918,5,PK,"Aug 9, 1989",2013,166
+Dane Evans,Tulsa,,2972420,,,"Nov 19, 1993",,
+LeGarrette Blount,Oregon,9,13213,,RB,"Dec 5, 1986",,
+Byron Marshall,Oregon,4,2971289,,RB,"Feb 13, 1994",,
+Donnie Jones,LSU,,5749,7,,"Jul 5, 1980",2004,224
+Cameron Johnston,Ohio State,,3051397,,,"Feb 24, 1992",,
+Carson Wentz,North Dakota State,1,2573079,1,QB,"Dec 30, 1992",2016,2
+Corey Graham,New Hampshire,,10611,5,,"Jul 25, 1985",2007,168
+Malcolm Jenkins,Ohio State,,12426,1,,"Dec 20, 1987",2009,14
+Nigel Bradham,Florida State,3,15075,4,LB,"Sep 4, 1989",2012,105
+Tim Jernigan,Florida State,3,16785,2,DT,"Sep 24, 1992",2014,48
+Jaylen Watkins,Florida,,16919,4,,"Nov 27, 1991",2014,101
+Jordan Hicks,Texas,8,2514270,3,LB,"Jun 27, 1992",2015,84
+Ronald Darby,Florida State,1,2969920,2,CB,"Jan 2, 1994",2015,50
+Brent Celek,Cincinnati,,10605,5,,"Jan 25, 1985",2007,162
+Isaac Seumalo,Oregon State,,2978247,3,,"Oct 29, 1993",2016,79
+Rodney McLeod,Virginia,,15222,,,"Jun 23, 1990",,
+Marcus Johnson,Texas,4,2971718,,WR,"Aug 5, 1994",,
+Alshon Jeffery,South Carolina,7,14912,2,WR,"Feb 14, 1990",2012,45
+Zach Ertz,Stanford,6,15835,2,TE,"Nov 10, 1990",2013,35
+Adam Zaruba,Simon Fraser,,4242607,,,"Mar 31, 1991",,
+Vinny Curry,Marshall,7,14959,2,DE,"Jun 30, 1988",2012,59
+Chris Maragos,Wisconsin,,13697,,,"Jan 6, 1987",,
+Winston Craig,Richmond,4,3049895,,DT,"Jul 25, 1995",,
+Torrey Smith,Maryland,1,14032,2,WR,"Jan 26, 1989",2011,58
+Anthony Denham,Utah,,17392,,,"Jul 21, 1991",,
+Wendell Smallwood,West Virginia,8,3042429,5,RB,"Jan 20, 1994",2016,153
+Rashard Davis,James Madison,9,3049329,,WR,"Sep 14, 1995",,
+Jake Metz,Shippensburg,,3089089,,,"Mar 16, 1991",,
+Dexter McDougle,Maryland,3,16805,3,CB,"Apr 8, 1991",2014,80
+Beau Allen,Wisconsin,1,16912,7,DT,"Nov 14, 1991",2014,224
+Dallas Thomas,Tennessee,,15868,3,,"Oct 30, 1989",2013,77
+Carlos Fields,Winston-Salem,,17389,,,"Oct 3, 1990",,
+Christian Tago,San Jose State,,2981213,,,"Jan 15, 1994",,
+Darren Sproles,Kansas State,3,8544,4,RB,"Jun 20, 1983",2005,130
+Brandon Brooks,Miami (OH),,14962,3,,"Aug 19, 1989",2012,76
+Jake Elliott,Memphis,4,3050478,5,PK,"Jan 21, 1995",2017,153
+Trae Elston,Ole Miss,,2980380,,,"Feb 16, 1994",,
+Kenjon Barner,Oregon,8,15921,6,RB,"Apr 28, 1990",2013,182
+Rick Lovato,Old Dominion,5,2565971,,LS,"Sep 9, 1992",,
+Halapoulivaati Vaitai,TCU,2,2971557,5,OT,"Jun 16, 1993",2016,164
+Nick Foles,Arizona,9,14877,3,QB,"Jan 20, 1989",2012,88
+Jay Ajayi,Boise State,6,2573300,5,RB,"Jun 15, 1993",2015,149
+Dannell Ellerbe,Georgia,,13103,,,"Nov 29, 1985",,
+Sidney Jones,Washington,2,3127299,2,CB,"May 21, 1996",2017,43
+Nate Sudfeld,Indiana,7,2979501,6,QB,"Oct 7, 1993",2016,187
+Marwin Evans,Utah State,,3053027,,,"Apr 10, 1993",,
+Josh Hawkins,East Carolina,8,2575523,,CB,"Jan 23, 1993",,
+Kevin King,Washington,0,3052170,2,CB,"May 5, 1995",2017,33
+Josh Jones,NC State,,3051716,2,,"Sep 20, 1994",2017,61
+Jordan Tripp,Montana,,16862,5,,"Apr 3, 1991",2014,171
+Joe Thomas,South Carolina State,8,17266,,LB,"May 6, 1991",,
+Lenzy Pipkins,Oklahoma State,1,2972562,,CB,"Nov 7, 1993",,
+Blake Martinez,Stanford,0,2978273,4,LB,"Jan 9, 1994",2016,131
+Daquan Holmes,American International,,3145559,,,"Oct 30, 1994",,
+Ricky Jean Francois,LSU,7,12443,7,DT,"Nov 23, 1986",2009,244
+Morgan Burnett,Georgia Tech,,13264,3,,"Jan 13, 1989",2010,71
+Jayrone Elliott,Toledo,5,16991,,LB,"Nov 11, 1991",,
+Kentrell Brice,Louisiana Tech,,2971881,,,"Aug 11, 1994",,
+Quinten Rollins,Miami (OH),4,3125961,2,CB,"Jul 15, 1992",2015,62
+Nick Perry,USC,3,14929,1,LB,"Apr 12, 1990",2012,28
+Clay Matthews,USC,2,12438,1,LB,"May 14, 1986",2009,26
+LaDarius Gunter,Miami,3,2969954,,CB,"May 13, 1992",,
+Donatello Brown,Valdosta State,4,4218143,,CB,"May 15, 1991",,
+Jahri Evans,Bloomsburg,,9694,4,,"Aug 22, 1983",2006,108
+Ha Ha Clinton-Dix,Alabama,,16735,1,,"Dec 21, 1992",2014,21
+Jeff Janis,Saginaw Valley,3,16960,7,WR,"Jun 24, 1991",2014,236
+David Talley,Grand Valley State,1,2219753,,LB,"Nov 9, 1994",,
+Trevor Davis,California,1,2573343,5,WR,"Jul 4, 1993",2016,163
+Derrick Mathews,Houston,9,2575572,,LB,"Sep 25, 1992",,
+Joe Kerridge,Michigan,0,2576236,,FB,"Sep 17, 1992",,
+Reggie Gilbert,Arizona,3,2576755,,LB,"Apr 1, 1993",,
+Dean Lowry,Northwestern,4,2974348,4,DE,"Jun 9, 1994",2016,137
+Jamaal Williams,BYU,0,2980453,4,RB,"Apr 3, 1995",2017,134
+Kenny Clark,UCLA,7,3122752,1,DT,"Oct 4, 1995",2016,27
+Raysean Pringle,Southern Utah,3,3140807,,CB,"Aug 31, 1993",,
+Aaron Taylor,Ball State,,2972063,,,"Dec 25, 1993",,
+Jermaine Whitehead,Auburn,,2574557,,,"Mar 12, 1993",,
+DeAngelo Yancey,Purdue,0,3052470,5,WR,"Nov 18, 1994",2017,175
+Max McCaffrey,Duke,1,2969896,,WR,"May 17, 1994",,
+Davante Adams,Fresno State,7,16800,2,WR,"Dec 24, 1992",2014,53
+Michael Clark,Marshall,,3931763,,,"Oct 26, 1995",,
+Malachi Dupre,LSU,6,3115366,7,WR,"Oct 12, 1995",2017,247
+Martellus Bennett,Texas A&M,,11295,2,,"Mar 10, 1987",2008,61
+Montay Crockett,Georgia Southern,6,2973973,,WR,"Dec 11, 1993",,
+Geronimo Allison,Illinois,1,3115913,,WR,"Jan 18, 1994",,
+Ty Montgomery,Stanford,8,2577134,3,RB,"Jan 22, 1993",2015,94
+Devante Mays,Utah State,2,3918026,7,RB,"May 26, 1994",2017,238
+Randall Cobb,Kentucky,8,14053,2,WR,"Aug 22, 1990",2011,64
+Aaron Jones,UTEP,3,3042519,5,RB,"Dec 2, 1994",2017,182
+Mason Crosby,Colorado,2,10636,6,PK,"Sep 3, 1984",2007,193
+Taysom Hill,BYU,7,2468609,,QB,"Aug 23, 1990",,
+Joe Callahan,Wesley ,3,3078660,,QB,"Jun 4, 1993",,
+Brett Hundley,UCLA,7,2577189,5,QB,"Jun 15, 1993",2015,147
+Kalif Phillips,Charlotte,,3059488,,,"Mar 22, 1994",,
+William Stanback,Virginia Union Panthers,,3054030,,,"Jul 6, 1994",,
+Christian Ringo,Louisiana,9,2574023,6,DT,"Mar 10, 1992",2015,210
+Thomas Evans,Richmond,,2969030,,,"May 9, 1994",,
+Adam Pankey,West Virginia,,2976649,,,"Feb 2, 1994",,
+Justin Vogel,Miami,,2980123,,,"Oct 14, 1993",,
+Brian Price,UT San Antonio,2,3040661,,DT,"Jun 24, 1994",,
+Jake Ryan,Michigan,7,2515337,4,LB,"Feb 27, 1992",2015,129
+Cody Heiman,Washburn,,4212999,,,"Nov 19, 1993",,
+Josh Letuligasenoa,Cal Poly,,2967751,,,"Feb 2, 1994",,
+Mike Daniels,Iowa,6,14994,4,DT,"May 5, 1989",2012,132
+Jordy Nelson,Kansas State,2,11270,2,WR,"May 31, 1985",2008,36
+Aaron Rodgers,California,2,8439,1,QB,"Dec 2, 1983",2005,24
+Damarious Randall,Arizona State,3,3043258,1,CB,"Aug 29, 1992",2015,30
+Johnathan Calvin,Mississippi State,6,3894927,,DT,"Nov 28, 1993",,
+Kyler Fackrell,Utah State,1,2574229,3,LB,"Nov 25, 1991",2016,88
+Izaah Lunsford,Bowling Green,6,2972118,,DT,"Oct 21, 1993",,
+Richard Rodgers,California,2,16786,3,TE,"Jan 22, 1992",2014,98
+Aaron Peck,Fresno State,,2974029,,,"Oct 9, 1994",,
+Lance Kendricks,Wisconsin,4,14007,2,TE,"Jan 30, 1988",2011,47
+Calvin Heurtelou,Miami,,3123078,,,"Apr 10, 1993",,
+Davon House,New Mexico State,1,14157,4,CB,"Jul 10, 1989",2011,131
+Aaron Ripkowski,Oklahoma,2,2577467,6,FB,"Dec 20, 1992",2015,206
+Emanuel Byrd,Marshall,6,3931761,,TE,"Dec 9, 1994",,
+Ahmad Brooks,Virginia,,10138,,,"Mar 14, 1984",,
+Corey Linsley,Ohio State,,16864,5,,"Jul 27, 1991",2014,161
+Quinton Dial,Alabama,,16028,5,,"Jul 21, 1990",2013,157
+Chris Odom,Arkansas State,8,3042361,,LB,"Sep 16, 1994",,
+Vince Biegel,Wisconsin,5,2977798,4,LB,"Jul 2, 1993",2017,108
+Derek Hart,James Madison,,2975364,,,"Dec 1, 1992",,
+Montravius Adams,Auburn,0,3051894,3,DT,"Jul 24, 1995",2017,93
+Mike Hilton,Ole Miss,8,2980383,,CB,"Mar 9, 1994",,
+L.J. Fort,Northern Iowa,4,15264,,LB,"Jan 3, 1990",,
+Arthur Moats,James Madison,3,13422,6,DE,"Mar 14, 1988",2010,178
+Tyson Alualu,California,4,13233,1,DE,"May 12, 1987",2010,10
+Keith Kelsey,Louisville,5,3040065,,LB,"Mar 17, 1995",,
+T.J. Watt,Wisconsin,0,3045282,1,LB,"Oct 11, 1994",2017,30
+Brandon Dixon,Northwest Missouri State,5,16957,6,DB,"Apr 26, 1990",2014,195
+Jacob Hagen,Liberty,,2520308,,,"Mar 16, 1992",,
+Terrish Webb,Pittsburgh,,3045143,,,"Sep 7, 1995",,
+Matt Galambos,Pittsburgh,0,3045149,,LB,"Mar 21, 1995",,
+Vince Williams,Florida State,8,15934,6,LB,"Dec 27, 1989",2013,206
+Jordan Dangerfield,Towson,,16179,,,"Dec 25, 1990",,
+Javon Hargrave,South Carolina State,9,2983055,3,NT,"Feb 7, 1993",2016,89
+Farrington Huguenin,Kentucky,1,2576703,,LB,"May 8, 1992",,
+Steven Johnson,Kansas,,15733,,,"Mar 28, 1988",,
+L.T. Walton,Central Michigan,6,2516417,6,DE,"Mar 31, 1992",2015,199
+Tyler Matakevich,Temple,4,2976249,7,LB,"Dec 22, 1992",2016,246
+William Gay,Louisville,5,10613,5,CB,"Jan 1, 1985",2007,170
+Cameron Heyward,Ohio State,7,13977,1,DT,"May 6, 1989",2011,31
+Robert Golden,Arizona,,15213,,,"Sep 13, 1990",,
+Cobi Hamilton,Arkansas,2,15983,6,WR,"Nov 13, 1990",2013,197
+Chris Hubbard,UAB,,16076,,,"Apr 23, 1991",,
+Ross Cockrell,Duke,7,16843,4,CB,"Aug 6, 1991",2014,109
+JaCorey Shepherd,Kansas,,2577237,6,,"Mar 29, 1993",2015,191
+Malik Golden,Penn State,,2979584,,,"Apr 27, 1993",,
+Jesse James,Penn State,1,2979590,5,TE,"Jun 4, 1994",2015,160
+Marcus Tucker,Northern Michigan,6,4012737,,WR,"Jun 24, 1992",,
+Terrell Watson,Azusa Pacific,,2581598,,,"Aug 22, 1993",,
+Brian Allen,Utah,9,2971632,5,CB,"Oct 21, 1993",2017,173
+Stephon Tuitt,Notre Dame,1,16798,2,DE,"May 23, 1993",2014,46
+Canaan Severin,Virginia,8,2979681,,WR,"Mar 16, 1993",,
+Darrius Heyward-Bey,Maryland,8,12570,1,WR,"Feb 26, 1987",2009,7
+Knile Davis,Arkansas,3,15832,3,RB,"Oct 5, 1991",2013,96
+JuJu Smith-Schuster,USC,9,3120348,2,WR,"Nov 22, 1996",2017,62
+Eli Rogers,Louisville,7,2576643,,WR,"Dec 23, 1992",,
+Fitzgerald Toussaint,Michigan,3,17465,,RB,"May 4, 1990",,
+Phazahn Odom,Fordham,,2973301,,,"Jun 8, 1994",,
+Chris Boswell,Rice,9,17372,,PK,"Mar 16, 1991",,
+Joshua Dobbs,Tennessee,5,3044720,4,QB,"Jan 26, 1995",2017,135
+Bart Houston,Wisconsin,,2977804,,,"Dec 16, 1992",,
+Jordan Berry,Eastern Kentucky,,2472364,,,"Mar 18, 1991",,
+Anthony Chickillo,Miami,6,2579601,6,LB,"Dec 10, 1992",2015,212
+Sean Davis,Maryland,,2976210,2,,"Oct 23, 1993",2016,58
+Coty Sensabaugh,Clemson,4,14998,4,CB,"Nov 15, 1988",2012,115
+Greg Ducre,Washington,7,16989,,CB,"Jan 22, 1992",,
+Jake McGee,Florida,0,2512657,,TE,"Sep 19, 1991",,
+Roy Philon,Louisville,,17027,,,"Mar 26, 1991",,
+Artie Burns,Miami,5,3051921,1,CB,"May 1, 1995",2016,25
+Johnny Maxey,Mars Hill,3,2581513,,DE,"Oct 19, 1993",,
+Trey Williams,Texas A&M,4,2972282,,RB,"Dec 11, 1992",,
+Martavis Bryant,Clemson,2,16886,4,WR,"Dec 20, 1991",2014,118
+Sammie Coates Jr.,Auburn,8,2574549,3,WR,"Mar 31, 1993",2015,87
+Justin Hunter,Tennessee,1,15845,2,WR,"May 20, 1991",2013,34
+David Johnson,Arkansas State,,12506,7,,"Aug 26, 1987",2009,241
+James Conner,Pittsburgh,0,3045147,3,RB,"May 5, 1995",2017,105
+Cameron Sutton,Tennessee,0,3044724,3,CB,"Feb 27, 1995",2017,94
+Lavon Hooks,Ole Miss,5,3042645,,DE,"Jan 23, 1992",,
+Maurkice Pouncey,Florida,,13250,1,,"Jul 24, 1989",2010,18
+Ryan Shazier,Ohio State,0,16727,1,LB,"Sep 6, 1992",2014,15
+James Harrison,Kent State,,4433,,,"May 4, 1978",,
+Antonio Brown,Central Michigan,4,13934,6,WR,"Jul 10, 1988",2010,195
+Xavier Grimble,USC,5,17348,,TE,"Sep 22, 1992",,
+Roosevelt Nix,Kent State,5,17223,,FB,"Mar 30, 1992",,
+Ben Roethlisberger,Miami (OH),7,5536,1,QB,"Mar 2, 1982",2004,11
+Landry Jones,Oklahoma,3,15904,4,QB,"Apr 4, 1989",2013,115
+Dan McCullers,Tennessee,3,16952,6,DT,"Aug 11, 1992",2014,215
+Dashaun Phillips,Tarleton State,5,17333,,CB,"Jan 3, 1991",,
+Francis Kallon,Georgia Tech,3,2971499,,DE,"Feb 2, 1994",,
+Austin Gearing,Miami (OH),,2978045,,,"Jul 8, 1994",,
+Demarcus Ayers,Houston,4,3040026,7,WR,"Jul 7, 1994",2016,229
+Joe Haden,Florida,3,13249,1,CB,"Apr 14, 1989",2010,7
+Mike Mitchell,Ohio,,12619,2,,"Jun 10, 1987",2009,47
+J.J. Wilcox,Georgia Southern,,15874,3,,"Feb 14, 1991",2013,80
+Kameron Canaday,Portland State,7,2967885,,LS,"Aug 20, 1992",,
+Le'Veon Bell,Michigan State,6,15825,2,RB,"Feb 18, 1992",2013,48
+Vance McDonald,Rice,9,15853,2,TE,"Jun 13, 1990",2013,55
+Bud Dupree,Kentucky,8,2576702,1,LB,"Feb 12, 1993",2015,22
+Alejandro Villanueva,Army,8,16706,,OT,"Sep 22, 1988",,
+David DeCastro,Stanford,,14935,1,,"Jan 11, 1990",2012,24
+Ramon Foster,Tennessee,,12883,,,"Jan 7, 1986",,
+Sean Spence,Miami,,14972,3,,"Jun 7, 1990",2012,86
+Stevan Ridley,LSU,2,14028,3,RB,"Jan 27, 1989",2011,73
+Landon Collins,Alabama,,2979841,2,,"Jan 10, 1994",2015,33
+Calvin Munson,San Diego State,6,3047530,,LB,"Dec 27, 1994",,
+Curtis Grant,Ohio State,,2576384,,,"Dec 28, 1992",,
+Andrew Adams,UConn,,2576599,,,"Oct 28, 1992",,
+Deontae Skinner,Mississippi State,,17250,,,"Dec 18, 1990",,
+Dalvin Tomlinson,Alabama,4,2979860,2,DT,"Feb 28, 1994",2017,55
+Jordan Williams,Tennessee,9,2577718,,LB,"Mar 23, 1993",,
+Nat Berhe,San Diego State,,16850,5,,"Jul 6, 1991",2014,152
+Michael Hunter,Oklahoma State,9,2578305,,CB,"Apr 19, 1993",,
+Kerry Wynn,Richmond,2,17296,,DE,"Feb 12, 1991",,
+Jay Bromley,Syracuse,9,16776,3,DT,"May 28, 1992",2014,74
+Corbin Bryant,Northwestern,,14231,,,"Jan 4, 1988",,
+Valentino Blake,UTEP,,15350,,,"Aug 9, 1990",,
+Owa Odighizuwa,UCLA,,2510866,3,,"Apr 1, 1992",2015,74
+Donte Deayon,Boise State,8,2972896,,CB,"Jan 28, 1994",,
+Avery Moss,Youngstown State,1,2974324,5,LB,"Sep 16, 1994",2017,167
+B.J. Goodson,Clemson,3,2576489,4,LB,"May 29, 1993",2016,109
+Duke Ihenacho,San Jose State,,15190,,,"Jun 16, 1989",,
+Eric Pinkins,San Diego State,2,16849,6,LB,"Aug 7, 1991",2014,208
+Darian Thompson,Boise State,,2573317,3,,"Sep 22, 1993",2016,71
+Jerell Adams,South Carolina,9,2978727,6,TE,"Dec 31, 1992",2016,184
+Nigel Tribune,Iowa State,,3039916,,,"Aug 7, 1995",,
+Trey Robinson,Furman,,3049852,,,"Dec 30, 1994",,
+Roger Lewis,Bowling Green,8,3125745,,WR,"Nov 27, 1993",,
+Olivier Vernon,Miami,4,14982,3,DE,"Oct 7, 1990",2012,72
+Devin Taylor,South Carolina,,15916,4,,"Nov 15, 1989",2013,132
+DaShaun Amos,East Carolina,,2971986,,,"Sep 20, 1994",,
+Darius Powe,California,0,2978216,,WR,"Mar 15, 1994",,
+Jerome Lane,Akron,,3052561,,,"Mar 9, 1995",,
+Keeon Johnson,Virginia,2,3048701,,WR,"Dec 31, 1994",,
+Rhett Ellison,USC,5,15003,4,TE,"Oct 3, 1988",2012,128
+Khalid Abdullah,James Madison,,3049325,,,"May 14, 1995",,
+Travis Rudolph,Florida State,9,3122935,,WR,"Sep 15, 1995",,
+Will Tye,Stony Brook,2,2512523,,TE,"Nov 4, 1991",,
+Evan Engram,Ole Miss,8,3051876,1,TE,"Sep 2, 1994",2017,23
+Matt LaCosse,Illinois,3,2576179,,TE,"Sep 21, 1992",,
+Shane Smith,San Jose State,3,2981212,,TE,"Aug 21, 1993",,
+Kevin Norwood,Alabama,,16841,4,,"Sep 23, 1989",2014,123
+Wayne Gallman,Clemson,2,3045127,4,RB,"Oct 1, 1994",2017,140
+Dwayne Harris,East Carolina,7,14100,6,WR,"Sep 16, 1987",2011,176
+Orleans Darkwa,Tulane,,17331,,,"Feb 28, 1992",,
+Mike Nugent,Ohio State,6,8461,2,PK,"Mar 2, 1982",2005,47
+Aldrick Rosas,Southern Oregon,2,3068939,,PK,"Dec 30, 1994",,
+Josh Johnson,San Diego,,11394,5,,"May 15, 1986",2008,160
+Shane Vereen,California,5,14017,2,RB,"Mar 2, 1989",2011,56
+Geno Smith,West Virginia,3,15864,2,QB,"Oct 10, 1990",2013,39
+Paul Perkins,UCLA,,2971589,5,,"Nov 16, 1994",2016,149
+Brett Jones,University of Regina,,3173563,,,"Jul 29, 1991",,
+Brad Wing,LSU,,16241,,,"Jan 27, 1991",,
+Davis Webb,California,5,3052600,3,QB,"Jan 22, 1995",2017,87
+Jonathan Casillas,Wisconsin,,13045,,,"Jun 3, 1987",,
+Janoris Jenkins,North Alabama,0,14974,2,CB,"Oct 29, 1988",2012,39
+Dominique Rodgers-Cromartie,Tennessee State,,11250,1,,"Apr 7, 1986",2008,16
+Jason Pierre-Paul,South Florida,0,13256,1,DE,"Jan 1, 1989",2010,15
+Devon Kennard,USC,2,16820,5,LB,"Jun 24, 1991",2014,174
+Chris Casher,Faulkner,,2969917,,,"Dec 30, 1993",,
+Sterling Shepard,Oklahoma,7,2976592,2,WR,"Feb 10, 1994",2016,40
+Robert Thomas,Arkansas,9,5273,,DT,"Feb 18, 1991",,
+Damon Harrison,William Penn,8,15380,,DT,"Nov 29, 1988",,
+Steven Daniels,Boston ,,2969870,7,,"Dec 12, 1992",2016,232
+Romeo Okwara,Notre Dame,8,2980147,,LB,"Jun 17, 1995",,
+Odell Beckham Jr.,LSU,3,16733,1,WR,"Nov 5, 1992",2014,12
+Tavarres King,Georgia,2,15911,5,WR,"Jul 14, 1990",2013,161
+Brandon Marshall,UCF,5,9705,4,WR,"Mar 23, 1984",2006,119
+Eli Manning,Ole Miss,0,5526,1,QB,"Jan 3, 1981",2004,1
+Jacob Huesman,None,,2567767,,,"Feb 27, 1993",,
+Tim Scott,North Carolina,5,2577110,,CB,"Jan 25, 1993",,
+Eli Apple,Ohio State,4,3040506,1,CB,"Aug 9, 1995",2016,10
+J.T. Thomas,West Virginia,,14216,6,,"Aug 15, 1988",2011,195
+Shaun Draughn,North Carolina,,14518,,,"Dec 7, 1987",,
+Stansly Maponga,TCU,,15999,5,,"Mar 5, 1991",2013,153
+Ryan Murphy,Oregon State,,2517020,7,,"Oct 14, 1992",2015,248
+Josh Banks,Wake Forest,4,2970137,,DT,"Jun 13, 1994",,
+Canaan Severin,Virginia,8,2979681,,WR,"Mar 16, 1993",,
+Marquis Bundy,New Mexico,6,2974198,,WR,"Aug 5, 1994",,
+Bobby Richardson,Indiana,,2578316,,,"Nov 20, 1992",,
+Tay Glover-Wright,Utah State,,17158,,,"Jun 28, 1992",,
+Daniel Gray,Utah State,,2972235,,,"May 13, 1994",,
+Zak DeOssie,Brown,1,10560,4,LS,"May 24, 1984",2007,116
+Ed Eagan,Northwestern State,,2974590,,,"Jun 19, 1993",,
+C.J. Germany,None,,3939055,,,,,
+Ross Cockrell,Duke,7,16843,4,CB,"Aug 6, 1991",2014,109
+Justin Pugh,Syracuse,,15808,1,,"Aug 15, 1990",2013,19
+Keenan Robinson,Texas,8,15017,4,LB,"Jul 7, 1989",2012,119
+Cap Capi,Akron,1,2514374,,DE,"Jul 11, 1992",,
+D.J. Fluker,Alabama,,15792,1,,"Mar 13, 1991",2013,11
+John Jerry,Ole Miss,,13278,3,,"Jun 14, 1986",2010,73
+Bobby Hart,Florida State,8,2576789,7,OT,"Aug 21, 1994",2015,226
+Nigel Harris,South Florida,2,3051368,,LB,"Dec 7, 1994",,
+Kelvin Sheppard,LSU,,13995,3,,"Jan 2, 1988",2011,68
+Akeem Ayers,UCLA,,14015,2,,"Jul 10, 1989",2011,39
+Kalif Raymond,Holy Cross,3,2973405,,WR,"Aug 8, 1994",,
+Brandon Dixon,Northwest Missouri State,5,16957,6,DB,"Apr 26, 1990",2014,195
+Darryl Morris,Texas State,,16367,,,"Sep 4, 1990",,
+Ray-Ray Armstrong,Miami,5,16463,,LB,"Mar 5, 1991",,
+Jon Halapio,Florida,,16842,6,,"Jun 23, 1991",2014,179
+Hunter Sharp,Utah State,5,3125354,,WR,"Apr 25, 1994",,
+Chad Wheeler,USC,3,2971615,,OT,"Jan 19, 1994",,
+Ryan Smith,North Carolina Central,9,2574666,4,CB,"Sep 7, 1993",2016,108
+Kwon Alexander,LSU,8,2976541,4,LB,"Aug 3, 1994",2015,124
+Kendell Beckwith,LSU,1,3042733,3,LB,"Dec 2, 1994",2017,107
+J.J. Wilcox,Georgia Southern,,15874,3,,"Feb 14, 1991",2013,80
+Robert McClain,UConn,,13412,7,,"Jul 22, 1988",2010,249
+Devante Bond,Oklahoma,9,3116368,6,LB,"Jul 3, 1993",2016,183
+Justin Evans,Texas A&M,,3895859,2,,"Aug 26, 1995",2017,50
+Tavaris Barnes,Clemson,,2512398,,,"Nov 2, 1991",,
+Javien Elliott,Florida State,5,3116598,,CB,"Jul 18, 1993",,
+Clinton McDonald,Memphis,8,12692,7,DT,"Jan 6, 1987",2009,249
+Cameron Lynch,Syracuse,3,2577602,,LB,"Aug 4, 1993",,
+Jeff Knox Jr.,California (PA),,4081021,,,"Feb 22, 1992",,
+Sterling Bailey,Georgia,9,2578530,,DE,"Sep 13, 1992",,
+Cody Riggs,Notre Dame,,2516063,,,"Dec 28, 1991",,
+Isaiah Johnson,South Carolina,,2570484,,,"Oct 14, 1992",,
+DaVonte Lambert,Auburn,5,3121601,,DT,"Jun 23, 1994",,
+Chris Conte,California,,14016,3,,"Feb 23, 1989",2011,93
+Josh Robinson,UCF,6,14948,3,CB,"Jan 8, 1991",2012,66
+Keith Tandy,West Virginia,,15001,6,,"Feb 12, 1989",2012,174
+Austin Johnson,Tennessee,6,15765,,FB,"Jun 16, 1989",,
+William Gholston,Michigan State,2,16019,4,DE,"Jul 31, 1991",2013,126
+Blake Sims,Alabama,,2515957,,,"Jan 3, 1992",,
+Cole Gardner,Eastern Michigan,8,2972575,,OT,"Nov 11, 1993",,
+Noah Spence,Eastern Kentucky,7,2976313,2,DE,"Jan 8, 1994",2016,39
+Riley Bullough,Michigan State,9,2979532,,LB,"Nov 23, 1993",,
+Jeremy McNichols,Boise State,3,3127586,5,RB,"Dec 26, 1995",2017,162
+Lavonte David,Nebraska,4,14985,2,LB,"Jan 23, 1990",2012,58
+Richie Brown,Mississippi State,9,2971373,,LB,"Apr 15, 1994",,
+Vernon Hargreaves III,Florida,8,3054955,1,CB,"Jun 3, 1995",2016,11
+Mike Evans,Texas A&M,3,16737,1,WR,"Aug 21, 1993",2014,7
+Alan Cross,Memphis,5,2586700,,TE,"May 2, 1993",,
+Cameron Brate,Harvard,4,17453,,TE,"Jul 3, 1991",,
+Bernard Reedy,Toledo,8,17032,,WR,"Dec 31, 1991",,
+Freddie Martino,North Greenville,6,17205,,WR,"Sep 7, 1991",,
+Chris Godwin,Penn State,2,3116165,3,WR,"Feb 27, 1996",2017,84
+Bobo Wilson,Florida State,5,3045380,,WR,"Jan 25, 1995",,
+Tevin Westbrook,Florida,,2578588,,,"Jan 17, 1993",,
+Russell Hansbrough,Missouri,5,2971435,,RB,"Nov 19, 1993",,
+Josh Huff,Oregon,5,16779,3,WR,"Oct 14, 1991",2014,86
+DeSean Jackson,California,1,11283,2,WR,"Dec 1, 1986",2008,49
+Jacquizz Rodgers,Oregon State,2,14193,5,RB,"Feb 6, 1990",2011,145
+Adam Humphries,Clemson,0,2576491,,WR,"Jun 24, 1993",,
+Derel Walker,Texas A&M,,17275,,,"Jun 29, 1991",,
+O.J. Howard,Alabama,0,3043080,1,TE,"Nov 19, 1994",2017,19
+Peyton Barber,Auburn,5,3051902,,RB,"Feb 27, 1994",,
+Nick Folk,Arizona,,10621,6,,"Nov 5, 1984",2007,178
+Roberto Aguayo,Florida State,4,2978887,2,PK,"May 17, 1994",2016,59
+Charles Sims,West Virginia,4,16749,3,RB,"Sep 19, 1990",2014,69
+Ryan Fitzpatrick,Harvard,4,8664,7,QB,"Nov 24, 1982",2005,250
+Sefo Liufau,Colorado,,3052118,,,"Oct 29, 1994",,
+Doug Martin,Boise State,8,14885,1,RB,"Jan 13, 1989",2012,31
+Bryan Anger,California,,14950,3,,"Oct 6, 1988",2012,70
+Jameis Winston,Florida State,3,2969939,1,QB,"Jan 6, 1994",2015,1
+Ryan Griffin,Tulane,4,16140,,QB,"Nov 17, 1989",,
+Adarius Taylor,Florida Atlantic,3,17401,,LB,"Sep 21, 1990",,
+Jonathan Moxey,Boise State,5,3042884,,CB,"Jan 14, 1995",,
+Maurice Fleming,West Virginia,0,2979525,,CB,"Dec 6, 1993",,
+Chris Baker,Hampton,2,12760,,DT,"Oct 8, 1987",,
+Shaq Hill,Eastern Washington,,2565330,,,"May 12, 1993",,
+Channing Ward,Ole Miss,,2984056,,,"Sep 17, 1992",,
+Robert Ayers,Tennessee,,12432,1,,"Sep 6, 1985",2009,18
+Gerald McCoy,Oklahoma,3,13240,1,DT,"Feb 25, 1988",2010,3
+George Johnson,Rutgers,0,13812,,DE,"Dec 11, 1987",,
+Antony Auclair,None,2,4081127,,TE,"May 28, 1993",,
+Ryan Russell,Purdue,9,2511687,5,DE,"Jan 17, 1992",2015,163
+Sealver Siliga,Utah,8,14441,,DT,"Apr 26, 1990",,
+Michael Liedtke,Illinois State,,2566837,,,"Jan 15, 1992",,
+Donteea Dye,Heidelberg,,3894952,,,"Aug 20, 1993",,
+Marqueston Huff,Wyoming,,16904,4,,"Apr 6, 1992",2014,122
+Mehdi Abdesmad,Boston ,,2576467,,,"Sep 28, 1991",,
+Mariel Cooper,The Citadel,,2580324,,,"Jan 10, 1993",,
+Vernon Harris,Dartmouth,,2969220,,,"Jun 25, 1994",,
+Hendrick Ekpe,Minnesota,,3040186,,,"Jun 30, 1995",,
+Zach Hocker,Arkansas,,16916,7,,"Aug 23, 1991",2014,228
+Brent Grimes,Shippensburg,4,10913,,CB,"Jul 19, 1983",,
+T.J. Ward,Oregon,,13304,2,,"Dec 12, 1986",2010,38
+Demar Dotson,Southern Mississippi,9,13050,,OT,"Oct 11, 1985",,
+Will Clarke,West Virginia,4,16758,3,DE,"May 4, 1991",2014,88
+Ali Marpet,Hobart,,3165702,2,,"Apr 17, 1993",2015,61
+Luke Stocker,Tennessee,8,14099,4,TE,"Jul 17, 1988",2011,104
+Patrick Murray,Fordham,,16684,,,"Jun 22, 1991",,
+Evan Smith,Idaho State,,12972,,,"Jul 19, 1986",,
+Darryl Tapp,Virginia Tech,,9649,2,,"Sep 13, 1984",2006,63
+Deji Olatoye,North Carolina A&T,,17224,,,"Jul 20, 1991",,
+Caleb Benenoch,UCLA,,3047575,5,,"Aug 8, 1994",2016,148
+Leonard Wester,Missouri Western,1,4002060,,OT,"Jan 3, 1993",,
+KeiVarae Russell,Notre Dame,0,2980150,3,CB,"Oct 19, 1993",2016,74
+Jordan Evans,Oklahoma,0,3052660,6,LB,"Jan 27, 1995",2017,193
+Nick Vigil,Utah State,9,2971816,3,LB,"Aug 20, 1993",2016,87
+Hardy Nickerson,Illinois,6,2978211,,LB,"Jan 5, 1994",,
+Demetrious Cox,Michigan State,,2979535,,,"Apr 20, 1994",,
+William Jackson,Houston,2,3061106,1,CB,"Oct 27, 1992",2016,24
+Jordan Willis,Kansas State,5,3052434,3,DE,"May 2, 1995",2017,73
+Vincent Rey,Duke,7,13766,,LB,"Sep 6, 1987",,
+Shawn Williams,Georgia,,15877,3,,"May 13, 1991",2013,84
+Chris Smith,Arkansas,0,16917,5,DE,"Feb 11, 1992",2014,159
+Kevin Minter,LSU,3,15856,2,LB,"Dec 3, 1990",2013,45
+Bene Benwikere,San Jose State,3,16872,5,CB,"Sep 3, 1991",2014,148
+Derron Smith,Fresno State,,2517248,6,,"Feb 4, 1992",2015,197
+Josh Shaw,USC,6,2971605,4,CB,"Mar 27, 1992",2015,120
+Clayton Fejedelem,Illinois,,3042455,7,,"Jun 2, 1993",2016,245
+Geno Atkins,Georgia,7,13311,4,DT,"Mar 28, 1988",2010,120
+Vontaze Burfict,Arizona State,5,15246,,LB,"Sep 24, 1990",,
+Darqueze Dennard,Michigan State,1,16718,1,CB,"Oct 10, 1991",2014,24
+Brandon Thompson,Clemson,,14965,3,,"Oct 19, 1989",2012,93
+Marquis Flowers,Arizona,9,16924,6,LB,"Feb 16, 1992",2014,212
+Tra Carson,Texas A&M,3,2972283,,RB,"Oct 24, 1992",,
+Josh Tupou,Colorado,1,2979632,,DT,"May 2, 1994",,
+Cody Core,Ole Miss,6,2980378,6,WR,"Apr 17, 1994",2016,199
+Marcus Hardison,Arizona State,7,3043238,4,NT,"Feb 14, 1992",2015,135
+Brandon Bell,Penn State,1,3057972,,LB,"Jan 9, 1995",,
+Ryan Glasgow,Michigan,8,2977635,4,DT,"Sep 30, 1993",2017,138
+Bryson Albright,Miami (OH),,2978064,,,"Mar 15, 1994",,
+Andrew Billings,Baylor,9,3051775,4,DT,"Mar 6, 1995",2016,122
+Carl Lawson,Auburn,8,3051911,4,DE,"Jun 29, 1995",2017,116
+Adam Jones,West Virginia,,8421,1,,"Sep 30, 1983",2005,6
+Pat Sims,Auburn,,11311,3,,"Nov 29, 1985",2008,77
+DeShawn Williams,Clemson,3,2576508,,DT,"Dec 29, 1992",,
+Alex Erickson,Wisconsin,2,2977800,,WR,"Nov 6, 1992",,
+A.J. Green,Georgia,8,13983,1,WR,"Jul 31, 1988",2011,4
+Kermit Whitfield,Florida State,7,3045379,,WR,"Oct 8, 1993",,
+Cethan Carter,Nebraska,2,3040470,,TE,"Sep 5, 1993",,
+Brandon LaFell,LSU,,12576,3,,"Nov 4, 1986",2010,78
+Josh Malone,Tennessee,0,3115330,4,WR,"Mar 21, 1996",2017,128
+Joe Mixon,Oklahoma,8,3116385,2,RB,"Jul 24, 1996",2017,48
+Tyler Boyd,Pittsburgh,3,3045144,2,WR,"Nov 15, 1994",2016,55
+Tyler Eifert,Notre Dame,5,15788,1,TE,"Sep 8, 1990",2013,21
+Jeremy Hill,LSU,3,16803,2,RB,"Oct 20, 1992",2014,55
+Chris Brown,Notre Dame,,2980137,,,"Dec 8, 1993",,
+Randy Bullock,Texas A&M,4,15091,5,PK,"Dec 16, 1989",2012,161
+Jake Elliott,Memphis,4,3050478,5,PK,"Jan 21, 1995",2017,153
+Jeff Driskel,Louisiana Tech,6,2574630,6,QB,"Apr 23, 1993",2016,207
+Stanley Williams,Kentucky,,3126338,,,"Sep 30, 1995",,
+Jarveon Williams,UT San Antonio,9,3040644,,RB,"Jan 3, 1995",,
+AJ McCarron,Alabama,0,16810,5,QB,"Sep 13, 1990",2014,164
+Will Monday,Duke,,2576728,,,"Jul 25, 1992",,
+Andy Dalton,TCU,4,14012,2,QB,"Oct 29, 1987",2011,35
+Michael Johnson,Georgia Tech,0,12436,3,DE,"Feb 7, 1987",2009,70
+Carlos Dunlap,Florida,6,13274,2,DE,"Feb 28, 1989",2010,54
+Will Clarke,West Virginia,4,16758,3,DE,"May 4, 1991",2014,88
+Mason Schreck,Buffalo,6,2972331,7,TE,"Nov 4, 1993",2017,251
+Alonzo Russell,Toledo,4,2980238,,WR,"Sep 29, 1992",,
+Karel Hamilton,Samford,,3060377,,,"Mar 30, 1995",,
+Wallace Gilberry,Alabama,,11809,,,"Dec 5, 1984",,
+Dre Kirkpatrick,Alabama,7,14940,1,CB,"Oct 26, 1989",2012,17
+Tony McRae,North Carolina A&T,9,2969422,,CB,"May 3, 1993",,
+Darrin Laufasa,UTEP,,3042520,,,"May 6, 1995",,
+Tyler Kroft,Rutgers,1,2582410,3,TE,"Oct 15, 1992",2015,85
+John Ross,Washington,5,3052177,1,WR,"Nov 27, 1994",2017,9
+Giovani Bernard,North Carolina,5,15826,2,RB,"Nov 22, 1991",2013,37
+Kevin Huber,Cincinnati,,12669,5,,"Jul 16, 1985",2009,142
+Ryan Brown,Mississippi State,,2971381,,,"Jun 10, 1994",,
+Brandon Wilson,Houston,,2982632,6,,"Jul 27, 1994",2017,207
+David Dean,Virginia,,2577828,,,"Feb 16, 1993",,
+T.J. Johnson,South Carolina,,15915,7,,"Jul 17, 1990",2013,251
+George Iloka,Boise State,,15085,5,,"Mar 31, 1990",2012,167
+Clint Boling,Georgia,,14178,4,,"May 9, 1989",2011,101
+Trey Hopkins,Texas,,17172,,,"Jul 6, 1992",,
+Cedric Ogbuehi,Texas A&M,0,2511825,1,OT,"Apr 25, 1992",2015,21
+Clark Harris,Rutgers,6,10686,7,LS,"Jul 10, 1984",2007,243
+Ryan Hewitt,Stanford,9,17169,,TE,"Jan 24, 1991",,
+C.J. Uzomah,Auburn,7,2574576,5,TE,"Jan 14, 1993",2015,157
+Russell Bodine,North Carolina,,16876,4,,"Jun 30, 1992",2014,111
+Marshall Koehn,Iowa,8,2582419,,PK,"Aug 29, 1992",,
+Brian Hill,Wyoming,3,3125403,5,RB,"Nov 9, 1995",2017,156
+Andre Smith,Alabama,1,12622,1,OT,"Jan 25, 1987",2009,6
+Alex Redmond,UCLA,,3047571,,,"Jan 18, 1995",,
+Austin Calitro,Villanova,8,2982304,,LB,"Jan 10, 1994",,
+Lorenzo Jerome,St Francis (PA),,3050534,,,"Jan 20, 1995",,
+Aaron Lynch,South Florida,9,16941,5,LB,"Mar 8, 1993",2014,150
+Vinnie Sunseri,Alabama,,16938,5,,"Sep 27, 1993",2014,167
+Don Jones,Arkansas State,,15943,7,,"May 14, 1990",2013,250
+Raheem Mostert,Purdue,1,2576414,,RB,"Apr 9, 1992",,
+Rashard Robinson,LSU,0,3042718,4,CB,"Jul 23, 1995",2016,133
+Solomon Thomas,Stanford,4,3117258,1,DE,"Aug 26, 1995",2017,3
+Chris Jones,Bowling Green,,15955,6,,"Jul 12, 1990",2013,198
+NaVorro Bowman,Penn State,,13262,3,,"May 28, 1988",2010,91
+Reuben Foster,Alabama,6,3054844,1,LB,"Apr 4, 1994",2017,31
+Ahmad Brooks,Virginia,,10138,,,"Mar 14, 1984",,
+Dekoda Watson,Florida State,7,13482,7,LB,"Mar 3, 1988",2010,217
+Garrett Celek,Michigan State,8,15204,,TE,"May 29, 1988",,
+Quinton Dial,Alabama,,16028,5,,"Jul 21, 1990",2013,157
+Ray-Ray Armstrong,Miami,5,16463,,LB,"Mar 5, 1991",,
+Kapri Bibbs,Colorado State,5,16969,,RB,"Jan 10, 1993",,
+Blake Bell,Oklahoma,1,2514206,4,TE,"Aug 7, 1991",2015,117
+Ronald Blair III,Appalachian State,8,2567711,5,DE,"Jan 21, 1993",2016,142
+Noble Nwachukwu,West Virginia,7,2976647,,DE,"Nov 30, 1994",,
+DeAndre Smelter,Georgia Tech,5,3055912,4,WR,"Dec 3, 1991",2015,132
+Ahkello Witherspoon,Colorado,3,3122630,3,CB,"Mar 21, 1995",2017,66
+Tank Carradine,Florida State,6,15829,2,DE,"Feb 18, 1990",2013,40
+Jayson DiManche,Southern Illinois,,16256,,,"Sep 22, 1990",,
+Pita Taumoepenu,Utah,5,3055105,6,LB,"Mar 9, 1994",2017,202
+Chanceller James,Boise State,,2972901,,,"Sep 26, 1994",,
+Kendrick Bourne,Eastern Washington,4,3045523,,WR,"Aug 4, 1995",,
+Aldrick Robinson,SMU,9,14164,6,WR,"Sep 24, 1988",2011,178
+Trent Taylor,Louisiana Tech,1,3040569,5,WR,"Apr 30, 1994",2017,177
+Marquise Goodwin,Texas,1,15839,3,WR,"Nov 19, 1990",2013,78
+Matt Breida,Georgia Southern,2,3049916,,RB,"Feb 28, 1995",,
+Tyler McCloskey,Houston,,3040036,,,"Aug 11, 1994",,
+DeAndre Carter,Sacramento State,2,2580216,,WR,"Apr 10, 1993",,
+Carlos Hyde,Ohio State,4,16777,2,RB,"Sep 20, 1990",2014,57
+Pierre Garcon,Mount Union,5,11439,6,WR,"Aug 8, 1986",2008,205
+Jeremy Kerley,TCU,4,14151,5,WR,"Nov 8, 1988",2011,153
+Vance McDonald,Rice,9,15853,2,TE,"Jun 13, 1990",2013,55
+Joe Williams,Utah,2,3912576,4,RB,"Sep 4, 1993",2017,121
+Nick Rose,Texas,6,2971728,,PK,"May 5, 1994",,
+Robbie Gould,Penn State,9,9354,,PK,"Dec 6, 1982",,
+C.J. Beathard,Iowa,3,2979520,3,QB,"Nov 16, 1993",2017,104
+D.J. Jones,Ole Miss,3,3894915,6,DT,"Jan 19, 1995",2017,198
+Bradley Pinion,Clemson,,2977680,5,,"Jun 1, 1994",2015,165
+Matt Barkley,USC,7,15948,4,QB,"Sep 8, 1990",2013,98
+Brian Hoyer,Michigan State,2,12477,,QB,"Oct 13, 1985",,
+Jaquiski Tartt,Samford,,2509844,2,,"Feb 12, 1992",2015,46
+Eric Reid,LSU,,15809,1,,"Dec 10, 1991",2013,18
+Leger Douzable,UCF,,11920,,,"May 31, 1986",,
+Adrian Colbert,Miami,7,2971699,7,CB,"Oct 6, 1993",2017,229
+Shayne Skov,Stanford,6,17251,,LB,"Jul 9, 1990",,
+Brock Coyle,Montana,0,16983,,LB,"Oct 12, 1990",,
+Keith Reaser,Florida Atlantic,0,16930,5,CB,"Jul 31, 1991",2014,170
+Joe Staley,Central Michigan,4,10472,1,OT,"Aug 30, 1984",2007,28
+Daniel Kilgore,Appalachian State,,14110,5,,"Dec 18, 1987",2011,163
+Asa Jackson,Cal Poly,,15081,5,,"Dec 2, 1989",2012,169
+Will Davis,Utah State,,15833,3,,"May 8, 1990",2013,93
+Norman Price,Southern Mississippi,,3123982,,,"Aug 25, 1994",,
+Earl Mitchell,Arizona,0,13288,3,NT,"Sep 25, 1987",2010,81
+Kyle Nelson,New Mexico State,6,14426,,TE,"Oct 3, 1986",,
+Arik Armstead,Oregon,1,2971275,1,DE,"Nov 15, 1993",2015,17
+Victor Bolden Jr.,Oregon State,7,3056476,,WR,"Apr 4, 1995",,
+George Kittle,Iowa,5,3040151,5,TE,"Oct 9, 1993",2017,146
+Kyle Juszczyk,Harvard,4,16002,4,FB,"Apr 23, 1991",2013,130
+Louis Murphy,Florida,,12585,4,,"May 11, 1987",2009,124
+Tim Hightower,Richmond,,11383,5,,"May 23, 1986",2008,149
+DeForest Buckner,Oregon,9,2971282,1,DE,"Mar 17, 1994",2016,7
+Dontae Johnson,NC State,9,16893,4,CB,"Dec 1, 1991",2014,129
+Elvis Dumervil,Louisville,,9712,4,,"Jan 19, 1984",2006,126
+K'Waun Williams,Pittsburgh,4,17444,,CB,"Jul 12, 1991",,
+Eli Harold,Virginia,7,2979652,3,LB,"Jan 20, 1994",2015,79
+Logan Paulsen,UCLA,2,13726,,TE,"Feb 26, 1987",,
+John Flynn,,,2974808,,,"Aug 30, 1993",,
+Nick Mullens,Southern Mississippi,4,3059989,,QB,"Mar 21, 1995",,
+Sen'Derrick Marks,Auburn,,12445,2,,"Feb 23, 1987",2009,62
+Tim Patrick,Utah,1,3134353,,WR,"Nov 23, 1993",,
+Cole Hikutini,Louisville,3,2968204,,TE,"Jun 11, 1994",,
+Xavier Cooper,Washington State,5,2578408,3,DT,"Nov 30, 1991",2015,96
+Jimmie Ward,Northern Illinois,0,16717,1,CB,"Jul 18, 1991",2014,30
+Elijah Lee,Kansas State,7,3125073,7,LB,"Feb 8, 1996",2017,232
+Mark Nzeocha,Wyoming,3,2576030,7,LB,"Jan 19, 1990",2015,236
+Tony McDaniel,Tennessee,6,10031,,DT,"Jan 20, 1985",,
+Brandon Fusco,Slippery Rock,,14208,6,,"Jul 26, 1988",2011,172
+Datone Jones,UCLA,6,15798,1,DE,"Jul 24, 1990",2013,26
+Leon Hall,Michigan,9,10462,1,CB,"Dec 9, 1984",2007,18
+Dexter McCoil,Tulsa,,2470860,,,"Sep 5, 1991",,
+Laken Tomlinson,Duke,,2512477,1,,"Feb 9, 1992",2015,28
+Greg Mabin,Iowa,6,2979515,,CB,"Jun 25, 1994",,
+Antone Exum Jr.,Virginia Tech,,16833,6,,"Feb 27, 1991",2014,182
+Cassius Marsh,UCLA,4,16873,4,DE,"Jul 7, 1992",2014,108
+Sheldon Day,Notre Dame,6,2976194,4,DT,"Jul 1, 1994",2016,103
+Jimmy Garoppolo,Eastern Illinois,0,16760,2,QB,"Nov 2, 1991",2014,62
+Tyvis Powell,Ohio State,,2976308,,,"Feb 16, 1994",,
+Jeremy McNichols,Boise State,3,3127586,5,RB,"Dec 26, 1995",2017,162
+De'Vante Bausby,Pittsburg State,3,2613234,,CB,"Jan 15, 1993",,
+Ukeme Eligwe,Georgia Southern,5,2969922,5,LB,"Apr 27, 1994",2017,183
+Steven Terrell,Texas A&M,,16450,,,"Sep 21, 1990",,
+Earl Okine,Florida,,16551,,,"Jan 4, 1990",,
+Rakeem Nunez-Roches,Southern Mississippi,5,2575453,6,DT,"Jul 3, 1993",2015,217
+David King,Oklahoma,5,15905,7,DE,"Dec 27, 1989",2013,239
+Marcus Rush,Michigan State,9,2515422,,LB,"Jun 19, 1991",,
+Ashton Lampkin,Oklahoma State,,2977735,,,"Jan 10, 1994",,
+Kenneth Acker,SMU,5,16914,6,CB,"Feb 6, 1992",2014,180
+Justin March-Lillard,Akron,3,2574282,,LB,"Jul 5, 1993",,
+Ramik Wilson,Georgia,2,2578565,4,LB,"Aug 19, 1992",2015,118
+Maurice Swain,Auburn,,3892697,,,"Jul 25, 1995",,
+Orson Charles,Georgia,2,14902,4,TE,"Jan 27, 1991",2012,116
+Terrance Smith,Florida State,8,2576809,,LB,"May 3, 1993",,
+D.J. White,Georgia Tech,1,2971478,6,CB,"Sep 9, 1993",2016,178
+Steven Nelson,Oregon State,0,3045287,3,CB,"Jan 22, 1993",2015,98
+Frank Zombo,Central Michigan,1,13779,,LB,"Mar 5, 1987",,
+Jarvis Jenkins,Clemson,4,14019,2,DT,"Apr 24, 1988",2011,41
+Kevin Pierre-Louis,Boston ,6,16888,4,LB,"Oct 7, 1991",2014,132
+Leon McQuay,USC,,3043217,6,,"Nov 21, 1994",2017,218
+Derrick Johnson,Texas,6,8430,1,LB,"Nov 22, 1982",2005,15
+Allen Bailey,Miami,7,14020,3,DE,"Mar 25, 1989",2011,86
+Demetrius Harris,None,4,16318,,TE,"Jul 29, 1991",,
+Phillip Gaines,Rice,8,16750,3,CB,"Apr 4, 1991",2014,87
+Terrance Mitchell,Oregon,9,16927,7,CB,"May 17, 1992",2014,254
+J.R. Nelson,Montana,,2982928,,,"Nov 30, 1993",,
+Kareem Hunt,Toledo,7,3059915,3,RB,"Aug 6, 1995",2017,86
+Devine Redding,Indiana,,3128267,,,"Feb 5, 1996",,
+James Winchester,Oklahoma,1,16665,,LS,"Aug 6, 1989",,
+Daniel Sorensen,BYU,,17259,,,"Mar 5, 1990",,
+Tanoh Kpassagnon,Villanova,2,2982313,2,LB,"Jun 14, 1994",2017,59
+Ross Travis,Penn State,3,3936647,,TE,"Jan 9, 1993",,
+Ricky Ali'ifua,Utah State,1,2469470,,DE,"Dec 2, 1991",,
+Marcus Peters,Washington,2,2578378,1,CB,"Jan 9, 1993",2015,18
+Eric Murray,Minnesota,1,2970716,4,CB,"Jan 7, 1994",2016,106
+Chris Conley,Georgia,7,2578533,3,WR,"Oct 25, 1992",2015,76
+Tyreek Hill,West Alabama,0,3116406,5,WR,"Mar 1, 1994",2016,165
+Spencer Ware,LSU,2,16020,6,RB,"Nov 23, 1991",2013,194
+Gehrig Dieter,Alabama,2,2980460,,WR,"Feb 24, 1993",,
+Seantavius Jones,Valdosta State,6,17191,,WR,"Aug 9, 1992",,
+Demarcus Robinson,Florida,1,3043116,4,WR,"Sep 21, 1994",2016,126
+De'Anthony Thomas,Oregon,3,16945,4,WR,"Jan 5, 1993",2014,124
+Anthony Sherman,UConn,2,14135,5,FB,"Dec 11, 1988",2011,136
+C.J. Spiller,Clemson,,13203,1,,"Aug 5, 1987",2010,9
+Marcus Kemp,Hawai'i,9,3046399,,WR,"Aug 14, 1995",,
+Gavin Escobar,San Diego State,9,15836,2,TE,"Feb 3, 1991",2013,47
+Tevin Jones,Memphis,4,2586703,,WR,"Dec 26, 1992",,
+Jehu Chesson,Michigan,0,2977631,4,WR,"Dec 29, 1993",2017,139
+Robert Wheelwright,Wisconsin,,3045283,,,,,
+Sam Ficken,Penn State,5,2582139,,PK,"Dec 14, 1992",,
+Alex Smith,Utah,1,8416,1,QB,"May 7, 1984",2005,1
+Charcandrick West,Abilene Christian,5,17284,,RB,"Jun 2, 1991",,
+Dustin Colquitt,Tennessee,,8513,3,,"May 6, 1982",2005,99
+Tyler Bray,Tennessee,9,16252,,QB,"Dec 27, 1991",,
+Patrick Mahomes,Texas Tech,5,3139477,1,QB,"Sep 17, 1995",2017,10
+Joel Stave,Wisconsin,2,2576446,,QB,"May 16, 1992",,
+Josh Mauga,Nevada,,13165,,,"Jun 20, 1987",,
+Justin Houston,Georgia,0,14048,3,LB,"Jan 12, 1989",2011,70
+Ron Parker,Newberry,,14297,,,"Aug 17, 1987",,
+Cam Thomas,North Carolina,,13470,5,,"Dec 12, 1986",2010,146
+Bennie Logan,LSU,6,15850,3,DT,"Dec 28, 1989",2013,67
+Dee Ford,Auburn,5,16707,1,LB,"Mar 19, 1991",2014,23
+Travis Kelce,Cincinnati,7,15847,3,TE,"Oct 5, 1989",2013,63
+Albert Wilson,Georgia State,5,17051,,WR,"Jul 12, 1992",,
+Chris Jones,Mississippi State,5,3044859,2,DE,"Jul 3, 1994",2016,37
+Andrew Tiller,Syracuse,,15098,6,,"Mar 13, 1989",2012,179
+Trevon Hartfield,Southwestern Oklahoma,7,4010744,,DB,"Nov 17, 1991",,
+Jordan Devey,Memphis,,16385,,,"Jan 11, 1988",,
+Larry Scott,Oregon State,,2577018,,,"Mar 5, 1993",,
+Tony Stevens,Auburn,,3051897,,,"Mar 14, 1995",,
+Cairo Santos,Tulane,8,17427,,PK,"Nov 12, 1991",,
+Eric Berry,Tennessee,,13252,1,,"Dec 29, 1988",2010,5
+Roy Miller,Texas,,12698,3,,"Jul 9, 1987",2009,81
+Zach Fulton,Tennessee,,16923,6,,"Sep 23, 1991",2014,193
+Reggie Ragland,Alabama,9,2979855,2,LB,"Sep 23, 1993",2016,41
+Akeem Hunt,Purdue,1,2576408,,RB,"Feb 22, 1993",,
+Harrison Butker,Georgia Tech,7,3055899,7,PK,"Jul 14, 1995",2017,233
+Tamba Hali,Penn State,,9606,1,,"Nov 3, 1983",2006,20
+Mitch Morse,Missouri,,2514122,2,,"Apr 21, 1992",2015,49
+Darrelle Revis,Pittsburgh,,10458,1,,"Jul 14, 1985",2007,14
+Cameron Erving,Florida State,5,2512504,1,OT,"Aug 23, 1992",2015,19
+Keith Reaser,Florida Atlantic,0,16930,5,CB,"Jul 31, 1991",2014,170
+Justin Hamilton,Louisiana,4,2574009,,DT,"Jul 27, 1993",,
+Kalan Reed,Southern Mississippi,4,2972090,7,CB,"Dec 29, 1993",2016,253
+Aaron Wallace,UCLA,2,2577203,7,LB,"Jul 8, 1993",2016,222
+Kevin Byard,Middle Tennessee,,2574056,3,,"Aug 17, 1993",2016,64
+Tye Smith,Towson,3,2588098,5,CB,"May 3, 1993",2015,170
+Jayon Brown,UCLA,5,3047559,5,LB,"Feb 26, 1995",2017,155
+Logan Ryan,Rutgers,6,15861,3,CB,"Feb 9, 1991",2013,83
+Denzel Johnson,TCU,,3040009,,,"Sep 16, 1994",,
+Adoree' Jackson,USC,5,3120347,1,CB,"Sep 18, 1995",2017,18
+LeShaun Sims,Southern Utah,6,2575171,5,CB,"Sep 18, 1993",2016,157
+Eric Weems,Bethune-Cookman,,10770,,,"Jul 4, 1985",,
+Da'Norris Searcy,North Carolina,,14143,4,,"Nov 16, 1988",2011,100
+Beau Brinkley,Missouri,8,15355,,LS,"Jan 25, 1990",,
+Nate Palmer,Illinois State,0,15930,6,LB,"Sep 23, 1989",2013,193
+Daren Bates,Auburn,3,16299,,LB,"Nov 27, 1990",,
+DaQuan Jones,Penn State,0,16910,4,DT,"Dec 27, 1991",2014,112
+Cameron Robbins,Northwestern,,2582099,,,"Jul 2, 1993",,
+Justin Staples,Illinois,,16328,,,"Dec 10, 1989",,
+Curtis Riley,Fresno State,5,2525492,,CB,"Jul 18, 1992",,
+Mehdi Abdesmad,Boston ,,2576467,,,"Sep 28, 1991",,
+Brynden Trawick,Troy,,16419,,,"Oct 23, 1989",,
+Wesley Woodyard,Kentucky,9,11609,,LB,"Jul 21, 1986",,
+Jurrell Casey,USC,9,14047,3,DT,"Dec 5, 1989",2011,77
+Angelo Blackson,Auburn,7,2574582,4,DE,"Nov 14, 1992",2015,100
+Tyler Marz,Wisconsin,9,2576443,,OT,"Sep 9, 1992",,
+DeAngelo Brown,Louisville,,2970203,,,"Feb 14, 1994",,
+Josh Carraway,TCU,4,2971565,7,LB,"Apr 13, 1994",2017,227
+Kevin Dodd,Clemson,,2977682,2,,"Jul 14, 1992",2016,33
+D'Joun Smith,Florida Atlantic,,2982861,3,,"Sep 23, 1992",2015,65
+Jeremy Boykins,UCF,1,3929030,,CB,"May 29, 1995",,
+Erik Walden,Middle Tennessee,3,11401,6,LB,"Aug 21, 1985",2008,167
+Brice McCain,Utah,,12690,6,,"Dec 10, 1986",2009,188
+Kourtnei Brown,Clemson,,15177,,,"Apr 17, 1989",,
+Phillip Supernaw,Ouachita Baptist,,15257,,,"Jan 30, 1990",,
+Jimmy Staten,Middle Tennessee,,16822,5,,"May 4, 1991",2014,172
+Tre McBride,William & Mary,7,2566041,7,WR,"Dec 1, 1992",2015,245
+KeVonn Mabon,Ball State,,2972052,,,"Oct 2, 1993",,
+Corey Levin,Chattanooga,,2973637,6,,"Aug 12, 1994",2017,217
+Austin Johnson,Penn State,4,2979591,2,DT,"May 8, 1994",2016,43
+Taywan Taylor,Western Kentucky,3,3059760,3,WR,"Mar 2, 1995",2017,72
+Harry Douglas,Louisville,,11318,3,,"Sep 16, 1984",2008,84
+Rishard Matthews,Nevada,8,15102,7,WR,"Oct 12, 1989",2012,227
+Jonathan Krause,Vanderbilt,,17194,,,"Jan 18, 1992",,
+Khalfani Muhammad,California,8,3052143,7,RB,"Sep 26, 1994",2017,241
+Akeem Judd,Ole Miss,,3128756,,,"Dec 11, 1992",,
+Jace Amaro,Texas Tech,9,16792,2,TE,"Jun 26, 1992",2014,49
+Delanie Walker,Central Missouri State,2,9761,6,TE,"Aug 12, 1984",2006,175
+Darius Jennings,Virginia,5,2577808,,WR,"Jun 28, 1992",,
+Derrick Henry,Alabama,2,3043078,2,RB,"Jan 4, 1994",2016,45
+Jonnu Smith,Florida Intl,1,3054212,3,TE,"Aug 22, 1995",2017,100
+Ryan Succop,South Carolina,4,12731,7,PK,"Sep 19, 1986",2009,256
+Alex Tanney,Monmouth (IL),3,15693,,QB,"Nov 11, 1987",,
+David Fluellen,Toledo,2,16994,,RB,"Jan 28, 1992",,
+Marcus Mariota,Oregon,8,2576980,1,QB,"Oct 30, 1993",2015,2
+Brett Kern,Toledo,,11555,,,"Feb 17, 1986",,
+Jordan Gay,Centre,,16591,,,"Mar 29, 1990",,
+Tyler Ferguson,Western Kentucky,5,3040520,,QB,"Jan 7, 1994",,
+Avery Williamson,Kentucky,4,16920,5,LB,"Mar 9, 1992",2014,151
+Jerome Cunningham,Southern Connecticut State,6,2476373,,TE,"May 25, 1991",,
+Joe Bacci,Central Michigan,,2972498,,,"Apr 25, 1994",,
+Matt Cassel,USC,8,8644,7,QB,"May 17, 1982",2005,230
+Jalston Fowler,Alabama,3,2515931,4,FB,"Jul 26, 1990",2015,108
+Johnathan Cyprien,Florida Intl,,15831,2,,"Jul 29, 1990",2013,33
+Sylvester Williams,North Carolina,2,15816,1,DT,"Nov 21, 1988",2013,28
+Derrick Morgan,Georgia Tech,1,13248,1,LB,"Jan 6, 1989",2010,16
+Dennis Kelly,Purdue,1,15054,5,OT,"Jan 16, 1990",2012,153
+Antwaun Woods,USC,4,2577278,,DT,"Jan 3, 1993",,
+Brian Orakpo,Texas,8,12439,1,LB,"Jul 31, 1986",2009,13
+Karl Klug,Iowa,,14079,5,,"Mar 31, 1988",2011,142
+Tajae Sharpe,UMass,9,2982828,5,WR,"Dec 23, 1994",2016,140
+DeMarco Murray,Oklahoma,,14005,3,,"Feb 12, 1988",2011,71
+Demontre Hurst,Oklahoma,0,16144,,CB,"Mar 24, 1991",,
+Tim Semisch,Northern Illinois,5,2574931,,TE,"Sep 18, 1991",,
+Giovanni Pascascio,Louisville,,3116662,,,"Nov 10, 1994",,
+Brandon Radcliff,Louisville,7,2970183,,RB,"Mar 18, 1993",,
+Corey Davis,Western Michigan,4,3042778,1,WR,"Jan 11, 1995",2017,5
+Eric Decker,Minnesota,1,13271,3,WR,"Mar 15, 1987",2010,87
+David King,Oklahoma,5,15905,7,DE,"Dec 27, 1989",2013,239
+Jack Conklin,Michigan State,8,2979534,1,OT,"Aug 17, 1994",2016,8
+Quinton Spain,West Virginia,,2515319,,,"Aug 7, 1991",,
+Luke Stocker,Tennessee,8,14099,4,TE,"Jul 17, 1988",2011,104
+Jordan Jenkins,Georgia,8,2977647,3,LB,"Jul 1, 1994",2016,83
+Marcus Williams,North Dakota State,5,2508192,,CB,"Mar 24, 1991",,
+Spencer Paysinger,Oregon,,14648,,,"Jun 28, 1988",,
+Josh Martin,Columbia,5,16268,,LB,"Nov 7, 1991",,
+Buster Skrine,Chattanooga,1,14139,5,CB,"Apr 26, 1989",2011,137
+Darryl Roberts,Marshall,7,2515490,7,CB,"Nov 26, 1990",2015,247
+Doug Middleton,Appalachian State,,2567725,,,"Sep 25, 1993",,
+Connor Harris,Lindenwood,4,4081808,,LB,"Jun 22, 1993",,
+Bruce Carter,North Carolina,,14026,2,,"Feb 19, 1988",2011,40
+Claude Pelon,USC,,3120366,,,"Nov 27, 1992",,
+Devon Still,Penn State,,14963,2,,"Jul 11, 1989",2012,53
+Julian Stanford,Wagner,1,15373,,LB,"Sep 2, 1990",,
+Juston Burris,NC State,2,2577740,4,CB,"Aug 4, 1993",2016,118
+Deon Simon,Northwestern State,3,2568060,7,NT,"Jul 6, 1990",2015,223
+Darron Lee,Ohio State,8,3051398,1,LB,"Oct 18, 1994",2016,20
+Anthony Johnson,LSU,6,17184,,DE,"Jan 24, 1993",,
+Patrick Gamble,Georgia Tech,,2971497,,,"Feb 2, 1994",,
+Leonard Williams,USC,2,2971622,1,DE,"Jun 20, 1994",2015,6
+Demario Davis,Arkansas State,6,14958,3,LB,"Jan 11, 1989",2012,77
+Corey Lemonier,Auburn,,15849,3,,"Nov 19, 1991",2013,88
+Freddie Bishop,Western Michigan,9,16573,,LB,"Feb 25, 1990",,
+Dakota Dozier,Furman,,16861,4,,"Apr 30, 1991",2014,137
+Charone Peake,Clemson,7,2576498,7,WR,"Oct 16, 1992",2016,241
+Ronald Martin,LSU,,2577293,,,"Feb 26, 1993",,
+David Rivers,Youngstown State,,3049271,,,"Jul 23, 1994",,
+Marcus Maye,Florida,,2980110,2,,"Mar 9, 1993",2017,39
+Dexter McDougle,Maryland,3,16805,3,CB,"Apr 8, 1991",2014,80
+Robby Anderson,Temple,1,2574808,,WR,"May 9, 1993",,
+Chris Harper,California,,2978196,,,"Dec 7, 1993",,
+Marquess Wilson,Washington State,,16023,7,,"Sep 14, 1992",2013,236
+Jalin Marshall,Ohio State,9,3051400,,WR,"Jul 21, 1995",,
+Jason Vander Laan,Ferris State,4,3057863,,TE,"Sep 22, 1992",,
+Frankie Hammond,Florida,,16260,,,"Feb 17, 1990",,
+Anthony Firkser,Harvard,6,3049698,,TE,"Feb 19, 1995",,
+Myles White,Louisiana Tech,,16569,,,"Mar 30, 1990",,
+Chad Hansen,California,6,3066074,4,WR,"Jan 18, 1995",2017,141
+Jordan Leggett,Clemson,6,3045118,5,TE,"Jan 31, 1995",2017,150
+ArDarius Stewart,Alabama,8,3054860,3,WR,"Dec 8, 1993",2017,79
+Austin Seferian-Jenkins,Washington,8,16795,2,TE,"Sep 29, 1992",2014,38
+Romar Morris,North Carolina,,2577106,,,"Oct 21, 1992",,
+Algernon Brown,BYU,0,2513199,,FB,"Nov 29, 1991",,
+Julian Howsare,Clarion,,3124451,,,"Sep 11, 1992",,
+Elijah McGuire,Louisiana,5,3042494,6,RB,"Jun 1, 1994",2017,188
+Chandler Catanzaro,Clemson,7,16976,,PK,"Feb 26, 1991",,
+Jordan Todman,UConn,,14186,6,,"Feb 24, 1990",2011,183
+Bryce Petty,Baylor,4,2466005,4,QB,"May 31, 1991",2015,103
+Christian Hackenberg,Penn State,8,3057986,2,QB,"Feb 14, 1995",2016,51
+Lachlan Edwards,Sam Houston State,,3061740,7,,"Apr 27, 1992",2016,235
+Josh McCown,Sam Houston State,5,3609,3,QB,"Jul 4, 1979",2002,81
+Morris Claiborne,LSU,1,14943,1,CB,"Feb 7, 1990",2012,6
+Shamarko Thomas,Syracuse,,15992,4,,"Feb 23, 1991",2013,111
+Jamal Adams,LSU,,3115373,1,,"Oct 17, 1995",2017,6
+Mike Pennel,Colorado State-Pueblo,8,17230,,DT,"May 9, 1991",,
+Derrick Jones,Ole Miss,1,3051880,6,CB,"Dec 4, 1994",2017,204
+Sheldon Richardson,Missouri,3,15811,1,DT,"Nov 29, 1990",2013,13
+Rontez Miles,California (PA),,16206,,,"Nov 25, 1988",,
+Eric Tomlinson,UTEP,3,2511973,,TE,"Apr 22, 1992",,
+Dylan Donahue,West Georgia,9,2584628,5,LB,"Aug 20, 1992",2017,181
+Muhammad Wilkerson,Temple,6,13985,1,DE,"Oct 22, 1989",2011,30
+Bilal Powell,Louisville,9,14129,4,RB,"Oct 27, 1988",2011,126
+Gabe Marks,Washington State,,2978344,,,"Aug 6, 1994",,
+Kenbrell Thompkins,Cincinnati,,16381,,,"Jul 29, 1988",,
+Ross Martin,Duke,7,2969886,,PK,"Jul 3, 1993",,
+Marcus Murphy,Missouri,5,2514123,7,RB,"Oct 3, 1991",2015,230
+James Carpenter,Alabama,,13993,1,,"Mar 22, 1989",2011,25
+Lawrence Thomas,Michigan State,4,2576280,,FB,"Apr 16, 1993",,
+Frank Beltre,Towson,,16048,,,"Jan 28, 1990",,
+Robenson Therezie,Auburn,,2574553,,,"Aug 5, 1991",,
+Steve McLendon,Troy,9,12895,,DT,"Jan 3, 1986",,
+Xavier Coleman,Portland State,8,3045642,,CB,"Jan 13, 1995",,
+Chris Gragg,Arkansas,,15940,7,,"Jun 30, 1990",2013,222
+Matt Forte,Tulane,,11278,2,,"Dec 10, 1985",2008,44
+Terrence Brooks,Florida State,,16768,3,,"Mar 2, 1992",2014,79
+Kony Ealy,Missouri,6,16773,2,DE,"Dec 21, 1991",2014,60
+Armagedon Draughn,,,4257567,,,"Apr 6, 1994",,
+Jeremy Faulk,None,7,3052751,,DT,"Sep 13, 1993",,
+Dan Williams III,,8,3060347,,WR,"Aug 6, 1995",,
+Jahad Thomas,Temple,9,3051315,,RB,"Nov 6, 1995",,
+Ben Braden,Michigan,,2977626,,,"Mar 9, 1994",,
+Edmond Robinson,Newberry,8,3137087,7,LB,"Feb 23, 1992",2015,232
+Jermaine Kearse,Washington,0,15428,,WR,"Feb 6, 1990",,
+Will Tye,Stony Brook,2,2512523,,TE,"Nov 4, 1991",,
+Kalif Raymond,Holy Cross,3,2973405,,WR,"Aug 8, 1994",,
+Jeremy Kerley,TCU,4,14151,5,WR,"Nov 8, 1988",2011,153
+Neal Sterling,Monmouth,5,2513770,7,TE,"Jan 14, 1992",2015,220
+David Bass,Missouri Western,7,16025,7,LB,"Sep 11, 1990",2013,233
+Thomas Hennessy,Duke,2,2983155,,LS,"Jun 11, 1994",,
+Travaris Cadet,Appalachian State,9,15457,,RB,"Feb 1, 1989",,
+Ed Stinson,Alabama,,16840,5,,"Feb 15, 1990",2014,160
+Robert Nelson Jr.,Arizona State,,17416,,,"Feb 16, 1990",,
+Rashard Robinson,LSU,0,3042718,4,CB,"Jul 23, 1995",2016,133
+Xavier Cooper,Washington State,5,2578408,3,DT,"Nov 30, 1991",2015,96
+JoJo Natson,,9,2971830,,WR,"Feb 1, 1994",,
+Kelvin Beachum,SMU,8,15035,7,OT,"Jun 8, 1989",2012,248
+Brandon Shell,South Carolina,2,2577690,5,OT,"Feb 6, 1992",2016,158
+Obum Gwacham,Oregon State,7,2468550,6,LB,"Mar 20, 1991",2015,209
+Kevin Peterson,Oklahoma State,5,2977742,,CB,"Mar 22, 1994",,
+Kevin Davis,Colorado State,,2973601,,,"Nov 21, 1993",,
+Marqui Christian,Midwestern State,,3960454,5,,"Oct 27, 1994",2016,167
+Cody Davis,Texas Tech,,16286,,,"Jun 6, 1989",,
+Carlos Thompson,Ole Miss,3,2516283,,LB,"Feb 16, 1992",,
+Bryce Hager,Baylor,4,2512999,7,LB,"May 4, 1992",2015,224
+Josh Forrest,Kentucky,7,2576678,6,LB,"Feb 24, 1992",2016,190
+Cory Littleton,Washington,8,2978304,,LB,"Nov 18, 1993",,
+Troy Hill,Oregon,2,2525933,,CB,"Aug 29, 1991",,
+Blake Countess,Auburn,,2576229,6,,"Aug 8, 1993",2016,196
+Folarin Orimolade,Dartmouth,,3049645,,,"Nov 23, 1995",,
+Dominique Hatfield,Utah,6,3052502,,CB,"Dec 13, 1994",,
+Matt Longacre,Northwest Missouri State,6,3085243,,LB,"Sep 21, 1991",,
+Mike Purcell,Wyoming,3,16377,,NT,"Apr 20, 1991",,
+Morgan Fox,Colorado State-Pueblo,7,3059620,,DE,"Sep 12, 1994",,
+Alec Ogletree,Georgia,2,15806,1,LB,"Sep 25, 1991",2013,30
+Lamarcus Joyner,Florida State,,16769,2,,"Nov 27, 1990",2014,41
+Ethan Westbrooks,West Texas A&M,5,17285,,DE,"Nov 15, 1990",,
+Isaiah Johnson,Georgia Tech,,2510547,,,"May 16, 1992",,
+Louis Trinca-Pasat,Iowa,,2511710,,,"Sep 7, 1991",,
+Nelson Spruce,Colorado,5,2576952,,WR,"Dec 5, 1992",,
+Cooper Kupp,Eastern Washington,8,2977187,3,WR,"Jun 15, 1993",2017,69
+Tanzel Smart,Tulane,2,3041112,6,DT,"Nov 6, 1994",2017,189
+John Johnson III,Boston ,,3046292,3,,"Dec 19, 1995",2017,91
+Gerald Everett,South Alabama,1,3918639,2,TE,"Jun 25, 1994",2017,44
+Jake McQuaide,Ohio State,4,14676,,LS,"Dec 7, 1987",,
+Nickell Robey-Coleman,USC,3,16217,,CB,"Jan 17, 1992",,
+Lenard Tillery,Southern,1,2974712,,RB,"Dec 9, 1993",,
+Omarius Bryant,Western Kentucky,4,3915787,,DT,"Oct 26, 1994",,
+Mike Jordan,Missouri Western,1,3961462,,CB,"Oct 21, 1992",,
+Pharoh Cooper,South Carolina,0,3048897,4,WR,"Mar 7, 1995",2016,117
+Paul McRoberts,Southeast Missouri State,,2975817,,,"Nov 15, 1992",,
+Temarrick Hemingway,South Carolina State,4,2580330,6,TE,"Jul 30, 1993",2016,177
+Todd Gurley II,Georgia,0,2977644,1,RB,"Aug 3, 1994",2015,10
+Brandon Shippen,Temple,2,2976250,,WR,"May 17, 1994",,
+De'Mard Llorens,Northwestern State,,3050667,,,"Feb 1, 1994",,
+Malcolm Brown,Texas,4,2570986,,RB,"May 15, 1993",,
+Justin Davis,USC,3,3043216,,RB,"Nov 11, 1995",,
+Robert Woods,USC,7,15880,2,WR,"Apr 10, 1992",2013,41
+Tyler Higbee,Western Kentucky,9,2573401,4,TE,"Jan 1, 1993",2016,110
+Sam Rogers,Virginia Tech,9,3045472,6,FB,"Apr 12, 1995",2017,206
+Greg Zuerlein,Missouri Western,4,14993,6,PK,"Dec 27, 1987",2012,171
+Travis Coons,Washington,,17130,,,"Feb 6, 1992",,
+Sean Mannion,Oregon State,4,2517017,3,QB,"Apr 25, 1992",2015,89
+Dan Orlovsky,UConn,,8559,5,,"Aug 18, 1983",2005,145
+Austin Blythe,Iowa,,2582448,7,,"Jun 16, 1992",2016,248
+Johnny Hekker,Oregon State,,15153,,,"Feb 8, 1990",,
+Jared Goff,California,6,3046779,1,QB,"Oct 14, 1994",2016,1
+Cassanova McKinzy,Auburn,9,2971032,,LB,"Nov 17, 1992",,
+Casey Sayles,Ohio,4,3053000,,DT,"Sep 4, 1995",,
+Michael Brockers,LSU,0,14944,1,DT,"Dec 21, 1990",2012,14
+Connor Barwin,Cincinnati,3,12449,2,LB,"Oct 15, 1986",2009,46
+Maurice Alexander,Utah State,,16937,4,,"Feb 16, 1991",2014,110
+Trumaine Johnson,Montana,2,14989,3,CB,"Jan 1, 1990",2012,65
+Mike Thomas,Southern Mississippi,8,3123986,6,WR,"Aug 16, 1994",2016,206
+Josh Reynolds,Texas A&M,3,3115306,4,WR,"Feb 16, 1995",2017,117
+Cory Harkey,UCLA,,15226,,,"Jun 17, 1990",,
+Sammy Watkins,Clemson,4,16725,1,WR,"Jun 14, 1993",2014,4
+Tyrunn Walker,Tulsa,5,15460,,DT,"Mar 18, 1990",,
+Andy Mulumba,Eastern Michigan,,16560,,,"Jan 31, 1990",,
+Nicholas Grigsby,Pittsburgh,0,2576660,,LB,"Jul 2, 1992",,
+Davis Tull,Chattanooga,,2520845,5,,"Nov 12, 1991",2015,148
+Aarion Penton,Missouri,,3051859,,,"Sep 3, 1994",,
+Willie Mays III,Tiffin University,,4069948,,,,,
+Aaron Green,TCU,6,2570994,,RB,"Oct 15, 1992",,
+Shakeir Ryan,Northwestern State,,3050670,,,"Aug 11, 1995",,
+Johnny Mundt,Oregon,2,3052096,,TE,"Nov 23, 1994",,
+Tyquwan Glass,Fresno State,,3933013,,,,,
+Travis Wilson,Utah,,2971668,,,"Dec 14, 1993",,
+KD Cannon,Baylor,1,3128348,,WR,"Nov 5, 1995",,
+Samson Ebukam,Eastern Washington,0,3045527,4,LB,"May 9, 1995",2017,125
+Robert Quinn,North Carolina,4,13984,1,DE,"May 18, 1990",2011,14
+Mark Barron,Alabama,6,14932,1,LB,"Oct 27, 1989",2012,7
+Kayvon Webster,South Florida,,15872,3,,"Feb 1, 1991",2013,90
+Derek Carrier,Beloit ,5,15403,,TE,"Jul 25, 1990",,
+Tavon Austin,West Virginia,0,15786,1,RB,"Mar 15, 1990",2013,8
+Aaron Donald,Pittsburgh,,16716,1,,"May 23, 1991",2014,13
+Rob Havenstein,Wisconsin,9,2515613,2,OT,"May 13, 1992",2015,57
+Andrew Whitworth,LSU,7,9641,2,OT,"Dec 12, 1981",2006,55
+Lance Dunbar,North Texas,,15369,,,"Jan 25, 1990",,
+Cameron Lynch,Syracuse,3,2577602,,LB,"Aug 4, 1993",,
+Sam Ficken,Penn State,5,2582139,,PK,"Dec 14, 1992",,
+Aaron Neary,Eastern Washington,,2565338,,,"Nov 15, 1992",,
+Cory James,Colorado State,7,2575663,6,LB,"May 22, 1993",2016,194
+Marquel Lee,Wake Forest,5,3039776,5,LB,"Oct 21, 1995",2017,168
+Shalom Luani,Washington State,,3894908,7,,"Aug 5, 1994",2017,221
+LaTroy Lewis,Tennessee,4,2972232,,LB,"Nov 9, 1993",,
+Treyvon Hester,Toledo,0,2973027,7,DT,"Sep 21, 1992",2017,244
+Justin Ellis,Louisiana Tech,8,16857,4,DT,"Dec 27, 1990",2014,107
+Breon Borders,Duke,1,3048663,,CB,"Jul 22, 1995",,
+Darius Latham,Indiana,5,3060800,,DT,"Nov 9, 1994",,
+Karl Joseph,West Virginia,,2976639,1,,"Sep 8, 1993",2016,14
+Sean Smith,Utah,,12430,2,,"Jul 14, 1987",2009,61
+Jelani Jenkins,Florida,,15985,4,,"Mar 13, 1992",2013,104
+Rickey Jefferson,LSU,,3042721,,,"Dec 28, 1994",,
+Kenneth Durden,Youngstown State,,3140596,,,"May 16, 1992",,
+T.J. Carrie,Ohio,8,16808,7,CB,"Jul 28, 1990",2014,219
+James Cowser,Southern Utah,7,2471470,,LB,"Sep 13, 1990",,
+Chris Humes,Arkansas State,,2985457,,,"Jul 31, 1994",,
+Marcus McWilson,Kentucky,,3053776,,,"Aug 9, 1994",,
+Tyrell Adams,West Georgia,5,3895228,,LB,"Apr 11, 1992",,
+Dexter McDonald,Kansas,3,2513908,7,CB,"Nov 30, 1991",2015,242
+Connor Cook,Michigan State,8,2576261,4,QB,"Jan 29, 1993",2016,100
+Mario Edwards Jr.,Florida State,7,2969921,2,DE,"Jan 25, 1994",2015,35
+Paul Boyette Jr.,Texas,,2971696,,,"Dec 16, 1993",,
+Brady Sheldon,Ferris State,9,3057876,,LB,"Feb 23, 1993",,
+Isaac Whitney,USC,9,3894883,,WR,"Jun 22, 1994",,
+Nicholas Morrow,None,0,4232830,,LB,"Jul 10, 1995",,
+Anthony Cioffi,Rutgers,,3047486,,,"Aug 26, 1994",,
+Eddie Vanderdoes,UCLA,4,3047570,3,DT,"Oct 13, 1994",2017,88
+Shilique Calhoun,Michigan State,1,2576257,3,LB,"Mar 20, 1992",2016,75
+Clive Walford,Miami,7,2512593,3,TE,"Oct 1, 1991",2015,68
+Jaydon Mickens,Washington,5,2978308,,WR,"Apr 21, 1994",,
+John Crockett,North Dakota State,5,2986739,,RB,"Feb 16, 1992",,
+Cordarrelle Patterson,Tennessee,4,15807,1,WR,"Mar 17, 1991",2013,29
+Pharaoh Brown,Oregon,1,2971281,,TE,"May 4, 1994",,
+Seth Roberts,West Alabama,0,17402,,WR,"Feb 22, 1991",,
+Johnny Holton,Cincinnati,6,3056906,,WR,"Aug 22, 1991",,
+Lee Smith,Marshall,6,14215,5,TE,"Nov 21, 1987",2011,159
+George Atkinson III,Notre Dame,4,17396,,RB,"Nov 29, 1992",,
+Gabe Holmes,Purdue,5,2468368,,TE,"Mar 29, 1991",,
+Keon Hatcher,Arkansas,4,2980061,,WR,"Sep 11, 1994",,
+Ishmael Zamora,Baylor,,3128362,,,"Nov 26, 1995",,
+Giorgio Tavecchio,California,,15245,,,"Jul 16, 1990",,
+Sebastian Janikowski,Florida State,1,2148,1,PK,"Mar 2, 1978",2000,17
+DeAndre Washington,Texas Tech,3,2577654,5,RB,"Feb 22, 1993",2016,143
+Jalen Richard,Southern Mississippi,0,2972091,,RB,"Oct 15, 1993",,
+Marquette King,Fort Valley State,,15389,,,"Oct 26, 1988",,
+EJ Manuel,Florida State,3,15803,1,QB,"Mar 19, 1990",2013,16
+Khalil Mack,Buffalo,,16710,1,,"Feb 22, 1991",2014,5
+Reggie Nelson,Florida,,10465,1,,"Sep 21, 1983",2007,21
+Jamize Olawale,North Texas,9,15653,,FB,"Apr 17, 1989",,
+Branden Jackson,Texas Tech,3,2577642,,DE,"Nov 11, 1992",,
+Denico Autry,Mississippi State,5,17447,,DE,"Jul 15, 1990",,
+Kelechi Osemele,Iowa State,,14957,2,,"Jun 24, 1989",2012,60
+Elijah Hood,North Carolina,0,3116690,7,RB,"Apr 22, 1996",2017,242
+Bruce Irvin,West Virginia,1,14946,1,DE,"Nov 1, 1987",2012,15
+Antonio Hamilton,South Carolina State,2,3056354,,CB,"Jan 24, 1993",,
+Amari Cooper,Alabama,9,2976499,1,WR,"Jun 17, 1994",2015,4
+Jared Cook,South Carolina,7,12537,3,TE,"Apr 7, 1987",2009,89
+Michael Crabtree,Texas Tech,5,12563,1,WR,"Sep 14, 1987",2009,10
+Ryan O'Malley,Pennsylvania,8,2566643,,TE,"Jul 24, 1993",,
+K.J. Brent,Wake Forest,5,2577664,,WR,"Aug 6, 1993",,
+Marshawn Lynch,California,4,10456,1,RB,"Apr 22, 1986",2007,12
+Derek Carr,Fresno State,4,16757,2,QB,"Mar 28, 1991",2014,36
+Obi Melifonwu,UConn,,2974247,2,,"Apr 5, 1994",2017,56
+Najee Harris,Wagner,,2987659,,,"Mar 9, 1994",,
+Jihad Ward,Illinois,1,3115914,2,DT,"May 11, 1994",2016,44
+Cooper Helfet,Duke,,15670,,,"Jun 2, 1989",,
+IK Enemkpali,Louisiana Tech,,16858,6,,"Jul 3, 1991",2014,210
+Jon Feliciano,Miami,,2512577,4,,"Feb 10, 1992",2015,128
+Xavier Woodson-Luster,Arkansas State,3,3042370,,LB,"Aug 6, 1995",,
+Fadol Brown,Ole Miss,5,2981846,,DE,"Apr 15, 1993",,
+Oni Omoile,Iowa State,,2577172,,,"Jun 24, 1993",,
+Kenneth Durden,Youngstown State,8,2577484,,CB,"May 16, 1992",,
+David Amerson,NC State,4,15820,2,CB,"Dec 8, 1991",2013,51
+Gareon Conley,Ohio State,1,3051391,1,CB,"Jun 29, 1995",2017,24
+Keith McGill II,Utah,,16940,4,,"Mar 9, 1989",2014,116
+Erik Harris,California (PA),,4010714,,,"Apr 2, 1990",,
+Jon Condo,Maryland,,9276,,,"Aug 26, 1981",,
+Donald Penn,Utah State,2,10062,,OT,"Apr 27, 1983",,
+Demetrius McCray,Appalachian State,,16005,7,,"May 11, 1991",2013,210
+Rodney Hudson,Florida State,,14013,2,,"Jul 12, 1989",2011,55
+NaVorro Bowman,Penn State,,13262,3,,"May 28, 1988",2010,91
+Marshall Newhouse,TCU,1,13428,5,OT,"Sep 29, 1988",2010,169
+David Sharpe,Florida,1,3121656,4,OT,"Oct 21, 1995",2017,129
+Jeremiah Valoaga,UNLV,8,2976151,,DE,"Nov 15, 1994",,
+Alex Barrett,San Diego State,8,2976114,,DE,"Mar 6, 1994",,
+Jalen Reeves-Maybin,Tennessee,4,3044729,4,LB,"Jan 31, 1995",2017,124
+Steve Longa,Rutgers,4,2982803,,LB,"Sep 29, 1994",,
+Paul Worrilow,Delaware,8,16243,,LB,"May 1, 1990",,
+Thurston Armbrister,Miami,7,2579598,,LB,"Dec 25, 1992",,
+Antwione Williams,Georgia Southern,6,2567868,5,LB,"May 26, 1993",2016,169
+Adairius Barnes,Louisiana Tech,0,2971880,,CB,"Apr 30, 1994",,
+Teez Tabor,Florida,1,3115257,2,CB,"Dec 31, 1995",2017,53
+Tahir Whitehead,Temple,9,15070,5,LB,"Apr 2, 1990",2012,138
+Charles Washington,Fresno State,,2579163,,,"Mar 10, 1993",,
+Miles Killebrew,Southern Utah,,2575164,4,,"May 10, 1993",2016,111
+Alex Carter,Stanford,3,2978256,3,CB,"Oct 19, 1994",2015,80
+Jamal Agnew,San Diego,9,3061612,5,CB,"Apr 3, 1995",2017,165
+Patrick O'Connor,Eastern Michigan,9,2980206,7,DE,"Nov 1, 1993",2017,250
+Darren Fells,UC Irvine,8,15773,,TE,"Apr 22, 1986",,
+D.J. Hayden,Houston,5,15794,1,CB,"Jun 27, 1990",2013,12
+Khyri Thornton,Southern Mississippi,,16756,3,,"Nov 21, 1989",2014,85
+Jared Abbrederis,Wisconsin,,16836,5,,"Dec 17, 1990",2014,176
+Bruce Gaston,Purdue,,17155,,,"Nov 29, 1991",,
+Tramain Jacobs,Texas A&M,,17182,,,"May 20, 1992",,
+Jarrad Davis,Florida,0,3054951,1,LB,"Nov 16, 1994",2017,21
+Anthony Zettel,Penn State,9,2582150,6,DE,"Aug 9, 1992",2016,202
+Dwayne Washington,Washington,6,3002265,7,RB,"Apr 24, 1994",2016,236
+Jeremiah Ledbetter,Arkansas,8,3892689,6,DT,"Jun 2, 1994",2017,205
+Ego Ferguson,LSU,,16778,2,,"Sep 22, 1991",2014,51
+Josh Thornton,Southern Utah,6,2969716,,CB,"Nov 24, 1992",,
+A'Shawn Robinson,Alabama,1,3054857,2,DT,"Mar 21, 1995",2016,46
+Kenny Golladay,Northern Illinois,9,2974858,3,WR,"Nov 3, 1993",2017,96
+Michael Roberts,Toledo,0,3059945,4,TE,"May 7, 1994",2017,127
+Jace Billingsley,Eastern Oregon,6,3060950,,WR,"May 17, 1993",,
+Dontez Ford,Pittsburgh,3,2970410,,WR,"Feb 3, 1994",,
+TJ Jones,Notre Dame,3,16880,6,WR,"Jul 19, 1992",2014,189
+Keshawn Martin,Michigan State,,14916,4,,"Mar 15, 1990",2012,121
+Khari Lee,Bowie State Bulldogs,8,3144062,,TE,"Jan 16, 1992",,
+Ameer Abdullah,Nebraska,1,2576336,2,RB,"Jun 13, 1993",2015,54
+Noel Thomas,UConn,,3045194,,,"Sep 18, 1994",,
+Zach Zenner,South Dakota State,4,2521161,,RB,"Sep 13, 1991",,
+Matt Asiata,Utah,,14360,,,"Jul 24, 1987",,
+Marvin Jones Jr.,California,1,15072,5,WR,"Mar 12, 1990",2012,166
+Michael Rector,Stanford,,2978279,,,"Dec 16, 1993",,
+Tion Green,Cincinnati,,2979825,,,"Dec 14, 1993",,
+Matt Prater,UCF,5,11122,,PK,"Aug 10, 1984",,
+Jake Rudock,Michigan,4,2582424,6,QB,"Jan 21, 1993",2016,191
+Kasey Redfern,Wofford,,17495,,,"Sep 26, 1991",,
+Brad Kaaya,Miami,9,3123048,6,QB,"Sep 3, 1995",2017,215
+Matthew Stafford,Georgia,9,12483,1,QB,"Feb 7, 1988",2009,1
+Nick Bellore,Central Michigan,3,14471,,FB,"May 12, 1989",,
+Rolan Milligan,Toledo,,3916678,,,"Aug 16, 1994",,
+Cornelius Washington,Georgia,,15914,6,,"Sep 10, 1989",2013,188
+Akeem Spence,Illinois,3,15958,4,DT,"Nov 29, 1991",2013,100
+Johnson Bademosi,Stanford,0,15359,,CB,"Jul 23, 1990",,
+Quandre Diggs,Texas,8,2577553,6,CB,"Jan 22, 1993",2015,200
+Jordan Hill,Penn State,,15843,3,,"Feb 8, 1991",2013,87
+Nevin Lawson,Utah State,4,16929,4,CB,"Apr 23, 1991",2014,133
+Golden Tate,Notre Dame,5,13217,2,WR,"Aug 2, 1988",2010,60
+Robert Tonyan,Indiana State,5,2975674,,TE,"Apr 30, 1994",,
+Darius Slay,Mississippi State,3,15863,2,CB,"Jan 1, 1991",2013,36
+Tavon Wilson,Illinois,,14977,2,,"Mar 19, 1990",2012,48
+Glover Quin,New Mexico,,12716,4,,"Jan 15, 1986",2009,112
+Graham Glasgow,Michigan,,2576245,3,,"Aug 19, 1992",2016,95
+Tim Wright,Rutgers,1,16285,,TE,"Apr 7, 1990",,
+Theo Riddick,Notre Dame,5,15994,6,RB,"May 4, 1991",2013,199
+Cole Wick,Incarnate Word,9,2982151,,TE,"Nov 30, 1993",,
+Derrick Lott,Chattanooga,,2468807,,,"Jun 18, 1990",,
+Don Carey,Norfolk State,,12644,6,,"Feb 14, 1987",2009,177
+Caushaud Lyons,Tusculum,7,3908873,,DE,"Jan 3, 1993",,
+Armonty Bryant,East Central,,16037,7,,"May 20, 1990",2013,217
+Giorgio Newberry,Florida State,,2576801,,,"Nov 26, 1991",,
+Storm Norton,Toledo,2,2973014,,OT,"May 16, 1994",,
+Scott Orndoff,Pittsburgh,7,3045163,,TE,"Dec 16, 1993",,
+Ezekiel Ansah,BYU,4,15785,1,DE,"May 29, 1989",2013,5
+Haloti Ngata,Oregon,4,9598,1,DT,"Jan 21, 1984",2006,12
+Eric Ebron,North Carolina,5,16732,1,TE,"Apr 10, 1993",2014,10
+Jeff Locke,UCLA,,15926,5,,"Sep 27, 1989",2013,155
+George Johnson,Rutgers,0,13812,,DE,"Dec 11, 1987",,
+Brian Mihalik,Boston ,2,2576480,7,OT,"Aug 21, 1992",2015,237
+Sam Martin,Appalachian State,,15928,5,,"Feb 27, 1990",2013,165
+Jacquies Smith,Missouri,6,15356,,DE,"Mar 18, 1990",,
+Christian Ringo,Louisiana,9,2574023,6,DT,"Mar 10, 1992",2015,210
+Corey Robinson,South Carolina,0,2516338,7,OT,"May 21, 1992",2015,240
+Andy Jones,Jacksonville,7,2982761,,WR,"Jun 28, 1994",,
+Edwin Jackson,Georgia Southern,,2519377,,,"Dec 19, 1991",,
+David Parry,Stanford,0,2517779,5,NT,"Mar 7, 1992",2015,151
+Barkevious Mingo,LSU,1,15805,1,LB,"Oct 4, 1990",2013,6
+Malik Hooker,Ohio State,,3121415,1,,"Apr 2, 1996",2017,15
+Jeremiah George,Iowa State,9,16897,5,LB,"Jan 24, 1992",2014,154
+Andrew Williamson,Vanderbilt,,2577803,,,"Nov 18, 1992",,
+Quincy Wilson,Florida,1,3121660,2,CB,"Aug 16, 1996",2017,46
+T.J. Green,Clemson,,3045128,2,,"Mar 15, 1995",2016,57
+Luke Rhodes,William & Mary,6,2566045,,LS,"Dec 2, 1992",,
+Dante Blackmon,Kennesaw State,,2973649,,,"Sep 28, 1993",,
+Akeem Ayers,UCLA,,14015,2,,"Jul 10, 1989",2011,39
+Sean Spence,Miami,,14972,3,,"Jun 7, 1990",2012,86
+Matthias Farley,Notre Dame,,2579840,,,"Jul 15, 1992",,
+Dalton Crossan,New Hampshire,,2969103,,,"Feb 25, 1994",,
+Tarell Basham,Ohio,8,3052977,3,LB,"Mar 18, 1994",2017,80
+T.Y. McGill,NC State,9,2577757,,DT,"Nov 23, 1992",,
+Nate Hairston,Temple,7,2976259,5,CB,"Jun 30, 1994",2017,158
+Anthony Walker,Northwestern,0,3045251,5,LB,"Aug 8, 1995",2017,161
+Garrett Sickels,Penn State,6,3057998,,LB,"Sep 24, 1994",,
+Grover Stewart,Albany State (GA),0,4058825,4,DT,"Oct 20, 1993",2017,144
+Jabaal Sheard,Pittsburgh,3,14036,2,DE,"May 10, 1989",2011,37
+Lavar Edwards,LSU,,15909,5,,"Apr 29, 1990",2013,142
+Henry Anderson,Stanford,6,2517752,3,DE,"Aug 3, 1991",2015,93
+Tevin Mitchel,Arkansas,,2574530,6,,"Aug 3, 1992",2015,182
+Darius Butler,UConn,,12423,2,,"Mar 18, 1986",2009,41
+Al Woods,LSU,9,13493,4,DT,"Mar 25, 1987",2010,123
+Kamar Aiken,UCF,1,14583,,WR,"May 30, 1989",,
+Tyvis Powell,Ohio State,,2976308,,,"Feb 16, 1994",,
+Tyson Graham,South Dakota,,2986898,,,"Dec 20, 1993",,
+Vontae Davis,Illinois,2,12424,1,CB,"May 27, 1988",2009,25
+Margus Hunt,SMU,2,15844,2,DT,"Jul 14, 1987",2013,53
+John Simon,Ohio State,1,16010,4,DE,"Oct 14, 1990",2013,129
+Freddie Brown,Mississippi State,,12637,7,,"Dec 1, 1993",2009,252
+JoJo Natson,,9,2971830,,WR,"Feb 1, 1994",,
+Troymaine Pope,Jacksonville State,3,2983319,,RB,"Nov 29, 1993",,
+Brandon Williams,Oregon,,16313,,,"Oct 12, 1987",,
+Bug Howard,North Carolina,7,3039720,,WR,"Nov 28, 1994",,
+Steven Wroblewski,Southern Utah,,3910617,,,"Nov 20, 1992",,
+Henry Krieger-Coble,Iowa,7,3144999,,TE,"Jun 12, 1992",,
+George Winn,Cincinnati,,16488,,,"Nov 10, 1990",,
+Jack Doyle,Western Kentucky,4,16504,,TE,"May 5, 1990",,
+Chester Rogers,Grambling,0,2983209,,WR,"Jan 12, 1994",,
+T.Y. Hilton,Florida Intl,3,14924,3,WR,"Nov 14, 1989",2012,92
+Marvin Bracy,,,2969915,,,"Dec 15, 1993",,
+Darrell Daniels,Washington,7,3052166,,TE,"Nov 22, 1994",,
+Adam Vinatieri,South Dakota State,4,1097,,PK,"Dec 28, 1972",,
+Phillip Walker,Temple,5,3051308,,QB,"Feb 26, 1995",,
+Robert Turbin,Utah State,3,14894,4,RB,"Dec 2, 1989",2012,106
+Arturo Uzdavinis,Tulane,,2575421,,,"Nov 2, 1992",,
+Stephen Morris,Miami,,17220,,,"Aug 27, 1992",,
+Jeff Locke,UCLA,,15926,5,,"Sep 27, 1989",2013,155
+Rigoberto Sanchez,Hawai'i,,3914922,,,"Sep 8, 1994",,
+Scott Tolzien,Wisconsin,,14353,,,"Sep 4, 1987",,
+Antonio Morrison,Florida,4,2971051,4,LB,"Dec 6, 1994",2016,125
+Jon Bostic,Florida,1,15827,2,LB,"May 5, 1991",2013,50
+Lee Hightower,Houston,,2573308,,,"Jul 28, 1993",,
+Johnathan Hankins,Ohio State,,15841,2,,"Mar 30, 1992",2013,49
+Josh Boyd,Mississippi State,,15989,5,,"Aug 3, 1989",2013,167
+Hassan Ridgeway,Texas,1,2971725,4,DT,"Nov 2, 1994",2016,116
+Jhaustin Thomas,Iowa State,9,3928942,,DE,"Apr 13, 1993",,
+Rashaan Melvin,Northern Illinois,2,16270,,CB,"Oct 2, 1989",,
+Phillip Dorsett,Miami,3,2579604,1,WR,"Jan 5, 1993",2015,29
+Marlon Mack,South Florida,5,3139605,4,RB,"Mar 7, 1996",2017,143
+Quan Bray,Auburn,9,2574545,,WR,"Apr 28, 1993",,
+Frank Gore,Miami,1,8479,3,RB,"May 14, 1983",2005,65
+Adam Redmond,Harvard,,2566609,,,"May 19, 1993",,
+Darnell Sankey,Sacramento State,0,2986701,,LB,"Oct 11, 1994",,
+Chris Milton,Georgia Tech,8,2576895,,CB,"Sep 15, 1992",,
+Chris Culliver,South Carolina,,14044,3,,"Aug 17, 1988",2011,80
+Corey White,Samford,,15086,5,,"May 9, 1990",2012,162
+Donte Moncrief,Ole Miss,0,16791,3,WR,"Aug 6, 1993",2014,90
+Josh Ferguson,Illinois,9,2576165,,RB,"May 23, 1993",,
+Earl Wolff,NC State,,15917,5,,"Dec 15, 1989",2013,136
+Ronald Martin,LSU,,2577293,,,"Feb 26, 1993",,
+Justice Liggins,Stephen F. Austin,1,3050824,,WR,"Dec 14, 1994",,
+Valdez Showers,Florida,,2578583,,,"Jun 28, 1993",,
+De'Mard Llorens,Northwestern State,,3050667,,,"Feb 1, 1994",,
+Daryl Richardson,Abilene Christian,,15111,7,,"Apr 12, 1990",2012,252
+Kenny Moore II,Valdosta State,3,4218312,,CB,"Aug 23, 1995",,
+Matt Hazel,Coastal Carolina,3,16870,6,WR,"Jan 23, 1992",2014,190
+Jacoby Brissett,NC State,7,2578570,3,QB,"Dec 11, 1993",2016,91
+Anthony Castonzo,Boston ,4,13970,1,OT,"Aug 9, 1988",2011,22
+Deyshawn Bond,Cincinnati,,2979810,,,"Aug 19, 1994",,
+Pierre Desir,Lindenwood,5,16948,4,CB,"Sep 8, 1990",2014,127
+Matt Jones,Florida,8,2980105,3,RB,"Mar 7, 1993",2015,95
+Krishawn Hogan,Marian,1,4198679,,WR,"May 12, 1995",,
+Joey Mbu,Houston,3,2575583,,DT,"Mar 28, 1993",,
+Clayton Geathers,UCF,,2519211,4,,"Jun 1, 1992",2015,109
+Joe Haeg,North Dakota State,3,2573103,5,OT,"Mar 11, 1993",2016,155
+Jermaine Grace,Miami,8,3051924,,LB,"Nov 8, 1993",,
+Jason Vander Laan,Ferris State,4,3057863,,TE,"Sep 22, 1992",,
+Anthony Johnson,LSU,6,17184,,DE,"Jan 24, 1993",,
+Ross Travis,Penn State,3,3936647,,TE,"Jan 9, 1993",,
+D.J. White,Georgia Tech,1,2971478,6,CB,"Sep 9, 1993",2016,178
+K.J. Brent,Wake Forest,5,2577664,,WR,"Aug 6, 1993",,
+Kache Palacio,Washington State,,2978349,,,"Jan 30, 1994",,
+Bobby Wagner,Utah State,4,14979,2,LB,"Jun 27, 1990",2012,47
+Nazair Jones,North Carolina,2,3039721,3,DT,"Dec 13, 1994",2017,102
+K.J. Wright,Mississippi State,0,14140,4,LB,"Jul 23, 1989",2011,99
+Pierre Desir,Lindenwood,5,16948,4,CB,"Sep 8, 1990",2014,127
+Michael Wilhoite,Washburn,,14859,,,"Dec 7, 1986",,
+DeAndre Elliott,Colorado State,,2575655,,,"Nov 21, 1992",,
+Rodney Coe,Akron,,3039922,,,"May 18, 1993",,
+Kam Chancellor,Virginia Tech,,13336,5,,"Apr 3, 1988",2010,133
+Christian French,,,2576972,,,"Aug 18, 1992",,
+David Bass,Missouri Western,7,16025,7,LB,"Sep 11, 1990",2013,233
+Bradley McDougald,Kansas,,16269,,,"Nov 15, 1990",,
+Dewey McDonald,California (PA),,17078,,,"Jun 10, 1990",,
+Tedric Thompson,Colorado,,3052125,4,,"Jan 20, 1995",2017,111
+Jarran Reed,Alabama,0,3115312,2,DT,"Dec 16, 1992",2016,49
+Neiko Thorpe,Auburn,3,15535,,CB,"Feb 11, 1990",,
+Otha Peters,Louisiana,2,2980070,,LB,"Feb 27, 1994",,
+Ahtyba Rubin,Iowa State,3,11424,6,DT,"Jul 25, 1986",2008,190
+Richard Sherman,Stanford,5,14086,5,CB,"Mar 30, 1988",2011,154
+Terence Garvin,West Virginia,7,16457,,LB,"Jan 1, 1991",,
+Cassius Marsh,UCLA,4,16873,4,DE,"Jul 7, 1992",2014,108
+J.D. McKissic,Arkansas State,1,2572861,,RB,"Aug 15, 1993",,
+Kasen Williams,Washington,6,2578394,,WR,"Dec 5, 1992",,
+Mike Davis,South Carolina,7,3025433,4,RB,"Feb 19, 1993",2015,126
+Delano Hill,Michigan,,3045214,3,,"Nov 26, 1995",2017,95
+Jeremy Liggins,Ole Miss,,3115459,,,"Mar 31, 1993",,
+Cyril Grayson Jr.,LSU,3,4217370,,WR,"Dec 5, 1993",,
+Cliff Avril,Purdue,,11326,3,,"Apr 8, 1986",2008,92
+Demetrius McCray,Appalachian State,,16005,7,,"May 11, 1991",2013,210
+Garrison Smith,Georgia,3,17253,,DT,"Oct 9, 1991",,
+Greg Milhouse,Campbell,,2973670,,,"Jul 15, 1994",,
+Shaquill Griffin,UCF,6,3054026,3,CB,"Jul 20, 1995",2017,90
+Mike Tyson,Cincinnati,4,3056913,6,CB,"Jul 27, 1993",2017,187
+Tylor Harris,Wake Forest,,2970130,,,"Feb 16, 1994",,
+Tre Madden,USC,8,2577245,,FB,"Aug 16, 1993",,
+Paul Richardson,Colorado,0,16781,2,WR,"Apr 13, 1992",2014,45
+David Moore,East Central,3,4212909,7,WR,"Jan 15, 1995",2017,226
+Tyrone Swoopes,Texas,6,3046705,,TE,"Nov 14, 1994",,
+Tanner McEvoy,Wisconsin,9,2577684,,WR,"Jan 26, 1993",,
+Marcus Lucas,Missouri,6,17382,,TE,"Mar 1, 1992",,
+Alex Collins,Arkansas,4,3046409,5,RB,"Aug 26, 1994",2016,171
+C.J. Prosise,Notre Dame,2,2980148,3,RB,"May 20, 1994",2016,90
+Kenny Lawler,California,,2978201,7,,"Jun 25, 1994",2016,243
+Chris Carson,Oklahoma State,2,3919596,7,RB,"Sep 16, 1994",2017,249
+Blair Walsh,Georgia,,15058,6,,"Jan 8, 1990",2012,175
+Trevone Boykin,TCU,2,2575910,,QB,"Aug 22, 1993",,
+Austin Davis,Southern Mississippi,6,15187,,QB,"Jun 2, 1989",,
+Eddie Lacy,Alabama,,15848,2,,"Jun 2, 1990",2013,61
+Russell Wilson,Wisconsin,3,14881,3,QB,"Nov 29, 1988",2012,75
+Thomas Rawls,Central Michigan,0,2576237,,RB,"Aug 3, 1993",,
+Jon Ryan,University of Regina,,10238,,,"Nov 26, 1981",,
+Earl Thomas,Texas,,13251,1,,"May 7, 1989",2010,14
+Tramaine Brock,Belhaven University,2,13681,,CB,"Aug 20, 1988",,
+Marcus Cromartie,Wisconsin,,16054,,,"Dec 3, 1990",,
+Michael Bennett,Texas A&M,7,12762,,DE,"Nov 13, 1985",,
+Marcus Smith II,Louisville,,16712,1,,"Mar 31, 1992",2014,26
+Tyler Ott,Harvard,9,17378,,LS,"Feb 28, 1992",,
+Mike Morgan,USC,,14292,,,"Jan 16, 1988",,
+Jeremy Lane,Northwestern State,,15087,6,,"Jul 14, 1990",2012,172
+Doug Baldwin,Stanford,9,14221,,WR,"Sep 21, 1988",,
+Nick Vannett,Ohio State,1,2576399,3,TE,"Mar 6, 1993",2016,94
+Jermaine Kearse,Washington,0,15428,,WR,"Feb 6, 1990",,
+Steve Donatell,Western Kentucky,,2970133,,,"Mar 5, 1994",,
+Darreus Rogers,USC,,2971617,,,"Sep 3, 1993",,
+Amara Darboh,Michigan,2,2977629,3,WR,"Feb 1, 1994",2017,106
+Frank Clark,Michigan,5,2576242,2,DE,"Jun 14, 1993",2015,63
+Quinton Jefferson,Maryland,9,2577078,5,DT,"Mar 31, 1993",2016,147
+Rodney Butler,New Mexico State,,3053997,,,,,
+Jimmy Graham,Miami,0,13232,3,TE,"Nov 24, 1986",2010,95
+D.J. Alexander,Oregon State,7,3001171,5,LB,"Sep 30, 1991",2015,172
+Rodney Smith,Florida State,,16373,,,"Mar 11, 1990",,
+Sheldon Richardson,Missouri,3,15811,1,DT,"Nov 29, 1990",2013,13
+Justin Coleman,Tennessee,8,2577707,,CB,"Mar 27, 1993",,
+Justin Britt,Missouri,,16742,2,,"May 29, 1991",2014,64
+Tyler Lockett,Kansas State,6,2577327,3,WR,"Sep 28, 1992",2015,69
+Luke Willson,Rice,2,16121,5,TE,"Jan 15, 1990",2013,158
+Branden Jackson,Texas Tech,3,2577642,,DE,"Nov 11, 1992",,
+Dwight Freeney,Syracuse,,3539,1,,"Feb 19, 1980",2002,11
+Dion Jordan,Oregon,5,15800,1,DE,"Mar 5, 1990",2013,3
+Byron Maxwell,Clemson,1,14133,6,CB,"Feb 23, 1988",2011,173
+Luke Joeckel,Texas A&M,,15796,1,,"Nov 6, 1991",2013,2
+Paul Dawson,TCU,7,2971555,3,LB,"Jan 13, 1993",2015,99
+DeShawn Shead,Portland State,6,15419,,CB,"Jun 28, 1989",,
+Nigel Harris,South Florida,2,3051368,,LB,"Dec 7, 1994",,
+Randall Evans,Kansas State,,2512151,6,,"Dec 26, 1991",2015,196
+Adrian Phillips,Texas,,17487,,,"Mar 28, 1992",,
+Michael Davis,BYU,3,3053795,,CB,"Jan 6, 1995",,
+Ryan Carrethers,Arkansas State,,16851,5,,"Feb 26, 1991",2014,165
+Rayshawn Jenkins,Miami,,2969961,4,,"Jan 25, 1994",2017,113
+Isaac Rochell,Notre Dame,8,3052894,7,DE,"Apr 22, 1995",2017,225
+Dexter McCoil,Tulsa,,2470860,,,"Sep 5, 1991",,
+Desmond King,Iowa,0,3040145,5,CB,"Dec 14, 1994",2017,151
+Korey Toomer,Idaho,9,15112,5,LB,"Dec 9, 1988",2012,154
+Nick Dzubnar,Cal Poly,8,2518789,,LB,"Aug 15, 1991",,
+Melvin Ingram,South Carolina,4,14926,1,DE,"Apr 26, 1989",2012,18
+Ryan Reid,Baylor,,2978943,,,"May 24, 1994",,
+Trevor Williams,Penn State,4,2979605,,CB,"Sep 15, 1993",,
+Joey Bosa,Ohio State,9,3051389,1,DE,"Jul 11, 1995",2016,3
+Damion Square,Alabama,1,16231,,NT,"Feb 6, 1989",,
+Caraun Reid,Princeton,,16853,5,,"Nov 23, 1991",2014,158
+Tre Boston,North Carolina,,16877,4,,"Jun 25, 1992",2014,128
+Chris McCain,California,6,17430,,DE,"Nov 21, 1991",,
+Jatavis Brown,Akron,7,2971929,5,LB,"Feb 18, 1994",2016,175
+Joshua Perry,Ohio State,,2976306,4,,"Apr 26, 1994",2016,102
+James Onwualu,Notre Dame,9,3052889,,LB,"Sep 4, 1994",,
+Brandon Stewart,Kansas,,3892783,,,"Jan 29, 1994",,
+Tenny Palepoi,Utah,,17024,,,"Dec 19, 1990",,
+Kellen Clemens,Oregon,,9635,2,,"Jun 6, 1983",2006,49
+Kyle Emanuel,North Dakota State,1,2508212,5,LB,"Aug 16, 1991",2015,153
+Dan Feeney,Indiana,,2979482,3,,"May 29, 1994",2017,71
+Austin Ekeler,Western State,0,3068267,,RB,"May 17, 1995",,
+Brandon Mebane,California,2,10529,3,NT,"Jan 15, 1985",2007,85
+Kaleb Eulls,Mississippi State,6,2516320,,DT,"Jun 28, 1991",,
+Travis Benjamin,Miami,2,15062,4,WR,"Dec 29, 1989",2012,100
+Da'Ron Brown,Northern Illinois,,2513351,7,,"Sep 21, 1991",2015,233
+Matt Weiser,Buffalo,,2574404,,,"Oct 7, 1992",,
+Sean Culkin,Missouri,0,2971426,,TE,"Jun 11, 1993",,
+Hunter Henry,Arkansas,6,3046439,2,TE,"Dec 7, 1994",2016,35
+Branden Oliver,Buffalo,0,17452,,RB,"May 7, 1991",,
+Isaiah Burse,Fresno State,,16972,,,"Dec 8, 1991",,
+Jamaal Jones,Montana,5,3045565,,WR,"Jan 31, 1993",,
+Antonio Gates,Kent State,,5362,,,"Jun 18, 1980",,
+Mitchell Paige,Indiana,,2979495,,,"Jul 19, 1993",,
+Andre Williams,Boston ,,16889,4,,"Aug 28, 1992",2014,113
+Tyrell Williams,Western Oregon,6,2587819,,WR,"Feb 12, 1992",,
+Artavis Scott,Clemson,0,3122839,,WR,"Dec 12, 1994",,
+Josh Lambo,Texas A&M,4,2998120,,PK,"Nov 19, 1990",,
+Younghoe Koo,Georgia Southern,,3049899,,,"Aug 3, 1994",,
+Cardale Jones,Ohio State,7,2976299,4,QB,"Sep 29, 1992",2016,139
+Kenneth Farrow,Houston,7,2575553,,RB,"Mar 7, 1993",,
+Melvin Gordon,Wisconsin,8,2576434,1,RB,"Apr 13, 1993",2015,15
+Mike Bercovici,Arizona State,,2576822,,,"Feb 9, 1993",,
+Drew Kaser,Texas A&M,,2578698,6,,"Feb 11, 1993",2016,179
+Toby Baker,Arkansas,,3046424,,,"Sep 18, 1993",,
+Philip Rivers,NC State,7,5529,1,QB,"Dec 8, 1981",2004,4
+Darius Philon,Arkansas,3,2980071,6,DE,"Jan 22, 1994",2015,192
+Jahleel Addae,Central Michigan,,16039,,,"Jan 24, 1990",,
+Geremy Davis,UConn,1,2513030,6,WR,"Jan 10, 1992",2015,186
+Kyle Coleman,Arkansas-Pine Bluff,6,2572846,,LB,"Sep 30, 1993",,
+Brad Watson,Wake Forest,,3039771,,,"Aug 20, 1995",,
+Corey Liuget,Illinois,4,13989,1,DT,"Mar 18, 1990",2011,18
+Keenan Allen,California,3,15818,3,WR,"Apr 27, 1992",2013,76
+Dontrelle Inman,Virginia,,14269,,,"Jan 31, 1989",,
+Kenjon Barner,Oregon,8,15921,6,RB,"Apr 28, 1990",2013,182
+Dwight Lowery,San Jose State,,11347,4,,"Jan 23, 1986",2008,113
+Craig Mager,Texas State,9,2510713,3,CB,"Jun 11, 1992",2015,83
+Kenny Wiggins,Fresno State,,14460,,,"Aug 8, 1988",,
+Jason Verrett,TCU,2,16726,1,CB,"Jun 18, 1991",2014,25
+Andre Patton,Rutgers,5,3047504,,WR,"May 28, 1994",,
+Whitney Richardson,Lane  Dragons,0,4255255,,DE,"Jul 26, 1992",,
+Cameron Posey,Purdue,,2977776,,,"Oct 27, 1993",,
+Mike Estes,Gardner-Webb,,2987239,,,,,
+Hayes Pullard,USC,0,2510601,7,LB,"Apr 18, 1992",2015,219
+Casey Hayward,Vanderbilt,6,14966,2,CB,"Sep 9, 1989",2012,62
+Derek Watt,Wisconsin,4,2576450,6,FB,"Nov 7, 1992",2016,198
+Sean McGrath,None,5,15515,,TE,"Dec 3, 1987",,
+Nick Novak,Maryland,,9329,,,"Aug 21, 1981",,
+Spencer Pulley,Vanderbilt,,2577792,,,"Apr 4, 1993",,
+Mike Williams,Clemson,1,3045138,1,WR,"Oct 4, 1994",2017,7
+Jeremiah Attaochu,Georgia Tech,2,16761,2,DE,"Jan 17, 1993",2014,50
+Denzel Perryman,Miami,2,2579621,2,LB,"Dec 5, 1992",2015,48
+Jeff Cumberland,Illinois,,13555,,,"May 2, 1987",,
+Travis Coons,Washington,,17130,,,"Feb 6, 1992",,
+Mike Windt,Cincinnati,7,13777,,LS,"May 29, 1986",,
+Nick Rose,Texas,6,2971728,,PK,"May 5, 1994",,

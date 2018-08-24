@@ -17,6 +17,13 @@ class Player(object):
             for line in stats[stat]:
                 self.addStat(stat, line)
 
+    def toDict(self): 
+        return {
+            "id": self.id,
+            "name": self.name,
+            "position": self.position,
+        }
+
     def listStats(self): 
         return self.stats;
         

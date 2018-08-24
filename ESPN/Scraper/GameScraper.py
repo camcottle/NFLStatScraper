@@ -1,8 +1,9 @@
 import urllib.request
 from bs4 import BeautifulSoup
 import re
+import time
 
-class Game(object):
+class GameScraper(object):
 
     def __init__(self, game_id):
         self.game_id = game_id
@@ -59,7 +60,6 @@ class Game(object):
                 if stat_column == 'name':
                     if data.a:
                         link = data.a.get("href")
-                    print(link)
                     player["id"]   = re.search('[0-9]{1,7}', link).group(0)
                     player["name"] = data.span.get_text()
 
@@ -96,4 +96,10 @@ class Game(object):
 
     def sendRequest(self):
         path = "http://www.espn.com/nfl/boxscore?gameId={}"
-        return urllib.request.urlopen(path.format(self.game_id)).read();
+        try: 
+            page = urllib.request.urlopen(path.format(self.game_id)).read();
+        except (http.client.IncompleteRead, HTTPError) as e:
+            time.sleep(10)
+            print("unable to read, trying again")
+            page = urllib.request.urlopen(path.format(self.game_id)).read();
+        return page

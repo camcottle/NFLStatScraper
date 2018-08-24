@@ -4,5 +4,5 @@ unidd/
 teams/
 *.pyo
 *.pyc
-__pycache__/
+*__pycache__/
 seasons

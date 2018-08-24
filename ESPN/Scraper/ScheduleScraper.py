@@ -1,9 +1,10 @@
 import urllib.request
 from bs4 import BeautifulSoup
 import re
+import time
 
 
-class Schedule(object):
+class ScheduleScraper(object):
 
     def __init__(self, year):
         self.year = year
@@ -55,6 +56,8 @@ class Schedule(object):
                 continue
             for game in schedule[0].find_all('tr'):
                 current_game = {}
+                if len(game.find_all("td")) == 1:
+                    continue
                 for idx, column in enumerate(game.find_all("td")):
                     if idx == 0:
                         team = column.find_all('abbr')[0]
@@ -89,4 +92,11 @@ class Schedule(object):
 
     def sendRequest(self, week=1, seasontype=2):
         path = self.path.format(week, self.year, seasontype)
-        return urllib.request.urlopen(self.host + path).read();
+        try:
+            page = urllib.request.urlopen(self.host + path).read()
+        except (http.client.IncompleteRead, HTTPError) as e:
+            time.sleep(10)
+            print("unable to read, trying again")
+            page = urllib.request.urlopen(self.host + path).read()
+
+        return page

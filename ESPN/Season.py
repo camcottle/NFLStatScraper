@@ -1,4 +1,5 @@
 from .Team import Team
+from .Game import Game
 
 
 class Season(object):
@@ -11,15 +12,8 @@ class Season(object):
     def addTeam(self, team):
         self.teams.append(Team(**team))
 
-    def addGame (self, **kwargs):
-        self.games.append({
-            "id": kwargs.get('id', 0),
-            "home": kwargs.get('home', None),
-            "away": kwargs.get('away', None),
-            "week": kwargs.get("week", 0),
-            "season_type": kwargs.get('season_type', 2),
-            "result": kwargs.get('result', None)
-        })
+    def addGame (self, game):
+        self.games.append(Game(**game))
 
     def listTeams(self):
         return self.teams

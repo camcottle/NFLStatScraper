@@ -1,8 +1,8 @@
+from .Game   import Game
 from .Player import Player
 from .Team   import Team
 from .Season import Season
 
-from .Scraper import Game
-from .Scraper import Schedule
-# from Scraper. import Schedule
-# from .PlayerScraper   import PlayerScraper
+from .Scraper import GameScraper
+from .Scraper import ScheduleScraper
+from .Scraper import PlayerScraper
