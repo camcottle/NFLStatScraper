@@ -3,28 +3,10 @@ import csv
 import os
 import time
 
-class Scraper(object):
+class SeasonScraper(object):
 
-    def __init__(self):
-        self.years = [
-            "2017", 
-            "2016", 
-            "2015", 
-            "2014", 
-            "2013", 
-            "2012", 
-            "2011",
-            "2010", 
-            "2009", 
-            "2008", 
-            "2007", 
-            "2006", 
-            "2005", 
-            "2004", 
-            "2003", 
-            "2002", 
-            "2001",  
-        ]
+    def __init__(self, years=[]):
+        self.years   = years
         self.current = 0
         self.games   = []
         self.player_ids = set()
@@ -54,53 +36,87 @@ class Scraper(object):
             game_obj = ESPN.Game(**game)
             self.games.append(game_obj)
 
-        # season = ESPN.season({"year": year})
 
-        # for team in schedule.teams:
-        #     if not season.hasTeam(team['abbr']):
-        #         season.addTeam(team)
+class GameScraper(object):
 
-        # for game in schedule.games:
-        #     season.addGame(game)
-        #     self.append(game)
+    def __init__(self, games=[]):
+        self.games   = games 
+        self.current = 0
+        self.players = []
+        self.stats   = {}
 
+    def hasGames(self):
+        if self.current < len(self.games):
+            return True
 
-        # for game in season.listGames():
-        #     game_dict = game.toDict();
-        #     home_game = ESPN.GameScraper(game_dict['id'])
-        #     home_game.scrape()
+        return False
 
-        #     for stats in home_game.getHomeTeam():
-        #         player = stats
-        #         if not season.getTeam(game_dict['home']).hasPlayer(player):
-        #             season.getTeam(game_dict['home']).addPlayer({
-        #                 "name": player['name'],
-        #                 "id": player['id'],
-        #             })
-        #         season.getTeam(game_dict['home']).getPlayer(player['id']).addStat(player['stat_type'], player['stat'])
+    def next(self):
+        if self.hasGames():
+            self.current = self.current + 1
+            return
 
-        #     for stats in home_game.getAwayTeam():
-        #         player = stats
-        #         if not season.getTeam(game_dict['away']).hasPlayer(player):
-        #             season.getTeam(game_dict['away']).addPlayer({
-        #                 "name": player['name'],
-        #                 "id": player['id'],
-        #             })
-        #         season.getTeam(game_dict['away']).getPlayer(player['id']).addStat(player['stat_type'], player['stat'])
-
-    # def scrapePlayers(): 
-
-        # for index, team in enumerate(season.listTeams()):
-        #     for player in team.listPlayers():
-        #         os.system('clear')
-        #         print('Team: {}    [{}/{}]'.format(team.name, index+1, len(season.listTeams())))
-        #         print("Current Player: {}".format(player.name))
-        #         scraper = ESPN.PlayerScraper(player.id)
-        #         player_details = scraper.scrape()
-        #         players.append(player_details)
+        return False
 
 
-scraper = Scraper()
+    def scrape(self):
+        game_id = self.games[self.current]
+        game    = ESPN.GameScraper(game_id)
+        game.scrape()
+
+        for stats in game.getHomeTeam():
+            
+            if not stats['stat_type'] in self.stats:
+                self.stats[stats['stat_type']] = []
+
+            stat = {**stats['stat'], 'player_id': stats['id'], 'home': 1}
+            self.stats[stats['stat_type']].append(stat)
+
+
+        for stats in game.getAwayTeam():
+            
+            if not stats['stat_type'] in self.stats:
+                self.stats[stats['stat_type']] = []
+
+            stat = {**stats['stat'], 'player_id': stats['id'], 'home': 0}
+            self.stats[stats['stat_type']].append(stat)
+
+            # if not season.getTeam(game_dict['home']).hasPlayer(player):
+            #     season.getTeam(game_dict['home']).addPlayer({
+            #         "name": player['name'],
+            #         "id": player['id'],
+            #     })
+            # season.getTeam(game_dict['home']).getPlayer(player['id']).addStat(player['stat_type'], player['stat'])
+
+        # for stats in home_game.getAwayTeam():
+        #     player = stats
+        #     if not season.getTeam(game_dict['away']).hasPlayer(player):
+        #         season.getTeam(game_dict['away']).addPlayer({
+        #             "name": player['name'],
+        #             "id": player['id'],
+        #         })
+        #     season.getTeam(game_dict['away']).getPlayer(player['id']).addStat(player['stat_type'], player['stat'])
+
+
+scraper = SeasonScraper([
+    "2017", 
+    "2016", 
+    "2015", 
+    "2014", 
+    "2013", 
+    "2012", 
+    "2011",
+    "2010", 
+    "2009", 
+    "2008", 
+    "2007", 
+    "2006", 
+    "2005", 
+    "2004", 
+    "2003", 
+    "2002", 
+    "2001",  
+])
 while scraper.hasSeasons():
     print(scraper.years[scraper.current])
     scraper.scrapeSeason()
@@ -118,10 +134,41 @@ with open('games.csv', 'w', newline="") as file:
     writer.writeheader()
     writer.writerows(games)
 
+games = set()
+for game in scraper.games:
+    games.add(game.id)
 
+game_scraper = GameScraper(list(games));
+while game_scraper.hasGames():
+    os.system('clear')
+    print("{} of {}".format(game_scraper.current, len(games)))
+    game_scraper.scrape()
+    game_scraper.next()
 
+for stat_type in game_scraper.stats:
+    with open(stat_type + '.csv', 'w', newline="") as file:
 
+        if stat_type == 'defensive':
+            keys = ['game_id','player_id','home','solo','pd','tfl','sacks','tot',"td",'qb']
+        if stat_type == "fumbles":
+            keys = ['game_id', 'player_id', 'home', 'lost', 'rec', 'fum']
+        if stat_type == 'interceptions':
+            keys = ['game_id','player_id','home','int','yds','td']
+        if stat_type == 'kicking':
+            keys = ['game_id','player_id','home','fg','pts','pct','long','xp']
+        if stat_type == 'passing':
+            keys = ['game_id','player_id','home','rtg','int','avg','yds','sacks','td','c-att']
+        if stat_type == 'punting':
+            keys = ['game_id','player_id','home','long','no','avg','in','yds','tb']
+        if stat_type == 'receiving':
+            keys = ['game_id','player_id','home','long','avg','rec','yds','td','tgts']
+        if stat_type == "rushing":
+            keys = ['game_id','player_id','home','long','avg','car','yds','td']
 
+        writer = csv.DictWriter(file, keys)
+
+        writer.writeheader()
+        writer.writerows(game_scraper.stats[stat_type])
 
 
 
